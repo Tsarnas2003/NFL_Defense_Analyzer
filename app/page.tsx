@@ -3,9 +3,18 @@
 
 import{useState} from "react";
 
+function parseAnalysis(text: string) {
+  const coverage = text.match(/COVERAGE:\s*(.+)/)?.[1]?.trim() ?? "Unknown"
+  const confidence = text.match(/CONFIDENCE:\s*(.+)/)?.[1]?.trim() ?? "Unknown"
+  const reasoning = text.match(/REASONING:\s*([\s\S]+)/)?.[1]?.trim() ?? "Unknown"
 
+  return { coverage, confidence, reasoning }
+}
 export default function Home() {
   const [image, setImage] = useState<string | null>(null);
+  const[analysis, setAnalysis] = useState<string | null>(null);
+  const[loading, setLoading] = useState(false);
+
   const handleImageUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if(!file) return;
@@ -13,9 +22,35 @@ export default function Home() {
     const reader = new FileReader();
     reader.onload = () => {
       setImage(reader.result as string);
-    };
+      setAnalysis(null);
+
+    }
     reader.readAsDataURL(file);
-  };  
+  }  
+
+  const analyzeImage = async () => {
+    if(!image) return
+
+    setLoading(true)
+    try{
+      const response = await fetch("/api/analyze",{
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({image}),
+
+      })
+      const data = await response.json()
+      console.log("API RESPONSE:", data)
+      setAnalysis(data.analysis)
+
+    }catch(error){
+      console.error("Something went wrong. Please try again.")
+      setAnalysis("Error analyzing the image. Please try again.")
+      
+    }finally{
+      setLoading(false)
+    }
+  }
 
   return (
     <main className="min-h-screen bg-gray-950 text-white flex flex-col items-center justify-center p-8">
@@ -35,6 +70,35 @@ export default function Home() {
           <p className="text-gray-400">Drop an image here or click to upload</p>
         )}
       </label>
+      {image && (
+        <button
+          onClick = {analyzeImage}
+          className= "bg-red-600 hover:bg-red-700 disabled:bg-gray-600 text-white font-bold py-3 px-8 rounded-lg transition-colors mb-8"
+          >
+            {loading ? "Analyzing..." : "Analyze Coverage"}
+          </button>
+      )}
+      {analysis && (() => {
+  const { coverage, confidence, reasoning } = parseAnalysis(analysis)
+  return (
+    <div className="bg-gray-900 border border-gray-700 rounded-xl p-6 max-w-lg w-full mt-6">
+      <div className="flex justify-between items-center mb-6">
+        <div>
+          <p className="text-gray-400 text-sm uppercase tracking-wider mb-1">Coverage</p>
+          <p className="text-2xl font-bold text-white">{coverage}</p>
+        </div>
+        <div className="text-right">
+          <p className="text-gray-400 text-sm uppercase tracking-wider mb-1">Confidence</p>
+          <p className="text-2xl font-bold text-red-500">{confidence}</p>
+        </div>
+      </div>
+      <div>
+        <p className="text-gray-400 text-sm uppercase tracking-wider mb-2">Reasoning</p>
+        <p className="text-gray-300 leading-relaxed">{reasoning}</p>
+      </div>
+    </div>
+  )
+})()}
     </main>
   )
 }
