@@ -12,7 +12,7 @@ export async function POST(request: Request){
     const response = await client.messages.create({
         model: "claude-sonnet-4-20250514",
         max_tokens: 1024,
-        temperature: 0,
+        temperature: 0.2,
         messages: [
             {
             role: "user",
@@ -28,86 +28,124 @@ export async function POST(request: Request){
             },
             {
                 type: "text",
-                text: `You are an expert NFL defensive coordiator analyzing pre-snap defensive formations.
+                text: `You are an expert NFL defensive coordiator analyzing pre-snap defensive  shell formations.
                 
-                Analyze this pre-snap image and identify the defensive coveraege.
-                DO NOT default to zone coverage defenses in the NFL play man coverage a good amount.
-                Analyze the field in levels using the yardlines as a reference for positon on the field as well as the line of scrimmage. 
-                Analyze the fied using sidelines and where the ball is placed as a reference for the middle of the field.
-                Analyze where the short side of the field is as which side is the wide side of the field and where the defense uses position for the each side.
-                If defense on the right side of image start reading from right side of image(deep coverage) to the left side(line of scrimmage) and then anaylze the left side of the image starting from the left side of the image (deep coverage) to the line of scrimmage.
-                If defense on the left side of image start reading from left side of image(deep coverage) to right side of image (line of scrimmage) and then analyze the right side of the image starting from the right side of the image (deep coverage) to the line of scrimmage.
-
-                IMPORTANT: DO NOT GROUP CORNERBACKS TOGETHER AS A UNIT. ANALYZE EACH CORNERBACK INDIVIDUALLY AND MAKE IT KNOWN IN YOUR REASONING.
-                
-                Step 1 - Count safeties and determine base coverage:
-                If a defensive player is lineed up outside of the wide receivers and is deeper than linebacks do not always count as safety.
-                - 0 safeties deep = COVER 0 (man, no help)
-                - 1 safety deep centered = Cover 1 or Cover 3
-                - 1 safety deep offset = could be Cover 3 or Cover 1 depending on corners
-                - 2 Safties 1 deeper than the other = look at the aligment compared to the dashed lines. 
-                    If one safety is deeper and lined up inside the dashed lines while the other safety is lower and not in the dashed lines then likely cover 3. 
-                - 2 safeties split evenly deep = COVER 2 (zone) or 2 MAN (man)
-                - 2 safeties deep + corners bailing = COVER 2 zone
-                - 2 safeties deep + corners pressed on receivers = 2 MAN
-                - 4 defenders deep = COVER 4
-                -
-                
-                Step 2 - Carefully observe every visible defender's body language:
-                - Do not group cornerbacks together as a unit. Analyze each cornerback individually and look for specific indicators of zone or man
-                - Which direction are cornerbacks FACING? Facing the receiver = man. Facing the QB = zone.
-                - Are corners within 1-2 yards of receivers (pressed)? = strong man indicator
-                - Are corners giving 3-5 yards of cushion and turned toward the QB = strong zone indicator
-                - Are corners giving 5+ yards of cushion AND facing QB? = zone indicator
-                - Are safeties rotated to one side or walked down near line? = man indicator
-                - Are defenders mirroring receiver splits? = man indicator
-
-                 
-
-                Step 3 - Distinguish man from zone using corner body position:
-                ZONE indicators: (Always move top down starting at safeties, then move to corners, laslty linebackers)
-                - Corners face the quarterback
-                - Corners give cushion (5+ yards)
-                - One safety deeper than the other safety and is lined up inside the dashed lines while the other safety is lower and not in the dashed lines.
-                - Corners backpedal on snap
-                - Defenders in generic spacing not tied to specific receivers
-                - If not receiever line up in front of corner then likely more to turn their body towards the quarterback
-                - Safteies facing the QB not Widerecievers or tight ends = zone indicator
-
-                MAN indicators:
-                - Corners face their assigned receiver
-                - linebackers or safeties lined up over tight ends and running backs
-                - Corners pressed (1-3 yards) OR off but turned toward receiver
-                - Safety rotated or walked down
-                - Each defender clearly attached to a specific offensive player
-
-                Indicators of Both:
-                - Two corners pressed on receivers facing wide recivers = Look at saftey depths and linebacker positions to determine if man or zone(cover 2 or 2 man)
+IMPORTANT: This is a diagonal sideline view. Depth is compressed. Do not anchor to the first indicator you see. You must consider ALL evidence before making a call.
 
 
 
-                Step 4 - Assign confidence honestly:
-                - 90-97%: Textbook formation, no ambiguity whatsoever
-                - 75-89%: Strong indicators but one element is unclear
-                - 60-74%: Could be two coverages, going with most likely
-                - 45-59%: Genuinely ambiguous, disguised or hard to read
-                - NEVER default to 82% or 85% — pick a number that reflects real certainty
+PRE-ANALYSIS - Before anything else, describe exactly what you see:
+List every visible defender from deep to shallow:
+- Player 1: [position on field, depth, body position, thirds aligment from before]
+- Player 2: [position on field, depth, body position, thirds aligment from before]   
+Do this for all players you can see, even if you are not sure of their position. This is just a description of what you see, not an analysis yet.
+Include these lists in your final reasoning. Do not skip this step. It is critical to the analysis.
+Continue for every visible defender.
+- IMPORTANT: The hashmarks are the 5 yard marks in the middle of the field. Do not group players inside the hashmarks unless they are clealry between or near the hashmarks. 
 
-                Step 5 - Before finalizing your answer ask yourself:
-                - Have I considered man coverage seriously?
-                - Is my confidence number genuinely specific to this image?
-                - Would a different coverage fit the indicators equally well?
-                
-                Important: Do NOT default to 85% or 78% Have a specific confidence level for each analysis. Most coverages will fall between 60-95% confidence. 
-                Important: DO NOT default to cover 2. Fully understand and see the indicators for all the players on the field.
-        
-                
-                Return your response in this exact format:
-                COVERAGE: [coverage type (man coverage or zone if zone specify type of zone coverage like cover 2, cover 3, cover 4, etc)]
-                CONFIDENCE: [percentage confidence in your analysis based on the clarity of the image and the distinctiveness of the defensive alignment]
-                REASONING Cornerbacks: [1-2 sentences explaining what you see and what your analysis is for the cornerbacks],
-                REASONING Safeties: [1-2 sentences explaining what you see and what your analysis is for the safeties],
-                REASONING Linebackers: [1-2 sentencs explaining what you see and what your analysis is for the linebackers ]`,
+PATTERN RECOGNITION (DO THIS FIRST):
+
+Identify which of these patterns best matches the defense:
+
+- Cover 2 Pattern:
+  • Two deep defenders split left/right
+  • Corners shallow (0–5 yards), outside leverage, eyes inside
+
+- Cover 3 Pattern:
+  • One deep middle defender
+  • Two outside defenders deeper (8–12 yards) aligned over WRs
+
+- Cover 4 Pattern:
+  • Four defenders deep (corners + safeties all deep)
+  • Corners aligned 7–10 yards off
+
+- Cover 1 Pattern:
+  • One deep safety
+  • Corners tight to receivers (man alignment)
+
+
+STEP 1 - COUNT SAFETIES:
+From your pre-analysis list, identify players clearly between the hash marks and 10+ yards deep.
+- Remember this is a compressed diagonal view.
+- A player near the sideline is a corner not a safety regardless of depth.
+- Safeties are the deepest defenders, typically aligned between the numbers, not strictly between the hashes.
+- If you see one safety do not autmatically assume a 1 high look. You need to analzye the entire field and all players before making that call.
+- Go back to your descriptions of the players who have similar postions, if the depths for each player who is a safety are not witin 0-5 yards understand that the defense
+    could be in 1 high look. If the players depths are within 0-5 yards understand the defense could be in a 2 high look.
+ - What is the most likely safety shell (1-high or 2-high), based on deepest defenders and their spacing
+
+
+
+STEP 2 - ANALYZE EACH CORNER INDIVIDUALLY:
+For each visible cornerback state separately:
+Top corner (horizontal image use top and bottom instead of left and right:
+- Depth from line of scrimmage are they shallow (0-5 yeards), mid (5-10 yards), or deep (10+ yards)
+- Use the hashes on the field as a reference point for depth, each has is one yard.
+- Which direction is their helmet facing
+- Distance from nearest receiver
+- Zone or man indicator and why
+- Inside or outside leverage and why compared to the nearest receiver and compared to the safeties
+- 
+
+Bottom corner (horizontal image use top and bottom instead of left and right):
+- Depth from line of scrimmage are they shallow (0-5 yeards), mid (5-10 yards), or deep (10+ yards)
+- Use the hashes on the field as a reference point for depth, each has is one yard.
+- Which direction is their helmet facing
+- Distance from nearest receiver
+- Zone or man indicator and why
+- Inside or outside leverage and why compared to the nearest receiver and compared to the safeties
+
+Linebackers:
+- Depthon from line of scrimmage
+- Which direction is their helmet facing
+- How are they aligned comapared to tight ends, running backs, and slot receivers.
+
+
+STEP 3 - BUILD THE CASE FOR AND AGAINST EACH COVERAGE:
+Based on your pre-analysis, list evidence FOR and AGAINST the two most likely coverages.
+If corners are clearly:
+-Shallow + outside leverage + eyes inside → strongly favor Cover 2
+-EVEN IF safety count appears ambiguous
+
+Cover 3 requires:
+-One deep middle safety
+-BOTH corners bailing or aligned deep outside
+-If either is missing → do NOT default to Cover 3
+
+
+Most likely coverage A: [name]
+Evidence FOR: [list specific things you see]
+Evidence AGAINST: [list specific things that contradict this]
+
+Most likely coverage B: [name]
+Evidence FOR: [list specific things you see]
+Evidence AGAINST: [list specific things that contradict this]
+
+STEP 4 - WEIGH THE EVIDENCE:
+Which coverage has stronger evidence? 
+Are there any indicators strong enough to override the others?
+One pressed corner facing a receiver does NOT automatically mean man coverage.
+One deep player does NOT automatically mean two safeties.
+Weigh ALL indicators together not individually.
+Does the defensive alignment as whole make sense for how the offense is lineed up?
+
+STEP 5 - MAKE YOUR CALL:
+Only after completing Steps 1-4 make your final coverage call.
+
+Assign confidence based on how decisive the evidence was:
+- 90-97%: Evidence strongly favored one coverage with almost no conflicting indicators
+- 75-89%: Evidence favored one coverage but some conflicting indicators exist
+- 60-74%: Evidence was mixed, going with most likely but not confident
+- 45-59%: Evidence was genuinely ambiguous, could be multiple coverages
+- If you cannot see corner body position clearly → maximum 60% confidence
+
+
+Return ONLY this format:
+COVERAGE: [specific coverage type]
+CONFIDENCE: [percentage]
+REASONING Cornerbacks: [what you saw for each corner individually and how it influenced your call( Include your pre-analysis for each corner in this section as well)]
+REASONING Safeties: [what you saw and how it influenced your call (Inlcyude your pre-analysis for each safety in this section as well)]
+REASONING Linebackers: [what you saw and how it influenced your call (Include your pre-analysis for each linebacker in this section as well)]`,
         
 
             
