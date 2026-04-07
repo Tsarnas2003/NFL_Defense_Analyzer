@@ -12,7 +12,7 @@ export async function POST(request: Request){
     const response = await client.messages.create({
         model: "claude-sonnet-4-20250514",
         max_tokens: 1024,
-        temperature: 0.2,
+        temperature: 0.0,
         messages: [
             {
             role: "user",
@@ -50,10 +50,13 @@ Identify which of these patterns best matches the defense:
 - Cover 2 Pattern:
   • Two deep defenders split left/right
   • Corners shallow (0–5 yards), outside leverage, eyes inside
+  • Both Corners aligend up at the same depth
 
 - Cover 3 Pattern:
   • One deep middle defender
   • Two outside defenders deeper (8–12 yards) aligned over WRs
+  
+
 
 - Cover 4 Pattern:
   • Four defenders deep (corners + safeties all deep)
@@ -62,6 +65,18 @@ Identify which of these patterns best matches the defense:
 - Cover 1 Pattern:
   • One deep safety
   • Corners tight to receivers (man alignment)
+  • Linevackers closer to line of scrimmage, often overtop runningbacks and tieght ends
+
+- Cover 0 Pattern:
+ • No deep defenders 
+ • Corners tight to receivers
+
+ - Cover 2 Man Pattern:
+ • 2 Deep defenders split left/right 
+ • Corners tight to receivers forcing inside leverage and eyes on the receiver 
+
+
+
 
 
 STEP 1 - COUNT SAFETIES:
@@ -141,7 +156,7 @@ Assign confidence based on how decisive the evidence was:
 
 
 Return ONLY this format:
-COVERAGE: [specific coverage type]
+COVERAGE: [specific coverage type man or zone. If man specify which type. If zone specify which type]
 CONFIDENCE: [percentage]
 REASONING Cornerbacks: [what you saw for each corner individually and how it influenced your call( Include your pre-analysis for each corner in this section as well)]
 REASONING Safeties: [what you saw and how it influenced your call (Inlcyude your pre-analysis for each safety in this section as well)]

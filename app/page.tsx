@@ -2,6 +2,7 @@
 
 
 import{useState} from "react";
+import CoachNotesCard from "./Componets/CoachNote";
 
 function parseAnalysis(text: string) {
   const coverage = text.match(/COVERAGE:\s*(.+)/)?.[1]?.trim() ?? "Unknown"
@@ -85,27 +86,14 @@ export default function Home() {
       {analysis && (() => {
   const { coverage, confidence, reasoningCornerbacks, reasoningSafeties, reasoningLinebackers, confidenceValue, color } = parseAnalysis(analysis)
   return (
-    <div className="bg-gray-900 border border-gray-700 rounded-xl p-6 max-w-lg w-full mt-6">
-      <div className="flex justify-between items-center mb-6">
-        <div>
-          <p className="text-gray-400 text-sm uppercase tracking-wider mb-1">Coverage</p>
-          <p className="text-2xl font-bold text-white">{coverage}</p>
-        </div>
-        <div className="text-right">
-          <p className="text-gray-400 text-sm uppercase tracking-wider mb-1">Confidence</p>
-          <p className={`text-2xl font-bold ${color === "green" ? "text-green-500" : color === "yellow" ? "text-yellow-500" : "text-red-500"}`}>{confidence}</p>
-        </div>
-      </div>
-      <div>
-        <p className="text-2xl font-bold text-white">Reasoning</p>
-         <p className="text-gray-400 text-sm uppercase tracking-wider mb-2">CornerBacks</p>
-            <p className="text-gray-300 leading-relaxed">{reasoningCornerbacks}</p>
-        <p className="text-gray-400 text-sm uppercase tracking-wider mb-2">Safeties</p>
-        <p className="text-gray-300 leading-relaxed">{reasoningSafeties}</p>
-        <p className="text-gray-400 text-sm uppercase tracking-wider mb-2">Linebackers</p>
-        <p className="text-gray-300 leading-relaxed">{reasoningLinebackers}</p>
-      </div>
-    </div>
+    <CoachNotesCard
+      coverage={coverage}
+      color = {color}
+      confidence={confidence}
+      reasoningCornerbacks={reasoningCornerbacks}
+      reasoningSafeties={reasoningSafeties}
+      reasoningLinebackers={reasoningLinebackers}
+    />
   )
 })()}
     </main>
