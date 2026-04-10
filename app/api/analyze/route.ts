@@ -1,12 +1,38 @@
 import Anthropic from "@anthropic-ai/sdk"
 import {NextResponse} from "next/server"
+import fs from "fs"
+import path from "path"
 
 const client = new Anthropic()
 
+
+function loadJsonData(filename: string){
+  const filePath = path.join(process.cwd(), "public", "data", filename)
+  const raw = fs.readFileSync(filePath, "utf-8")
+  return JSON.parse(raw)
+
+}
+
+function parseCoverage(analysisText: string) : string{
+  const match = analysisText.match(/COVERAGE:\s*(.+)/)?.[1]?.trim() ?? ""
+  const lower = match.toLowerCase()
+
+  if(lower.includes("cover 2") && lower.includes("man")) return "2_MAN"
+  if (lower.includes("cover 2")) return "COVER_2"
+  if (lower.includes("cover 3")) return "COVER_3"
+  if (lower.includes("cover 4")) return "COVER_4"
+  if (lower.includes("cover 1")) return "COVER_1"
+  if (lower.includes("cover 0")) return "COVER_0"
+  if (lower.includes("cover 6")) return "COVER_6"
+  return ""
+
+}
+
 export async function POST(request: Request){
-    console.log("KEY EXISTS:", !!process.env.ANTHROPIC_API_KEY)
-    console.log("KEY START:", process.env.ANTHROPIC_API_KEY?.slice(0, 15))
-    const {image} = await request.json()
+    //console.log("KEY EXISTS:", !!process.env.ANTHROPIC_API_KEY)
+    //console.log("KEY START:", process.env.ANTHROPIC_API_KEY?.slice(0, 15))
+     const { image, defensiveTeam, offensiveTeam, season } = await request.json()
+     const base64Image = image.split(",")[1]
 
 
     const response = await client.messages.create({
@@ -22,7 +48,7 @@ export async function POST(request: Request){
                 source:{
                     type: "base64",
                     media_type: "image/jpeg",
-                    data: image.split(",")[1],
+                    data: base64Image,
 
                 },
             },
@@ -173,7 +199,56 @@ REASONING Linebackers: [what you saw and how it influenced your call (Include yo
 
     return NextResponse.json({error: "Unexpected response "}, {status: 500})
     }
-    return NextResponse.json({analysis: result.text})
+    const analysisText = result.text
+    const coverageKey = parseCoverage(analysisText)
+
+    let stats = null
+
+
+    if(defensiveTeam && offensiveTeam && season && coverageKey){
+      try{
+          const tendencies = loadJsonData("defensive_tendencies.json")
+          const qbStats = loadJsonData("qb_stats.json")
+          const wrStats = loadJsonData("wr_stats.json")
+
+
+          const teamTendencies = tendencies[season]?.[defensiveTeam]?? null
+
+          const allQbs = qbStats[season]?? {}
+          const offensiveQBStats: Record<string,any> = {}
+          for (const [player, coverage] of Object.entries(allQbs) as any){
+            if(coverage[coverageKey]){
+              offensiveQBStats[player] = coverage[coverageKey]
+            }
+          }
+
+
+           const allWrs = wrStats[season]?? {}
+           const matchingWRs: any[] = []
+           for (const [player, coverage] of Object.entries(allWrs) as any){
+            if(coverage[coverageKey]){
+              matchingWRs.push({
+                player,... coverage[coverageKey]
+              })
+            }
+           }
+
+           const topWrs = matchingWRs.sort((a,b) => b.yards - a.yards).slice(0,5)
+
+           stats = {
+            tendencies: teamTendencies,
+            predictedCoverage: coverageKey,
+            qbStats: offensiveQBStats, topWrs
+
+           }
+
+
+
+          }catch(err){
+            console.error("Stats lookup error", err)
+          }
+    }
+    return NextResponse.json({analysis: analysisText, stats})
 }
 
 

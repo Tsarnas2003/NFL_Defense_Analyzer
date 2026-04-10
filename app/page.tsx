@@ -3,6 +3,7 @@
 
 import{useState} from "react";
 import CoachNotesCard from "./Componets/CoachNote";
+import StatsPanel from "./Componets/StatsPanel";
 
 function parseAnalysis(text: string) {
   const coverage = text.match(/COVERAGE:\s*(.+)/)?.[1]?.trim() ?? "Unknown"
@@ -55,12 +56,13 @@ export default function Home() {
       const response = await fetch("/api/analyze",{
         method: "POST",
         headers: {"Content-Type": "application/json"},
-        body: JSON.stringify({image}),
+        body: JSON.stringify({image, defensiveTeam, offensiveTeam, season}),
 
       })
       const data = await response.json()
       console.log("API RESPONSE:", data)
       setAnalysis(data.analysis)
+      setStats(data.stats)
 
     }catch(error){
       console.error("Something went wrong. Please try again.")
@@ -150,9 +152,23 @@ export default function Home() {
       reasoningCornerbacks={reasoningCornerbacks}
       reasoningSafeties={reasoningSafeties}
       reasoningLinebackers={reasoningLinebackers}
+      
     />
+
+   
+
   )
 })()}
+
+{/* ADD THIS RIGHT HERE */}
+{stats && (
+  <StatsPanel
+    stats={stats}
+    defensiveTeam={defensiveTeam}
+    offensiveTeam={offensiveTeam}
+    season={season}
+  />
+)}
     </main>
   )
 }
