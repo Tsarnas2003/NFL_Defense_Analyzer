@@ -1,5 +1,6 @@
 type CoachNotesCardProps = {
   coverage: string;
+  coverageColor: string;
   confidence: string;
   color: string;
   reasoningCornerbacks: string;
@@ -11,6 +12,7 @@ export default function CoachNotesCard({
   coverage,
   confidence,
   color,
+  coverageColor,
   reasoningCornerbacks,
   reasoningSafeties,
   reasoningLinebackers,
@@ -21,7 +23,9 @@ export default function CoachNotesCard({
       ? "#16A34A" // green
       : color === "yellow"
       ? "#CA8A04" // yellow
-      : "#DC2626"; // red
+      : color === "red"
+      ? "#DC2626" // red
+      : "#000000"; // black
 
   // Optional: slight tilt per card
 //   const tilt = `${Math.random() * 4 - 2}deg`; // -2 to +2 degrees
@@ -63,7 +67,7 @@ export default function CoachNotesCard({
         style={{
           fontFamily: '"Permanent Marker", cursive',
           fontSize: "2rem",
-          color: "#1E40AF",
+          color: coverageColor,
           marginBottom: "8px",
         }}
       >

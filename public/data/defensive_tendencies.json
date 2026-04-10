@@ -1,0 +1,2574 @@
+{
+    "2024": {
+        "ARI": {
+            "2_MAN": {
+                "plays": 35,
+                "percentage": 6.0
+            },
+            "COMBO": {
+                "plays": 11,
+                "percentage": 1.9
+            },
+            "COVER_0": {
+                "plays": 36,
+                "percentage": 6.2
+            },
+            "COVER_1": {
+                "plays": 164,
+                "percentage": 28.3
+            },
+            "COVER_2": {
+                "plays": 146,
+                "percentage": 25.2
+            },
+            "COVER_3": {
+                "plays": 144,
+                "percentage": 24.9
+            },
+            "COVER_4": {
+                "plays": 24,
+                "percentage": 4.1
+            },
+            "COVER_6": {
+                "plays": 12,
+                "percentage": 2.1
+            },
+            "COVER_9": {
+                "plays": 7,
+                "percentage": 1.2
+            }
+        },
+        "ATL": {
+            "2_MAN": {
+                "plays": 39,
+                "percentage": 6.4
+            },
+            "COMBO": {
+                "plays": 6,
+                "percentage": 1.0
+            },
+            "COVER_0": {
+                "plays": 35,
+                "percentage": 5.8
+            },
+            "COVER_1": {
+                "plays": 234,
+                "percentage": 38.6
+            },
+            "COVER_2": {
+                "plays": 125,
+                "percentage": 20.6
+            },
+            "COVER_3": {
+                "plays": 101,
+                "percentage": 16.6
+            },
+            "COVER_4": {
+                "plays": 31,
+                "percentage": 5.1
+            },
+            "COVER_6": {
+                "plays": 25,
+                "percentage": 4.1
+            },
+            "COVER_9": {
+                "plays": 11,
+                "percentage": 1.8
+            }
+        },
+        "BAL": {
+            "2_MAN": {
+                "plays": 58,
+                "percentage": 7.8
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 15,
+                "percentage": 2.0
+            },
+            "COVER_0": {
+                "plays": 39,
+                "percentage": 5.3
+            },
+            "COVER_1": {
+                "plays": 278,
+                "percentage": 37.6
+            },
+            "COVER_2": {
+                "plays": 150,
+                "percentage": 20.3
+            },
+            "COVER_3": {
+                "plays": 147,
+                "percentage": 19.9
+            },
+            "COVER_4": {
+                "plays": 28,
+                "percentage": 3.8
+            },
+            "COVER_6": {
+                "plays": 21,
+                "percentage": 2.8
+            },
+            "COVER_9": {
+                "plays": 3,
+                "percentage": 0.4
+            }
+        },
+        "BUF": {
+            "2_MAN": {
+                "plays": 59,
+                "percentage": 8.5
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 13,
+                "percentage": 1.9
+            },
+            "COVER_0": {
+                "plays": 26,
+                "percentage": 3.7
+            },
+            "COVER_1": {
+                "plays": 193,
+                "percentage": 27.7
+            },
+            "COVER_2": {
+                "plays": 153,
+                "percentage": 22.0
+            },
+            "COVER_3": {
+                "plays": 156,
+                "percentage": 22.4
+            },
+            "COVER_4": {
+                "plays": 57,
+                "percentage": 8.2
+            },
+            "COVER_6": {
+                "plays": 31,
+                "percentage": 4.4
+            },
+            "COVER_9": {
+                "plays": 8,
+                "percentage": 1.1
+            }
+        },
+        "CAR": {
+            "2_MAN": {
+                "plays": 15,
+                "percentage": 2.7
+            },
+            "BLOWN": {
+                "plays": 4,
+                "percentage": 0.7
+            },
+            "COMBO": {
+                "plays": 6,
+                "percentage": 1.1
+            },
+            "COVER_0": {
+                "plays": 25,
+                "percentage": 4.5
+            },
+            "COVER_1": {
+                "plays": 258,
+                "percentage": 46.0
+            },
+            "COVER_2": {
+                "plays": 89,
+                "percentage": 15.9
+            },
+            "COVER_3": {
+                "plays": 97,
+                "percentage": 17.3
+            },
+            "COVER_4": {
+                "plays": 37,
+                "percentage": 6.6
+            },
+            "COVER_6": {
+                "plays": 20,
+                "percentage": 3.6
+            },
+            "COVER_9": {
+                "plays": 10,
+                "percentage": 1.8
+            }
+        },
+        "CHI": {
+            "2_MAN": {
+                "plays": 21,
+                "percentage": 3.8
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.4
+            },
+            "COMBO": {
+                "plays": 8,
+                "percentage": 1.5
+            },
+            "COVER_0": {
+                "plays": 14,
+                "percentage": 2.6
+            },
+            "COVER_1": {
+                "plays": 187,
+                "percentage": 34.2
+            },
+            "COVER_2": {
+                "plays": 124,
+                "percentage": 22.7
+            },
+            "COVER_3": {
+                "plays": 118,
+                "percentage": 21.6
+            },
+            "COVER_4": {
+                "plays": 43,
+                "percentage": 7.9
+            },
+            "COVER_6": {
+                "plays": 15,
+                "percentage": 2.7
+            },
+            "COVER_9": {
+                "plays": 14,
+                "percentage": 2.6
+            }
+        },
+        "CIN": {
+            "2_MAN": {
+                "plays": 54,
+                "percentage": 8.9
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 15,
+                "percentage": 2.5
+            },
+            "COVER_0": {
+                "plays": 34,
+                "percentage": 5.6
+            },
+            "COVER_1": {
+                "plays": 204,
+                "percentage": 33.8
+            },
+            "COVER_2": {
+                "plays": 125,
+                "percentage": 20.7
+            },
+            "COVER_3": {
+                "plays": 88,
+                "percentage": 14.6
+            },
+            "COVER_4": {
+                "plays": 58,
+                "percentage": 9.6
+            },
+            "COVER_6": {
+                "plays": 13,
+                "percentage": 2.2
+            },
+            "COVER_9": {
+                "plays": 12,
+                "percentage": 2.0
+            }
+        },
+        "CLE": {
+            "2_MAN": {
+                "plays": 12,
+                "percentage": 2.2
+            },
+            "COMBO": {
+                "plays": 8,
+                "percentage": 1.5
+            },
+            "COVER_0": {
+                "plays": 33,
+                "percentage": 6.0
+            },
+            "COVER_1": {
+                "plays": 267,
+                "percentage": 48.8
+            },
+            "COVER_2": {
+                "plays": 77,
+                "percentage": 14.1
+            },
+            "COVER_3": {
+                "plays": 99,
+                "percentage": 18.1
+            },
+            "COVER_4": {
+                "plays": 24,
+                "percentage": 4.4
+            },
+            "COVER_6": {
+                "plays": 14,
+                "percentage": 2.6
+            },
+            "COVER_9": {
+                "plays": 13,
+                "percentage": 2.4
+            }
+        },
+        "DAL": {
+            "2_MAN": {
+                "plays": 28,
+                "percentage": 5.0
+            },
+            "COMBO": {
+                "plays": 19,
+                "percentage": 3.4
+            },
+            "COVER_0": {
+                "plays": 24,
+                "percentage": 4.3
+            },
+            "COVER_1": {
+                "plays": 250,
+                "percentage": 44.9
+            },
+            "COVER_2": {
+                "plays": 114,
+                "percentage": 20.5
+            },
+            "COVER_3": {
+                "plays": 52,
+                "percentage": 9.3
+            },
+            "COVER_4": {
+                "plays": 41,
+                "percentage": 7.4
+            },
+            "COVER_6": {
+                "plays": 20,
+                "percentage": 3.6
+            },
+            "COVER_9": {
+                "plays": 9,
+                "percentage": 1.6
+            }
+        },
+        "DEN": {
+            "2_MAN": {
+                "plays": 62,
+                "percentage": 8.9
+            },
+            "BLOWN": {
+                "plays": 4,
+                "percentage": 0.6
+            },
+            "COMBO": {
+                "plays": 27,
+                "percentage": 3.9
+            },
+            "COVER_0": {
+                "plays": 42,
+                "percentage": 6.0
+            },
+            "COVER_1": {
+                "plays": 323,
+                "percentage": 46.2
+            },
+            "COVER_2": {
+                "plays": 93,
+                "percentage": 13.3
+            },
+            "COVER_3": {
+                "plays": 77,
+                "percentage": 11.0
+            },
+            "COVER_4": {
+                "plays": 36,
+                "percentage": 5.2
+            },
+            "COVER_6": {
+                "plays": 23,
+                "percentage": 3.3
+            },
+            "COVER_9": {
+                "plays": 12,
+                "percentage": 1.7
+            }
+        },
+        "DET": {
+            "2_MAN": {
+                "plays": 81,
+                "percentage": 11.9
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 11,
+                "percentage": 1.6
+            },
+            "COVER_0": {
+                "plays": 39,
+                "percentage": 5.7
+            },
+            "COVER_1": {
+                "plays": 290,
+                "percentage": 42.6
+            },
+            "COVER_2": {
+                "plays": 105,
+                "percentage": 15.4
+            },
+            "COVER_3": {
+                "plays": 93,
+                "percentage": 13.7
+            },
+            "COVER_4": {
+                "plays": 32,
+                "percentage": 4.7
+            },
+            "COVER_6": {
+                "plays": 24,
+                "percentage": 3.5
+            },
+            "COVER_9": {
+                "plays": 3,
+                "percentage": 0.4
+            }
+        },
+        "GB": {
+            "2_MAN": {
+                "plays": 23,
+                "percentage": 3.6
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 14,
+                "percentage": 2.2
+            },
+            "COVER_0": {
+                "plays": 16,
+                "percentage": 2.5
+            },
+            "COVER_1": {
+                "plays": 162,
+                "percentage": 25.6
+            },
+            "COVER_2": {
+                "plays": 186,
+                "percentage": 29.4
+            },
+            "COVER_3": {
+                "plays": 172,
+                "percentage": 27.2
+            },
+            "COVER_4": {
+                "plays": 24,
+                "percentage": 3.8
+            },
+            "COVER_6": {
+                "plays": 28,
+                "percentage": 4.4
+            },
+            "COVER_9": {
+                "plays": 7,
+                "percentage": 1.1
+            }
+        },
+        "HOU": {
+            "2_MAN": {
+                "plays": 30,
+                "percentage": 4.5
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 11,
+                "percentage": 1.7
+            },
+            "COVER_0": {
+                "plays": 23,
+                "percentage": 3.5
+            },
+            "COVER_1": {
+                "plays": 279,
+                "percentage": 41.9
+            },
+            "COVER_2": {
+                "plays": 117,
+                "percentage": 17.6
+            },
+            "COVER_3": {
+                "plays": 101,
+                "percentage": 15.2
+            },
+            "COVER_4": {
+                "plays": 71,
+                "percentage": 10.7
+            },
+            "COVER_6": {
+                "plays": 27,
+                "percentage": 4.1
+            },
+            "COVER_9": {
+                "plays": 6,
+                "percentage": 0.9
+            }
+        },
+        "IND": {
+            "2_MAN": {
+                "plays": 37,
+                "percentage": 6.4
+            },
+            "COMBO": {
+                "plays": 10,
+                "percentage": 1.7
+            },
+            "COVER_0": {
+                "plays": 12,
+                "percentage": 2.1
+            },
+            "COVER_1": {
+                "plays": 190,
+                "percentage": 32.8
+            },
+            "COVER_2": {
+                "plays": 164,
+                "percentage": 28.3
+            },
+            "COVER_3": {
+                "plays": 121,
+                "percentage": 20.9
+            },
+            "COVER_4": {
+                "plays": 24,
+                "percentage": 4.1
+            },
+            "COVER_6": {
+                "plays": 14,
+                "percentage": 2.4
+            },
+            "COVER_9": {
+                "plays": 8,
+                "percentage": 1.4
+            }
+        },
+        "JAX": {
+            "2_MAN": {
+                "plays": 87,
+                "percentage": 14.2
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 9,
+                "percentage": 1.5
+            },
+            "COVER_0": {
+                "plays": 12,
+                "percentage": 2.0
+            },
+            "COVER_1": {
+                "plays": 265,
+                "percentage": 43.2
+            },
+            "COVER_2": {
+                "plays": 165,
+                "percentage": 26.9
+            },
+            "COVER_3": {
+                "plays": 43,
+                "percentage": 7.0
+            },
+            "COVER_4": {
+                "plays": 17,
+                "percentage": 2.8
+            },
+            "COVER_6": {
+                "plays": 6,
+                "percentage": 1.0
+            },
+            "COVER_9": {
+                "plays": 9,
+                "percentage": 1.5
+            }
+        },
+        "KC": {
+            "2_MAN": {
+                "plays": 94,
+                "percentage": 13.4
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 21,
+                "percentage": 3.0
+            },
+            "COVER_0": {
+                "plays": 50,
+                "percentage": 7.1
+            },
+            "COVER_1": {
+                "plays": 262,
+                "percentage": 37.2
+            },
+            "COVER_2": {
+                "plays": 140,
+                "percentage": 19.9
+            },
+            "COVER_3": {
+                "plays": 34,
+                "percentage": 4.8
+            },
+            "COVER_4": {
+                "plays": 74,
+                "percentage": 10.5
+            },
+            "COVER_6": {
+                "plays": 23,
+                "percentage": 3.3
+            },
+            "COVER_9": {
+                "plays": 5,
+                "percentage": 0.7
+            }
+        },
+        "LA": {
+            "2_MAN": {
+                "plays": 49,
+                "percentage": 7.4
+            },
+            "COMBO": {
+                "plays": 15,
+                "percentage": 2.3
+            },
+            "COVER_0": {
+                "plays": 18,
+                "percentage": 2.7
+            },
+            "COVER_1": {
+                "plays": 255,
+                "percentage": 38.7
+            },
+            "COVER_2": {
+                "plays": 142,
+                "percentage": 21.5
+            },
+            "COVER_3": {
+                "plays": 91,
+                "percentage": 13.8
+            },
+            "COVER_4": {
+                "plays": 30,
+                "percentage": 4.6
+            },
+            "COVER_6": {
+                "plays": 47,
+                "percentage": 7.1
+            },
+            "COVER_9": {
+                "plays": 12,
+                "percentage": 1.8
+            }
+        },
+        "LAC": {
+            "2_MAN": {
+                "plays": 63,
+                "percentage": 9.7
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 3,
+                "percentage": 0.5
+            },
+            "COVER_0": {
+                "plays": 26,
+                "percentage": 4.0
+            },
+            "COVER_1": {
+                "plays": 153,
+                "percentage": 23.6
+            },
+            "COVER_2": {
+                "plays": 157,
+                "percentage": 24.3
+            },
+            "COVER_3": {
+                "plays": 139,
+                "percentage": 21.5
+            },
+            "COVER_4": {
+                "plays": 51,
+                "percentage": 7.9
+            },
+            "COVER_6": {
+                "plays": 34,
+                "percentage": 5.3
+            },
+            "COVER_9": {
+                "plays": 19,
+                "percentage": 2.9
+            }
+        },
+        "LV": {
+            "2_MAN": {
+                "plays": 22,
+                "percentage": 3.7
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 8,
+                "percentage": 1.3
+            },
+            "COVER_0": {
+                "plays": 51,
+                "percentage": 8.6
+            },
+            "COVER_1": {
+                "plays": 172,
+                "percentage": 29.0
+            },
+            "COVER_2": {
+                "plays": 141,
+                "percentage": 23.7
+            },
+            "COVER_3": {
+                "plays": 139,
+                "percentage": 23.4
+            },
+            "COVER_4": {
+                "plays": 32,
+                "percentage": 5.4
+            },
+            "COVER_6": {
+                "plays": 18,
+                "percentage": 3.0
+            },
+            "COVER_9": {
+                "plays": 9,
+                "percentage": 1.5
+            }
+        },
+        "MIA": {
+            "2_MAN": {
+                "plays": 30,
+                "percentage": 5.0
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 31,
+                "percentage": 5.2
+            },
+            "COVER_1": {
+                "plays": 181,
+                "percentage": 30.1
+            },
+            "COVER_2": {
+                "plays": 169,
+                "percentage": 28.1
+            },
+            "COVER_3": {
+                "plays": 109,
+                "percentage": 18.1
+            },
+            "COVER_4": {
+                "plays": 66,
+                "percentage": 11.0
+            },
+            "COVER_6": {
+                "plays": 12,
+                "percentage": 2.0
+            },
+            "COVER_9": {
+                "plays": 2,
+                "percentage": 0.3
+            }
+        },
+        "MIN": {
+            "2_MAN": {
+                "plays": 69,
+                "percentage": 9.6
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 19,
+                "percentage": 2.6
+            },
+            "COVER_0": {
+                "plays": 51,
+                "percentage": 7.1
+            },
+            "COVER_1": {
+                "plays": 120,
+                "percentage": 16.7
+            },
+            "COVER_2": {
+                "plays": 208,
+                "percentage": 29.0
+            },
+            "COVER_3": {
+                "plays": 154,
+                "percentage": 21.5
+            },
+            "COVER_4": {
+                "plays": 41,
+                "percentage": 5.7
+            },
+            "COVER_6": {
+                "plays": 36,
+                "percentage": 5.0
+            },
+            "COVER_9": {
+                "plays": 18,
+                "percentage": 2.5
+            }
+        },
+        "NE": {
+            "2_MAN": {
+                "plays": 27,
+                "percentage": 4.8
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 7,
+                "percentage": 1.2
+            },
+            "COVER_0": {
+                "plays": 34,
+                "percentage": 6.0
+            },
+            "COVER_1": {
+                "plays": 250,
+                "percentage": 44.4
+            },
+            "COVER_2": {
+                "plays": 99,
+                "percentage": 17.6
+            },
+            "COVER_3": {
+                "plays": 107,
+                "percentage": 19.0
+            },
+            "COVER_4": {
+                "plays": 25,
+                "percentage": 4.4
+            },
+            "COVER_6": {
+                "plays": 7,
+                "percentage": 1.2
+            },
+            "COVER_9": {
+                "plays": 6,
+                "percentage": 1.1
+            }
+        },
+        "NO": {
+            "2_MAN": {
+                "plays": 62,
+                "percentage": 9.8
+            },
+            "COMBO": {
+                "plays": 13,
+                "percentage": 2.1
+            },
+            "COVER_0": {
+                "plays": 24,
+                "percentage": 3.8
+            },
+            "COVER_1": {
+                "plays": 279,
+                "percentage": 44.1
+            },
+            "COVER_2": {
+                "plays": 164,
+                "percentage": 25.9
+            },
+            "COVER_3": {
+                "plays": 43,
+                "percentage": 6.8
+            },
+            "COVER_4": {
+                "plays": 29,
+                "percentage": 4.6
+            },
+            "COVER_6": {
+                "plays": 12,
+                "percentage": 1.9
+            },
+            "COVER_9": {
+                "plays": 6,
+                "percentage": 0.9
+            }
+        },
+        "NYG": {
+            "2_MAN": {
+                "plays": 21,
+                "percentage": 3.8
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 4,
+                "percentage": 0.7
+            },
+            "COVER_0": {
+                "plays": 16,
+                "percentage": 2.9
+            },
+            "COVER_1": {
+                "plays": 235,
+                "percentage": 42.8
+            },
+            "COVER_2": {
+                "plays": 83,
+                "percentage": 15.1
+            },
+            "COVER_3": {
+                "plays": 135,
+                "percentage": 24.6
+            },
+            "COVER_4": {
+                "plays": 38,
+                "percentage": 6.9
+            },
+            "COVER_6": {
+                "plays": 12,
+                "percentage": 2.2
+            },
+            "COVER_9": {
+                "plays": 4,
+                "percentage": 0.7
+            }
+        },
+        "NYJ": {
+            "2_MAN": {
+                "plays": 41,
+                "percentage": 7.2
+            },
+            "COMBO": {
+                "plays": 14,
+                "percentage": 2.5
+            },
+            "COVER_0": {
+                "plays": 33,
+                "percentage": 5.8
+            },
+            "COVER_1": {
+                "plays": 235,
+                "percentage": 41.4
+            },
+            "COVER_2": {
+                "plays": 83,
+                "percentage": 14.6
+            },
+            "COVER_3": {
+                "plays": 101,
+                "percentage": 17.8
+            },
+            "COVER_4": {
+                "plays": 24,
+                "percentage": 4.2
+            },
+            "COVER_6": {
+                "plays": 29,
+                "percentage": 5.1
+            },
+            "COVER_9": {
+                "plays": 7,
+                "percentage": 1.2
+            }
+        },
+        "PHI": {
+            "2_MAN": {
+                "plays": 76,
+                "percentage": 9.9
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 13,
+                "percentage": 1.7
+            },
+            "COVER_0": {
+                "plays": 31,
+                "percentage": 4.1
+            },
+            "COVER_1": {
+                "plays": 328,
+                "percentage": 42.9
+            },
+            "COVER_2": {
+                "plays": 84,
+                "percentage": 11.0
+            },
+            "COVER_3": {
+                "plays": 113,
+                "percentage": 14.8
+            },
+            "COVER_4": {
+                "plays": 65,
+                "percentage": 8.5
+            },
+            "COVER_6": {
+                "plays": 41,
+                "percentage": 5.4
+            },
+            "COVER_9": {
+                "plays": 13,
+                "percentage": 1.7
+            }
+        },
+        "PIT": {
+            "2_MAN": {
+                "plays": 41,
+                "percentage": 6.3
+            },
+            "BLOWN": {
+                "plays": 4,
+                "percentage": 0.6
+            },
+            "COMBO": {
+                "plays": 6,
+                "percentage": 0.9
+            },
+            "COVER_0": {
+                "plays": 13,
+                "percentage": 2.0
+            },
+            "COVER_1": {
+                "plays": 241,
+                "percentage": 37.2
+            },
+            "COVER_2": {
+                "plays": 115,
+                "percentage": 17.8
+            },
+            "COVER_3": {
+                "plays": 152,
+                "percentage": 23.5
+            },
+            "COVER_4": {
+                "plays": 34,
+                "percentage": 5.3
+            },
+            "COVER_6": {
+                "plays": 17,
+                "percentage": 2.6
+            },
+            "COVER_9": {
+                "plays": 24,
+                "percentage": 3.7
+            }
+        },
+        "SEA": {
+            "2_MAN": {
+                "plays": 68,
+                "percentage": 11.1
+            },
+            "COMBO": {
+                "plays": 15,
+                "percentage": 2.4
+            },
+            "COVER_0": {
+                "plays": 31,
+                "percentage": 5.0
+            },
+            "COVER_1": {
+                "plays": 206,
+                "percentage": 33.5
+            },
+            "COVER_2": {
+                "plays": 144,
+                "percentage": 23.4
+            },
+            "COVER_3": {
+                "plays": 92,
+                "percentage": 15.0
+            },
+            "COVER_4": {
+                "plays": 14,
+                "percentage": 2.3
+            },
+            "COVER_6": {
+                "plays": 33,
+                "percentage": 5.4
+            },
+            "COVER_9": {
+                "plays": 12,
+                "percentage": 2.0
+            }
+        },
+        "SF": {
+            "2_MAN": {
+                "plays": 18,
+                "percentage": 3.2
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 12,
+                "percentage": 2.2
+            },
+            "COVER_0": {
+                "plays": 11,
+                "percentage": 2.0
+            },
+            "COVER_1": {
+                "plays": 197,
+                "percentage": 35.6
+            },
+            "COVER_2": {
+                "plays": 107,
+                "percentage": 19.3
+            },
+            "COVER_3": {
+                "plays": 127,
+                "percentage": 22.9
+            },
+            "COVER_4": {
+                "plays": 51,
+                "percentage": 9.2
+            },
+            "COVER_6": {
+                "plays": 22,
+                "percentage": 4.0
+            },
+            "COVER_9": {
+                "plays": 8,
+                "percentage": 1.4
+            }
+        },
+        "TB": {
+            "2_MAN": {
+                "plays": 42,
+                "percentage": 5.9
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 14,
+                "percentage": 2.0
+            },
+            "COVER_0": {
+                "plays": 20,
+                "percentage": 2.8
+            },
+            "COVER_1": {
+                "plays": 180,
+                "percentage": 25.4
+            },
+            "COVER_2": {
+                "plays": 135,
+                "percentage": 19.1
+            },
+            "COVER_3": {
+                "plays": 224,
+                "percentage": 31.6
+            },
+            "COVER_4": {
+                "plays": 55,
+                "percentage": 7.8
+            },
+            "COVER_6": {
+                "plays": 21,
+                "percentage": 3.0
+            },
+            "COVER_9": {
+                "plays": 15,
+                "percentage": 2.1
+            }
+        },
+        "TEN": {
+            "2_MAN": {
+                "plays": 56,
+                "percentage": 11.1
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 30,
+                "percentage": 6.0
+            },
+            "COVER_0": {
+                "plays": 29,
+                "percentage": 5.8
+            },
+            "COVER_1": {
+                "plays": 165,
+                "percentage": 32.7
+            },
+            "COVER_2": {
+                "plays": 83,
+                "percentage": 16.5
+            },
+            "COVER_3": {
+                "plays": 84,
+                "percentage": 16.7
+            },
+            "COVER_4": {
+                "plays": 22,
+                "percentage": 4.4
+            },
+            "COVER_6": {
+                "plays": 25,
+                "percentage": 5.0
+            },
+            "COVER_9": {
+                "plays": 9,
+                "percentage": 1.8
+            }
+        },
+        "WAS": {
+            "2_MAN": {
+                "plays": 36,
+                "percentage": 5.7
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 10,
+                "percentage": 1.6
+            },
+            "COVER_0": {
+                "plays": 34,
+                "percentage": 5.4
+            },
+            "COVER_1": {
+                "plays": 287,
+                "percentage": 45.2
+            },
+            "COVER_2": {
+                "plays": 140,
+                "percentage": 22.0
+            },
+            "COVER_3": {
+                "plays": 64,
+                "percentage": 10.1
+            },
+            "COVER_4": {
+                "plays": 42,
+                "percentage": 6.6
+            },
+            "COVER_6": {
+                "plays": 14,
+                "percentage": 2.2
+            },
+            "COVER_9": {
+                "plays": 6,
+                "percentage": 0.9
+            }
+        }
+    },
+    "2025": {
+        "ARI": {
+            "2_MAN": {
+                "plays": 45,
+                "percentage": 7.5
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 20,
+                "percentage": 3.4
+            },
+            "COVER_1": {
+                "plays": 102,
+                "percentage": 17.1
+            },
+            "COVER_2": {
+                "plays": 122,
+                "percentage": 20.4
+            },
+            "COVER_3": {
+                "plays": 156,
+                "percentage": 26.1
+            },
+            "COVER_4": {
+                "plays": 81,
+                "percentage": 13.6
+            },
+            "COVER_6": {
+                "plays": 54,
+                "percentage": 9.0
+            },
+            "COVER_9": {
+                "plays": 16,
+                "percentage": 2.7
+            }
+        },
+        "ATL": {
+            "2_MAN": {
+                "plays": 13,
+                "percentage": 2.2
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 3,
+                "percentage": 0.5
+            },
+            "COVER_0": {
+                "plays": 14,
+                "percentage": 2.4
+            },
+            "COVER_1": {
+                "plays": 165,
+                "percentage": 28.0
+            },
+            "COVER_2": {
+                "plays": 92,
+                "percentage": 15.6
+            },
+            "COVER_3": {
+                "plays": 150,
+                "percentage": 25.4
+            },
+            "COVER_4": {
+                "plays": 95,
+                "percentage": 16.1
+            },
+            "COVER_6": {
+                "plays": 33,
+                "percentage": 5.6
+            },
+            "COVER_9": {
+                "plays": 23,
+                "percentage": 3.9
+            }
+        },
+        "BAL": {
+            "2_MAN": {
+                "plays": 12,
+                "percentage": 1.8
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 4,
+                "percentage": 0.6
+            },
+            "COVER_0": {
+                "plays": 40,
+                "percentage": 6.1
+            },
+            "COVER_1": {
+                "plays": 158,
+                "percentage": 24.1
+            },
+            "COVER_2": {
+                "plays": 124,
+                "percentage": 18.9
+            },
+            "COVER_3": {
+                "plays": 206,
+                "percentage": 31.4
+            },
+            "COVER_4": {
+                "plays": 48,
+                "percentage": 7.3
+            },
+            "COVER_6": {
+                "plays": 39,
+                "percentage": 5.9
+            },
+            "COVER_9": {
+                "plays": 24,
+                "percentage": 3.7
+            }
+        },
+        "BUF": {
+            "2_MAN": {
+                "plays": 53,
+                "percentage": 9.1
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COVER_0": {
+                "plays": 19,
+                "percentage": 3.3
+            },
+            "COVER_1": {
+                "plays": 105,
+                "percentage": 18.0
+            },
+            "COVER_2": {
+                "plays": 156,
+                "percentage": 26.8
+            },
+            "COVER_3": {
+                "plays": 131,
+                "percentage": 22.5
+            },
+            "COVER_4": {
+                "plays": 64,
+                "percentage": 11.0
+            },
+            "COVER_6": {
+                "plays": 32,
+                "percentage": 5.5
+            },
+            "COVER_9": {
+                "plays": 20,
+                "percentage": 3.4
+            }
+        },
+        "CAR": {
+            "2_MAN": {
+                "plays": 7,
+                "percentage": 1.2
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 11,
+                "percentage": 1.9
+            },
+            "COVER_1": {
+                "plays": 100,
+                "percentage": 17.3
+            },
+            "COVER_2": {
+                "plays": 129,
+                "percentage": 22.4
+            },
+            "COVER_3": {
+                "plays": 188,
+                "percentage": 32.6
+            },
+            "COVER_4": {
+                "plays": 87,
+                "percentage": 15.1
+            },
+            "COVER_6": {
+                "plays": 36,
+                "percentage": 6.2
+            },
+            "COVER_9": {
+                "plays": 18,
+                "percentage": 3.1
+            }
+        },
+        "CHI": {
+            "2_MAN": {
+                "plays": 41,
+                "percentage": 6.2
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COVER_0": {
+                "plays": 32,
+                "percentage": 4.8
+            },
+            "COVER_1": {
+                "plays": 215,
+                "percentage": 32.4
+            },
+            "COVER_2": {
+                "plays": 166,
+                "percentage": 25.0
+            },
+            "COVER_3": {
+                "plays": 144,
+                "percentage": 21.7
+            },
+            "COVER_4": {
+                "plays": 32,
+                "percentage": 4.8
+            },
+            "COVER_6": {
+                "plays": 21,
+                "percentage": 3.2
+            },
+            "COVER_9": {
+                "plays": 10,
+                "percentage": 1.5
+            }
+        },
+        "CIN": {
+            "2_MAN": {
+                "plays": 24,
+                "percentage": 4.2
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 36,
+                "percentage": 6.3
+            },
+            "COVER_1": {
+                "plays": 141,
+                "percentage": 24.7
+            },
+            "COVER_2": {
+                "plays": 115,
+                "percentage": 20.1
+            },
+            "COVER_3": {
+                "plays": 187,
+                "percentage": 32.7
+            },
+            "COVER_4": {
+                "plays": 19,
+                "percentage": 3.3
+            },
+            "COVER_6": {
+                "plays": 29,
+                "percentage": 5.1
+            },
+            "COVER_9": {
+                "plays": 18,
+                "percentage": 3.2
+            }
+        },
+        "CLE": {
+            "2_MAN": {
+                "plays": 12,
+                "percentage": 2.2
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.4
+            },
+            "COVER_0": {
+                "plays": 23,
+                "percentage": 4.3
+            },
+            "COVER_1": {
+                "plays": 187,
+                "percentage": 34.6
+            },
+            "COVER_2": {
+                "plays": 105,
+                "percentage": 19.4
+            },
+            "COVER_3": {
+                "plays": 148,
+                "percentage": 27.4
+            },
+            "COVER_4": {
+                "plays": 34,
+                "percentage": 6.3
+            },
+            "COVER_6": {
+                "plays": 19,
+                "percentage": 3.5
+            },
+            "COVER_9": {
+                "plays": 10,
+                "percentage": 1.9
+            }
+        },
+        "DAL": {
+            "2_MAN": {
+                "plays": 3,
+                "percentage": 0.5
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 3,
+                "percentage": 0.5
+            },
+            "COVER_0": {
+                "plays": 21,
+                "percentage": 3.5
+            },
+            "COVER_1": {
+                "plays": 122,
+                "percentage": 20.6
+            },
+            "COVER_2": {
+                "plays": 149,
+                "percentage": 25.1
+            },
+            "COVER_3": {
+                "plays": 174,
+                "percentage": 29.3
+            },
+            "COVER_4": {
+                "plays": 73,
+                "percentage": 12.3
+            },
+            "COVER_6": {
+                "plays": 37,
+                "percentage": 6.2
+            },
+            "COVER_9": {
+                "plays": 9,
+                "percentage": 1.5
+            }
+        },
+        "DEN": {
+            "2_MAN": {
+                "plays": 49,
+                "percentage": 6.7
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 6,
+                "percentage": 0.8
+            },
+            "COVER_0": {
+                "plays": 50,
+                "percentage": 6.9
+            },
+            "COVER_1": {
+                "plays": 220,
+                "percentage": 30.3
+            },
+            "COVER_2": {
+                "plays": 115,
+                "percentage": 15.8
+            },
+            "COVER_3": {
+                "plays": 180,
+                "percentage": 24.8
+            },
+            "COVER_4": {
+                "plays": 57,
+                "percentage": 7.9
+            },
+            "COVER_6": {
+                "plays": 32,
+                "percentage": 4.4
+            },
+            "COVER_9": {
+                "plays": 16,
+                "percentage": 2.2
+            }
+        },
+        "DET": {
+            "2_MAN": {
+                "plays": 61,
+                "percentage": 10.0
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COVER_0": {
+                "plays": 14,
+                "percentage": 2.3
+            },
+            "COVER_1": {
+                "plays": 174,
+                "percentage": 28.6
+            },
+            "COVER_2": {
+                "plays": 108,
+                "percentage": 17.7
+            },
+            "COVER_3": {
+                "plays": 171,
+                "percentage": 28.1
+            },
+            "COVER_4": {
+                "plays": 44,
+                "percentage": 7.2
+            },
+            "COVER_6": {
+                "plays": 25,
+                "percentage": 4.1
+            },
+            "COVER_9": {
+                "plays": 10,
+                "percentage": 1.6
+            }
+        },
+        "GB": {
+            "2_MAN": {
+                "plays": 6,
+                "percentage": 1.0
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COVER_0": {
+                "plays": 13,
+                "percentage": 2.1
+            },
+            "COVER_1": {
+                "plays": 107,
+                "percentage": 17.1
+            },
+            "COVER_2": {
+                "plays": 181,
+                "percentage": 28.9
+            },
+            "COVER_3": {
+                "plays": 209,
+                "percentage": 33.4
+            },
+            "COVER_4": {
+                "plays": 61,
+                "percentage": 9.7
+            },
+            "COVER_6": {
+                "plays": 34,
+                "percentage": 5.4
+            },
+            "COVER_9": {
+                "plays": 13,
+                "percentage": 2.1
+            }
+        },
+        "HOU": {
+            "2_MAN": {
+                "plays": 8,
+                "percentage": 1.2
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COVER_0": {
+                "plays": 12,
+                "percentage": 1.8
+            },
+            "COVER_1": {
+                "plays": 186,
+                "percentage": 28.3
+            },
+            "COVER_2": {
+                "plays": 149,
+                "percentage": 22.6
+            },
+            "COVER_3": {
+                "plays": 145,
+                "percentage": 22.0
+            },
+            "COVER_4": {
+                "plays": 84,
+                "percentage": 12.8
+            },
+            "COVER_6": {
+                "plays": 50,
+                "percentage": 7.6
+            },
+            "COVER_9": {
+                "plays": 21,
+                "percentage": 3.2
+            }
+        },
+        "IND": {
+            "2_MAN": {
+                "plays": 46,
+                "percentage": 6.9
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 5,
+                "percentage": 0.8
+            },
+            "COVER_0": {
+                "plays": 40,
+                "percentage": 6.0
+            },
+            "COVER_1": {
+                "plays": 156,
+                "percentage": 23.5
+            },
+            "COVER_2": {
+                "plays": 157,
+                "percentage": 23.6
+            },
+            "COVER_3": {
+                "plays": 175,
+                "percentage": 26.4
+            },
+            "COVER_4": {
+                "plays": 51,
+                "percentage": 7.7
+            },
+            "COVER_6": {
+                "plays": 20,
+                "percentage": 3.0
+            },
+            "COVER_9": {
+                "plays": 13,
+                "percentage": 2.0
+            }
+        },
+        "JAX": {
+            "2_MAN": {
+                "plays": 23,
+                "percentage": 3.3
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COVER_0": {
+                "plays": 32,
+                "percentage": 4.5
+            },
+            "COVER_1": {
+                "plays": 115,
+                "percentage": 16.3
+            },
+            "COVER_2": {
+                "plays": 193,
+                "percentage": 27.3
+            },
+            "COVER_3": {
+                "plays": 209,
+                "percentage": 29.6
+            },
+            "COVER_4": {
+                "plays": 62,
+                "percentage": 8.8
+            },
+            "COVER_6": {
+                "plays": 54,
+                "percentage": 7.6
+            },
+            "COVER_9": {
+                "plays": 18,
+                "percentage": 2.5
+            }
+        },
+        "KC": {
+            "2_MAN": {
+                "plays": 38,
+                "percentage": 7.0
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.4
+            },
+            "COVER_0": {
+                "plays": 42,
+                "percentage": 7.7
+            },
+            "COVER_1": {
+                "plays": 119,
+                "percentage": 21.9
+            },
+            "COVER_2": {
+                "plays": 140,
+                "percentage": 25.7
+            },
+            "COVER_3": {
+                "plays": 110,
+                "percentage": 20.2
+            },
+            "COVER_4": {
+                "plays": 65,
+                "percentage": 11.9
+            },
+            "COVER_6": {
+                "plays": 20,
+                "percentage": 3.7
+            },
+            "COVER_9": {
+                "plays": 8,
+                "percentage": 1.5
+            }
+        },
+        "LA": {
+            "2_MAN": {
+                "plays": 41,
+                "percentage": 5.4
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COVER_0": {
+                "plays": 22,
+                "percentage": 2.9
+            },
+            "COVER_1": {
+                "plays": 131,
+                "percentage": 17.3
+            },
+            "COVER_2": {
+                "plays": 181,
+                "percentage": 23.8
+            },
+            "COVER_3": {
+                "plays": 206,
+                "percentage": 27.1
+            },
+            "COVER_4": {
+                "plays": 84,
+                "percentage": 11.1
+            },
+            "COVER_6": {
+                "plays": 66,
+                "percentage": 8.7
+            },
+            "COVER_9": {
+                "plays": 26,
+                "percentage": 3.4
+            }
+        },
+        "LAC": {
+            "2_MAN": {
+                "plays": 33,
+                "percentage": 5.7
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 26,
+                "percentage": 4.5
+            },
+            "COVER_1": {
+                "plays": 77,
+                "percentage": 13.2
+            },
+            "COVER_2": {
+                "plays": 149,
+                "percentage": 25.5
+            },
+            "COVER_3": {
+                "plays": 177,
+                "percentage": 30.3
+            },
+            "COVER_4": {
+                "plays": 66,
+                "percentage": 11.3
+            },
+            "COVER_6": {
+                "plays": 38,
+                "percentage": 6.5
+            },
+            "COVER_9": {
+                "plays": 16,
+                "percentage": 2.7
+            }
+        },
+        "LV": {
+            "2_MAN": {
+                "plays": 14,
+                "percentage": 2.5
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 25,
+                "percentage": 4.4
+            },
+            "COVER_1": {
+                "plays": 75,
+                "percentage": 13.3
+            },
+            "COVER_2": {
+                "plays": 124,
+                "percentage": 22.1
+            },
+            "COVER_3": {
+                "plays": 212,
+                "percentage": 37.7
+            },
+            "COVER_4": {
+                "plays": 66,
+                "percentage": 11.7
+            },
+            "COVER_6": {
+                "plays": 33,
+                "percentage": 5.9
+            },
+            "COVER_9": {
+                "plays": 12,
+                "percentage": 2.1
+            }
+        },
+        "MIA": {
+            "2_MAN": {
+                "plays": 25,
+                "percentage": 4.5
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.4
+            },
+            "COVER_0": {
+                "plays": 14,
+                "percentage": 2.5
+            },
+            "COVER_1": {
+                "plays": 112,
+                "percentage": 20.2
+            },
+            "COVER_2": {
+                "plays": 192,
+                "percentage": 34.6
+            },
+            "COVER_3": {
+                "plays": 137,
+                "percentage": 24.7
+            },
+            "COVER_4": {
+                "plays": 41,
+                "percentage": 7.4
+            },
+            "COVER_6": {
+                "plays": 17,
+                "percentage": 3.1
+            },
+            "COVER_9": {
+                "plays": 15,
+                "percentage": 2.7
+            }
+        },
+        "MIN": {
+            "2_MAN": {
+                "plays": 27,
+                "percentage": 5.4
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.4
+            },
+            "COVER_0": {
+                "plays": 27,
+                "percentage": 5.4
+            },
+            "COVER_1": {
+                "plays": 38,
+                "percentage": 7.7
+            },
+            "COVER_2": {
+                "plays": 182,
+                "percentage": 36.7
+            },
+            "COVER_3": {
+                "plays": 121,
+                "percentage": 24.4
+            },
+            "COVER_4": {
+                "plays": 60,
+                "percentage": 12.1
+            },
+            "COVER_6": {
+                "plays": 20,
+                "percentage": 4.0
+            },
+            "COVER_9": {
+                "plays": 19,
+                "percentage": 3.8
+            }
+        },
+        "NE": {
+            "2_MAN": {
+                "plays": 18,
+                "percentage": 2.5
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COVER_0": {
+                "plays": 28,
+                "percentage": 3.9
+            },
+            "COVER_1": {
+                "plays": 182,
+                "percentage": 25.3
+            },
+            "COVER_2": {
+                "plays": 188,
+                "percentage": 26.2
+            },
+            "COVER_3": {
+                "plays": 199,
+                "percentage": 27.7
+            },
+            "COVER_4": {
+                "plays": 71,
+                "percentage": 9.9
+            },
+            "COVER_6": {
+                "plays": 21,
+                "percentage": 2.9
+            },
+            "COVER_9": {
+                "plays": 9,
+                "percentage": 1.3
+            }
+        },
+        "NO": {
+            "2_MAN": {
+                "plays": 13,
+                "percentage": 2.4
+            },
+            "COMBO": {
+                "plays": 2,
+                "percentage": 0.4
+            },
+            "COVER_0": {
+                "plays": 18,
+                "percentage": 3.4
+            },
+            "COVER_1": {
+                "plays": 85,
+                "percentage": 16.0
+            },
+            "COVER_2": {
+                "plays": 84,
+                "percentage": 15.8
+            },
+            "COVER_3": {
+                "plays": 215,
+                "percentage": 40.5
+            },
+            "COVER_4": {
+                "plays": 50,
+                "percentage": 9.4
+            },
+            "COVER_6": {
+                "plays": 41,
+                "percentage": 7.7
+            },
+            "COVER_9": {
+                "plays": 23,
+                "percentage": 4.3
+            }
+        },
+        "NYG": {
+            "2_MAN": {
+                "plays": 34,
+                "percentage": 5.8
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 23,
+                "percentage": 3.9
+            },
+            "COVER_1": {
+                "plays": 179,
+                "percentage": 30.4
+            },
+            "COVER_2": {
+                "plays": 89,
+                "percentage": 15.1
+            },
+            "COVER_3": {
+                "plays": 149,
+                "percentage": 25.3
+            },
+            "COVER_4": {
+                "plays": 88,
+                "percentage": 14.9
+            },
+            "COVER_6": {
+                "plays": 15,
+                "percentage": 2.5
+            },
+            "COVER_9": {
+                "plays": 11,
+                "percentage": 1.9
+            }
+        },
+        "NYJ": {
+            "2_MAN": {
+                "plays": 35,
+                "percentage": 6.5
+            },
+            "BLOWN": {
+                "plays": 3,
+                "percentage": 0.6
+            },
+            "COVER_0": {
+                "plays": 30,
+                "percentage": 5.5
+            },
+            "COVER_1": {
+                "plays": 152,
+                "percentage": 28.0
+            },
+            "COVER_2": {
+                "plays": 138,
+                "percentage": 25.5
+            },
+            "COVER_3": {
+                "plays": 126,
+                "percentage": 23.2
+            },
+            "COVER_4": {
+                "plays": 37,
+                "percentage": 6.8
+            },
+            "COVER_6": {
+                "plays": 11,
+                "percentage": 2.0
+            },
+            "COVER_9": {
+                "plays": 10,
+                "percentage": 1.8
+            }
+        },
+        "PHI": {
+            "2_MAN": {
+                "plays": 33,
+                "percentage": 5.4
+            },
+            "COMBO": {
+                "plays": 6,
+                "percentage": 1.0
+            },
+            "COVER_0": {
+                "plays": 19,
+                "percentage": 3.1
+            },
+            "COVER_1": {
+                "plays": 212,
+                "percentage": 34.5
+            },
+            "COVER_2": {
+                "plays": 109,
+                "percentage": 17.7
+            },
+            "COVER_3": {
+                "plays": 138,
+                "percentage": 22.4
+            },
+            "COVER_4": {
+                "plays": 44,
+                "percentage": 7.2
+            },
+            "COVER_6": {
+                "plays": 38,
+                "percentage": 6.2
+            },
+            "COVER_9": {
+                "plays": 16,
+                "percentage": 2.6
+            }
+        },
+        "PIT": {
+            "2_MAN": {
+                "plays": 47,
+                "percentage": 6.8
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.1
+            },
+            "COVER_0": {
+                "plays": 29,
+                "percentage": 4.2
+            },
+            "COVER_1": {
+                "plays": 173,
+                "percentage": 24.9
+            },
+            "COVER_2": {
+                "plays": 142,
+                "percentage": 20.4
+            },
+            "COVER_3": {
+                "plays": 201,
+                "percentage": 28.9
+            },
+            "COVER_4": {
+                "plays": 62,
+                "percentage": 8.9
+            },
+            "COVER_6": {
+                "plays": 29,
+                "percentage": 4.2
+            },
+            "COVER_9": {
+                "plays": 12,
+                "percentage": 1.7
+            }
+        },
+        "SEA": {
+            "2_MAN": {
+                "plays": 52,
+                "percentage": 6.8
+            },
+            "COMBO": {
+                "plays": 5,
+                "percentage": 0.7
+            },
+            "COVER_0": {
+                "plays": 26,
+                "percentage": 3.4
+            },
+            "COVER_1": {
+                "plays": 145,
+                "percentage": 18.9
+            },
+            "COVER_2": {
+                "plays": 239,
+                "percentage": 31.1
+            },
+            "COVER_3": {
+                "plays": 168,
+                "percentage": 21.8
+            },
+            "COVER_4": {
+                "plays": 52,
+                "percentage": 6.8
+            },
+            "COVER_6": {
+                "plays": 60,
+                "percentage": 7.8
+            },
+            "COVER_9": {
+                "plays": 22,
+                "percentage": 2.9
+            }
+        },
+        "SF": {
+            "2_MAN": {
+                "plays": 13,
+                "percentage": 2.0
+            },
+            "COMBO": {
+                "plays": 4,
+                "percentage": 0.6
+            },
+            "COVER_0": {
+                "plays": 19,
+                "percentage": 2.9
+            },
+            "COVER_1": {
+                "plays": 134,
+                "percentage": 20.4
+            },
+            "COVER_2": {
+                "plays": 112,
+                "percentage": 17.0
+            },
+            "COVER_3": {
+                "plays": 206,
+                "percentage": 31.3
+            },
+            "COVER_4": {
+                "plays": 96,
+                "percentage": 14.6
+            },
+            "COVER_6": {
+                "plays": 55,
+                "percentage": 8.4
+            },
+            "COVER_9": {
+                "plays": 19,
+                "percentage": 2.9
+            }
+        },
+        "TB": {
+            "2_MAN": {
+                "plays": 38,
+                "percentage": 6.3
+            },
+            "COMBO": {
+                "plays": 3,
+                "percentage": 0.5
+            },
+            "COVER_0": {
+                "plays": 31,
+                "percentage": 5.1
+            },
+            "COVER_1": {
+                "plays": 107,
+                "percentage": 17.7
+            },
+            "COVER_2": {
+                "plays": 131,
+                "percentage": 21.7
+            },
+            "COVER_3": {
+                "plays": 185,
+                "percentage": 30.7
+            },
+            "COVER_4": {
+                "plays": 68,
+                "percentage": 11.3
+            },
+            "COVER_6": {
+                "plays": 32,
+                "percentage": 5.3
+            },
+            "COVER_9": {
+                "plays": 8,
+                "percentage": 1.3
+            }
+        },
+        "TEN": {
+            "2_MAN": {
+                "plays": 20,
+                "percentage": 3.6
+            },
+            "BLOWN": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COMBO": {
+                "plays": 1,
+                "percentage": 0.2
+            },
+            "COVER_0": {
+                "plays": 19,
+                "percentage": 3.4
+            },
+            "COVER_1": {
+                "plays": 105,
+                "percentage": 18.9
+            },
+            "COVER_2": {
+                "plays": 164,
+                "percentage": 29.4
+            },
+            "COVER_3": {
+                "plays": 147,
+                "percentage": 26.4
+            },
+            "COVER_4": {
+                "plays": 53,
+                "percentage": 9.5
+            },
+            "COVER_6": {
+                "plays": 32,
+                "percentage": 5.7
+            },
+            "COVER_9": {
+                "plays": 15,
+                "percentage": 2.7
+            }
+        },
+        "WAS": {
+            "2_MAN": {
+                "plays": 20,
+                "percentage": 3.4
+            },
+            "BLOWN": {
+                "plays": 2,
+                "percentage": 0.3
+            },
+            "COMBO": {
+                "plays": 4,
+                "percentage": 0.7
+            },
+            "COVER_0": {
+                "plays": 17,
+                "percentage": 2.9
+            },
+            "COVER_1": {
+                "plays": 141,
+                "percentage": 24.2
+            },
+            "COVER_2": {
+                "plays": 112,
+                "percentage": 19.2
+            },
+            "COVER_3": {
+                "plays": 144,
+                "percentage": 24.7
+            },
+            "COVER_4": {
+                "plays": 90,
+                "percentage": 15.4
+            },
+            "COVER_6": {
+                "plays": 32,
+                "percentage": 5.5
+            },
+            "COVER_9": {
+                "plays": 21,
+                "percentage": 3.6
+            }
+        }
+    }
+}

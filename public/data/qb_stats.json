@@ -1,0 +1,3504 @@
+{
+    "2024": {
+        "A.Dalton": {
+            "COVER_1": {
+                "attempts": 75,
+                "completions": 47,
+                "yards": 465,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            },
+            "COVER_2": {
+                "attempts": 45,
+                "completions": 30,
+                "yards": 182,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            }
+        },
+        "A.O'Connell": {
+            "2_MAN": {
+                "attempts": 38,
+                "completions": 25,
+                "yards": 196,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 66.0
+            },
+            "COVER_1": {
+                "attempts": 75,
+                "completions": 51,
+                "yards": 638,
+                "touchdowns": 4,
+                "interceptions": 2,
+                "completion_pct": 68.0
+            },
+            "COVER_2": {
+                "attempts": 57,
+                "completions": 34,
+                "yards": 263,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 60.0
+            },
+            "COVER_3": {
+                "attempts": 40,
+                "completions": 19,
+                "yards": 216,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 48.0
+            }
+        },
+        "A.Richardson": {
+            "COVER_1": {
+                "attempts": 105,
+                "completions": 43,
+                "yards": 658,
+                "touchdowns": 4,
+                "interceptions": 2,
+                "completion_pct": 41.0
+            },
+            "COVER_2": {
+                "attempts": 49,
+                "completions": 21,
+                "yards": 291,
+                "touchdowns": 1,
+                "interceptions": 5,
+                "completion_pct": 43.0
+            },
+            "COVER_3": {
+                "attempts": 60,
+                "completions": 32,
+                "yards": 458,
+                "touchdowns": 0,
+                "interceptions": 4,
+                "completion_pct": 53.0
+            }
+        },
+        "A.Rodgers": {
+            "2_MAN": {
+                "attempts": 88,
+                "completions": 47,
+                "yards": 500,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 53.0
+            },
+            "COVER_0": {
+                "attempts": 36,
+                "completions": 15,
+                "yards": 101,
+                "touchdowns": 5,
+                "interceptions": 1,
+                "completion_pct": 42.0
+            },
+            "COVER_1": {
+                "attempts": 197,
+                "completions": 114,
+                "yards": 1282,
+                "touchdowns": 9,
+                "interceptions": 3,
+                "completion_pct": 58.0
+            },
+            "COVER_2": {
+                "attempts": 120,
+                "completions": 83,
+                "yards": 744,
+                "touchdowns": 6,
+                "interceptions": 1,
+                "completion_pct": 69.0
+            },
+            "COVER_3": {
+                "attempts": 108,
+                "completions": 62,
+                "yards": 652,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 57.0
+            },
+            "COVER_6": {
+                "attempts": 26,
+                "completions": 16,
+                "yards": 215,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 62.0
+            }
+        },
+        "B.Mayfield": {
+            "2_MAN": {
+                "attempts": 34,
+                "completions": 18,
+                "yards": 187,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 53.0
+            },
+            "COVER_0": {
+                "attempts": 34,
+                "completions": 20,
+                "yards": 228,
+                "touchdowns": 10,
+                "interceptions": 1,
+                "completion_pct": 59.0
+            },
+            "COVER_1": {
+                "attempts": 247,
+                "completions": 155,
+                "yards": 1770,
+                "touchdowns": 16,
+                "interceptions": 8,
+                "completion_pct": 63.0
+            },
+            "COVER_2": {
+                "attempts": 138,
+                "completions": 107,
+                "yards": 1188,
+                "touchdowns": 10,
+                "interceptions": 1,
+                "completion_pct": 78.0
+            },
+            "COVER_3": {
+                "attempts": 107,
+                "completions": 70,
+                "yards": 736,
+                "touchdowns": 1,
+                "interceptions": 3,
+                "completion_pct": 65.0
+            },
+            "COVER_4": {
+                "attempts": 28,
+                "completions": 19,
+                "yards": 190,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 68.0
+            }
+        },
+        "B.Nix": {
+            "2_MAN": {
+                "attempts": 50,
+                "completions": 31,
+                "yards": 263,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 62.0
+            },
+            "COVER_0": {
+                "attempts": 30,
+                "completions": 13,
+                "yards": 94,
+                "touchdowns": 6,
+                "interceptions": 0,
+                "completion_pct": 43.0
+            },
+            "COVER_1": {
+                "attempts": 205,
+                "completions": 117,
+                "yards": 1446,
+                "touchdowns": 11,
+                "interceptions": 3,
+                "completion_pct": 57.0
+            },
+            "COVER_2": {
+                "attempts": 135,
+                "completions": 101,
+                "yards": 946,
+                "touchdowns": 7,
+                "interceptions": 5,
+                "completion_pct": 75.0
+            },
+            "COVER_3": {
+                "attempts": 110,
+                "completions": 76,
+                "yards": 776,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 69.0
+            }
+        },
+        "B.Purdy": {
+            "2_MAN": {
+                "attempts": 40,
+                "completions": 21,
+                "yards": 191,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 52.0
+            },
+            "COVER_0": {
+                "attempts": 30,
+                "completions": 18,
+                "yards": 151,
+                "touchdowns": 5,
+                "interceptions": 0,
+                "completion_pct": 60.0
+            },
+            "COVER_1": {
+                "attempts": 160,
+                "completions": 89,
+                "yards": 1366,
+                "touchdowns": 6,
+                "interceptions": 8,
+                "completion_pct": 56.0
+            },
+            "COVER_2": {
+                "attempts": 92,
+                "completions": 63,
+                "yards": 767,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 68.0
+            },
+            "COVER_3": {
+                "attempts": 89,
+                "completions": 62,
+                "yards": 849,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 70.0
+            }
+        },
+        "B.Young": {
+            "COVER_1": {
+                "attempts": 180,
+                "completions": 86,
+                "yards": 1054,
+                "touchdowns": 4,
+                "interceptions": 3,
+                "completion_pct": 48.0
+            },
+            "COVER_2": {
+                "attempts": 81,
+                "completions": 54,
+                "yards": 477,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 64,
+                "completions": 39,
+                "yards": 317,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 61.0
+            },
+            "COVER_4": {
+                "attempts": 26,
+                "completions": 17,
+                "yards": 174,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 65.0
+            }
+        },
+        "C.Rush": {
+            "2_MAN": {
+                "attempts": 38,
+                "completions": 24,
+                "yards": 195,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 63.0
+            },
+            "COVER_1": {
+                "attempts": 103,
+                "completions": 49,
+                "yards": 691,
+                "touchdowns": 9,
+                "interceptions": 3,
+                "completion_pct": 48.0
+            },
+            "COVER_2": {
+                "attempts": 79,
+                "completions": 58,
+                "yards": 459,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 73.0
+            },
+            "COVER_3": {
+                "attempts": 50,
+                "completions": 28,
+                "yards": 229,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 56.0
+            }
+        },
+        "C.Stroud": {
+            "2_MAN": {
+                "attempts": 61,
+                "completions": 37,
+                "yards": 439,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 61.0
+            },
+            "COVER_1": {
+                "attempts": 206,
+                "completions": 109,
+                "yards": 1338,
+                "touchdowns": 7,
+                "interceptions": 3,
+                "completion_pct": 53.0
+            },
+            "COVER_2": {
+                "attempts": 158,
+                "completions": 104,
+                "yards": 947,
+                "touchdowns": 1,
+                "interceptions": 4,
+                "completion_pct": 66.0
+            },
+            "COVER_3": {
+                "attempts": 98,
+                "completions": 61,
+                "yards": 789,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 62.0
+            },
+            "COVER_4": {
+                "attempts": 65,
+                "completions": 37,
+                "yards": 371,
+                "touchdowns": 5,
+                "interceptions": 1,
+                "completion_pct": 57.0
+            },
+            "COVER_6": {
+                "attempts": 28,
+                "completions": 11,
+                "yards": 155,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 39.0
+            }
+        },
+        "C.Williams": {
+            "2_MAN": {
+                "attempts": 34,
+                "completions": 20,
+                "yards": 132,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 59.0
+            },
+            "COVER_0": {
+                "attempts": 26,
+                "completions": 13,
+                "yards": 110,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 50.0
+            },
+            "COVER_1": {
+                "attempts": 235,
+                "completions": 114,
+                "yards": 1156,
+                "touchdowns": 6,
+                "interceptions": 2,
+                "completion_pct": 49.0
+            },
+            "COVER_2": {
+                "attempts": 147,
+                "completions": 85,
+                "yards": 785,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 58.0
+            },
+            "COVER_3": {
+                "attempts": 117,
+                "completions": 78,
+                "yards": 821,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            },
+            "COVER_4": {
+                "attempts": 38,
+                "completions": 21,
+                "yards": 281,
+                "touchdowns": 5,
+                "interceptions": 0,
+                "completion_pct": 55.0
+            }
+        },
+        "D.Carr": {
+            "2_MAN": {
+                "attempts": 27,
+                "completions": 20,
+                "yards": 151,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 74.0
+            },
+            "COVER_1": {
+                "attempts": 105,
+                "completions": 61,
+                "yards": 677,
+                "touchdowns": 7,
+                "interceptions": 2,
+                "completion_pct": 58.0
+            },
+            "COVER_2": {
+                "attempts": 46,
+                "completions": 34,
+                "yards": 337,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 74.0
+            },
+            "COVER_3": {
+                "attempts": 41,
+                "completions": 29,
+                "yards": 418,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 71.0
+            },
+            "COVER_4": {
+                "attempts": 28,
+                "completions": 17,
+                "yards": 171,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 61.0
+            }
+        },
+        "D.Jones": {
+            "2_MAN": {
+                "attempts": 29,
+                "completions": 16,
+                "yards": 178,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 55.0
+            },
+            "COVER_1": {
+                "attempts": 144,
+                "completions": 80,
+                "yards": 814,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 56.0
+            },
+            "COVER_2": {
+                "attempts": 79,
+                "completions": 46,
+                "yards": 361,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 58.0
+            },
+            "COVER_3": {
+                "attempts": 66,
+                "completions": 44,
+                "yards": 430,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            }
+        },
+        "D.Lock": {
+            "COVER_1": {
+                "attempts": 74,
+                "completions": 34,
+                "yards": 432,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 46.0
+            },
+            "COVER_2": {
+                "attempts": 41,
+                "completions": 26,
+                "yards": 203,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 63.0
+            }
+        },
+        "D.Maye": {
+            "2_MAN": {
+                "attempts": 37,
+                "completions": 24,
+                "yards": 205,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 65.0
+            },
+            "COVER_1": {
+                "attempts": 158,
+                "completions": 83,
+                "yards": 898,
+                "touchdowns": 7,
+                "interceptions": 6,
+                "completion_pct": 53.0
+            },
+            "COVER_2": {
+                "attempts": 65,
+                "completions": 45,
+                "yards": 505,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 69.0
+            },
+            "COVER_3": {
+                "attempts": 48,
+                "completions": 34,
+                "yards": 284,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 71.0
+            }
+        },
+        "D.Prescott": {
+            "2_MAN": {
+                "attempts": 44,
+                "completions": 23,
+                "yards": 313,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 52.0
+            },
+            "COVER_1": {
+                "attempts": 110,
+                "completions": 53,
+                "yards": 604,
+                "touchdowns": 4,
+                "interceptions": 5,
+                "completion_pct": 48.0
+            },
+            "COVER_2": {
+                "attempts": 44,
+                "completions": 36,
+                "yards": 361,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 82.0
+            },
+            "COVER_3": {
+                "attempts": 40,
+                "completions": 30,
+                "yards": 240,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 75.0
+            }
+        },
+        "D.Ridder": {
+            "COVER_1": {
+                "attempts": 34,
+                "completions": 20,
+                "yards": 234,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 59.0
+            }
+        },
+        "D.Thompson-Robinson": {
+            "COVER_1": {
+                "attempts": 38,
+                "completions": 18,
+                "yards": 132,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 47.0
+            }
+        },
+        "D.Watson": {
+            "COVER_1": {
+                "attempts": 116,
+                "completions": 51,
+                "yards": 440,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 44.0
+            },
+            "COVER_2": {
+                "attempts": 58,
+                "completions": 41,
+                "yards": 367,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 71.0
+            },
+            "COVER_3": {
+                "attempts": 32,
+                "completions": 23,
+                "yards": 152,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 72.0
+            }
+        },
+        "G.Minshew": {
+            "2_MAN": {
+                "attempts": 28,
+                "completions": 17,
+                "yards": 159,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 61.0
+            },
+            "COVER_1": {
+                "attempts": 140,
+                "completions": 72,
+                "yards": 739,
+                "touchdowns": 4,
+                "interceptions": 6,
+                "completion_pct": 51.0
+            },
+            "COVER_2": {
+                "attempts": 59,
+                "completions": 43,
+                "yards": 410,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 73.0
+            },
+            "COVER_3": {
+                "attempts": 43,
+                "completions": 31,
+                "yards": 292,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 72.0
+            }
+        },
+        "G.Smith": {
+            "2_MAN": {
+                "attempts": 33,
+                "completions": 20,
+                "yards": 265,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 61.0
+            },
+            "COVER_1": {
+                "attempts": 190,
+                "completions": 117,
+                "yards": 1270,
+                "touchdowns": 6,
+                "interceptions": 5,
+                "completion_pct": 62.0
+            },
+            "COVER_2": {
+                "attempts": 158,
+                "completions": 100,
+                "yards": 909,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            },
+            "COVER_3": {
+                "attempts": 142,
+                "completions": 103,
+                "yards": 1051,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 73.0
+            },
+            "COVER_4": {
+                "attempts": 46,
+                "completions": 30,
+                "yards": 352,
+                "touchdowns": 5,
+                "interceptions": 0,
+                "completion_pct": 65.0
+            },
+            "COVER_6": {
+                "attempts": 29,
+                "completions": 20,
+                "yards": 266,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 69.0
+            }
+        },
+        "J.Allen": {
+            "COVER_0": {
+                "attempts": 38,
+                "completions": 18,
+                "yards": 241,
+                "touchdowns": 13,
+                "interceptions": 1,
+                "completion_pct": 47.0
+            },
+            "COVER_1": {
+                "attempts": 265,
+                "completions": 155,
+                "yards": 1922,
+                "touchdowns": 12,
+                "interceptions": 3,
+                "completion_pct": 58.0
+            },
+            "COVER_2": {
+                "attempts": 103,
+                "completions": 74,
+                "yards": 833,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 72.0
+            },
+            "COVER_3": {
+                "attempts": 81,
+                "completions": 57,
+                "yards": 694,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 70.0
+            },
+            "COVER_4": {
+                "attempts": 44,
+                "completions": 30,
+                "yards": 260,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 68.0
+            }
+        },
+        "J.Brissett": {
+            "COVER_1": {
+                "attempts": 84,
+                "completions": 36,
+                "yards": 332,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 43.0
+            },
+            "COVER_2": {
+                "attempts": 32,
+                "completions": 17,
+                "yards": 127,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 53.0
+            },
+            "COVER_3": {
+                "attempts": 27,
+                "completions": 20,
+                "yards": 155,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 74.0
+            }
+        },
+        "J.Burrow": {
+            "2_MAN": {
+                "attempts": 75,
+                "completions": 40,
+                "yards": 539,
+                "touchdowns": 5,
+                "interceptions": 0,
+                "completion_pct": 53.0
+            },
+            "COVER_0": {
+                "attempts": 38,
+                "completions": 16,
+                "yards": 122,
+                "touchdowns": 10,
+                "interceptions": 0,
+                "completion_pct": 42.0
+            },
+            "COVER_1": {
+                "attempts": 258,
+                "completions": 158,
+                "yards": 1757,
+                "touchdowns": 23,
+                "interceptions": 5,
+                "completion_pct": 61.0
+            },
+            "COVER_2": {
+                "attempts": 135,
+                "completions": 105,
+                "yards": 1064,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 78.0
+            },
+            "COVER_3": {
+                "attempts": 88,
+                "completions": 66,
+                "yards": 694,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 75.0
+            },
+            "COVER_4": {
+                "attempts": 53,
+                "completions": 40,
+                "yards": 403,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 75.0
+            }
+        },
+        "J.Daniels": {
+            "2_MAN": {
+                "attempts": 43,
+                "completions": 24,
+                "yards": 177,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 56.0
+            },
+            "COVER_0": {
+                "attempts": 30,
+                "completions": 21,
+                "yards": 118,
+                "touchdowns": 11,
+                "interceptions": 0,
+                "completion_pct": 70.0
+            },
+            "COVER_1": {
+                "attempts": 271,
+                "completions": 137,
+                "yards": 1651,
+                "touchdowns": 8,
+                "interceptions": 2,
+                "completion_pct": 51.0
+            },
+            "COVER_2": {
+                "attempts": 98,
+                "completions": 69,
+                "yards": 675,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 70.0
+            },
+            "COVER_3": {
+                "attempts": 112,
+                "completions": 86,
+                "yards": 991,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 77.0
+            },
+            "COVER_4": {
+                "attempts": 48,
+                "completions": 35,
+                "yards": 418,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 73.0
+            }
+        },
+        "J.Fields": {
+            "COVER_1": {
+                "attempts": 57,
+                "completions": 29,
+                "yards": 314,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 51.0
+            },
+            "COVER_2": {
+                "attempts": 36,
+                "completions": 24,
+                "yards": 319,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 42,
+                "completions": 27,
+                "yards": 220,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 64.0
+            }
+        },
+        "J.Flacco": {
+            "2_MAN": {
+                "attempts": 26,
+                "completions": 17,
+                "yards": 188,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 65.0
+            },
+            "COVER_1": {
+                "attempts": 87,
+                "completions": 45,
+                "yards": 564,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 52.0
+            },
+            "COVER_2": {
+                "attempts": 72,
+                "completions": 48,
+                "yards": 450,
+                "touchdowns": 4,
+                "interceptions": 3,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 44,
+                "completions": 25,
+                "yards": 296,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 57.0
+            }
+        },
+        "J.Goff": {
+            "2_MAN": {
+                "attempts": 26,
+                "completions": 16,
+                "yards": 131,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 62.0
+            },
+            "COVER_1": {
+                "attempts": 187,
+                "completions": 123,
+                "yards": 1648,
+                "touchdowns": 16,
+                "interceptions": 2,
+                "completion_pct": 66.0
+            },
+            "COVER_2": {
+                "attempts": 137,
+                "completions": 96,
+                "yards": 1030,
+                "touchdowns": 5,
+                "interceptions": 6,
+                "completion_pct": 70.0
+            },
+            "COVER_3": {
+                "attempts": 138,
+                "completions": 99,
+                "yards": 1288,
+                "touchdowns": 5,
+                "interceptions": 4,
+                "completion_pct": 72.0
+            },
+            "COVER_4": {
+                "attempts": 34,
+                "completions": 23,
+                "yards": 261,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 68.0
+            }
+        },
+        "J.Herbert": {
+            "2_MAN": {
+                "attempts": 36,
+                "completions": 19,
+                "yards": 152,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 53.0
+            },
+            "COVER_0": {
+                "attempts": 26,
+                "completions": 8,
+                "yards": 103,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 31.0
+            },
+            "COVER_1": {
+                "attempts": 227,
+                "completions": 120,
+                "yards": 1577,
+                "touchdowns": 11,
+                "interceptions": 2,
+                "completion_pct": 53.0
+            },
+            "COVER_2": {
+                "attempts": 109,
+                "completions": 72,
+                "yards": 751,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 66.0
+            },
+            "COVER_3": {
+                "attempts": 97,
+                "completions": 72,
+                "yards": 910,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 74.0
+            },
+            "COVER_4": {
+                "attempts": 35,
+                "completions": 25,
+                "yards": 215,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 71.0
+            }
+        },
+        "J.Hurts": {
+            "2_MAN": {
+                "attempts": 30,
+                "completions": 22,
+                "yards": 277,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 73.0
+            },
+            "COVER_0": {
+                "attempts": 29,
+                "completions": 14,
+                "yards": 113,
+                "touchdowns": 6,
+                "interceptions": 0,
+                "completion_pct": 48.0
+            },
+            "COVER_1": {
+                "attempts": 217,
+                "completions": 133,
+                "yards": 1776,
+                "touchdowns": 11,
+                "interceptions": 1,
+                "completion_pct": 61.0
+            },
+            "COVER_2": {
+                "attempts": 96,
+                "completions": 69,
+                "yards": 689,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 72.0
+            },
+            "COVER_3": {
+                "attempts": 78,
+                "completions": 44,
+                "yards": 482,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 56.0
+            },
+            "COVER_4": {
+                "attempts": 30,
+                "completions": 19,
+                "yards": 149,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 63.0
+            }
+        },
+        "J.Love": {
+            "2_MAN": {
+                "attempts": 42,
+                "completions": 25,
+                "yards": 226,
+                "touchdowns": 4,
+                "interceptions": 2,
+                "completion_pct": 60.0
+            },
+            "COVER_1": {
+                "attempts": 179,
+                "completions": 98,
+                "yards": 1338,
+                "touchdowns": 8,
+                "interceptions": 4,
+                "completion_pct": 55.0
+            },
+            "COVER_2": {
+                "attempts": 76,
+                "completions": 52,
+                "yards": 512,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 68.0
+            },
+            "COVER_3": {
+                "attempts": 84,
+                "completions": 53,
+                "yards": 846,
+                "touchdowns": 4,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            },
+            "COVER_6": {
+                "attempts": 29,
+                "completions": 17,
+                "yards": 221,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 59.0
+            }
+        },
+        "J.Winston": {
+            "2_MAN": {
+                "attempts": 36,
+                "completions": 18,
+                "yards": 173,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 50.0
+            },
+            "COVER_1": {
+                "attempts": 110,
+                "completions": 62,
+                "yards": 801,
+                "touchdowns": 5,
+                "interceptions": 3,
+                "completion_pct": 56.0
+            },
+            "COVER_2": {
+                "attempts": 63,
+                "completions": 37,
+                "yards": 372,
+                "touchdowns": 1,
+                "interceptions": 4,
+                "completion_pct": 59.0
+            },
+            "COVER_3": {
+                "attempts": 52,
+                "completions": 30,
+                "yards": 284,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 58.0
+            }
+        },
+        "K.Cousins": {
+            "2_MAN": {
+                "attempts": 31,
+                "completions": 23,
+                "yards": 222,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 74.0
+            },
+            "COVER_1": {
+                "attempts": 150,
+                "completions": 84,
+                "yards": 1182,
+                "touchdowns": 6,
+                "interceptions": 3,
+                "completion_pct": 56.0
+            },
+            "COVER_2": {
+                "attempts": 115,
+                "completions": 73,
+                "yards": 753,
+                "touchdowns": 6,
+                "interceptions": 6,
+                "completion_pct": 63.0
+            },
+            "COVER_3": {
+                "attempts": 104,
+                "completions": 72,
+                "yards": 816,
+                "touchdowns": 1,
+                "interceptions": 4,
+                "completion_pct": 69.0
+            },
+            "COVER_4": {
+                "attempts": 28,
+                "completions": 23,
+                "yards": 177,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 82.0
+            }
+        },
+        "K.Murray": {
+            "2_MAN": {
+                "attempts": 28,
+                "completions": 13,
+                "yards": 147,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 46.0
+            },
+            "COVER_0": {
+                "attempts": 31,
+                "completions": 15,
+                "yards": 98,
+                "touchdowns": 7,
+                "interceptions": 1,
+                "completion_pct": 48.0
+            },
+            "COVER_1": {
+                "attempts": 211,
+                "completions": 121,
+                "yards": 1370,
+                "touchdowns": 9,
+                "interceptions": 4,
+                "completion_pct": 57.0
+            },
+            "COVER_2": {
+                "attempts": 116,
+                "completions": 87,
+                "yards": 850,
+                "touchdowns": 0,
+                "interceptions": 4,
+                "completion_pct": 75.0
+            },
+            "COVER_3": {
+                "attempts": 117,
+                "completions": 85,
+                "yards": 870,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 73.0
+            },
+            "COVER_4": {
+                "attempts": 32,
+                "completions": 25,
+                "yards": 240,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 78.0
+            }
+        },
+        "K.Pickett": {
+            "COVER_1": {
+                "attempts": 35,
+                "completions": 18,
+                "yards": 255,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 51.0
+            }
+        },
+        "L.Jackson": {
+            "COVER_0": {
+                "attempts": 40,
+                "completions": 25,
+                "yards": 235,
+                "touchdowns": 10,
+                "interceptions": 0,
+                "completion_pct": 62.0
+            },
+            "COVER_1": {
+                "attempts": 210,
+                "completions": 123,
+                "yards": 1827,
+                "touchdowns": 14,
+                "interceptions": 4,
+                "completion_pct": 59.0
+            },
+            "COVER_2": {
+                "attempts": 95,
+                "completions": 66,
+                "yards": 766,
+                "touchdowns": 7,
+                "interceptions": 0,
+                "completion_pct": 69.0
+            },
+            "COVER_3": {
+                "attempts": 124,
+                "completions": 88,
+                "yards": 1186,
+                "touchdowns": 7,
+                "interceptions": 0,
+                "completion_pct": 71.0
+            },
+            "COVER_4": {
+                "attempts": 36,
+                "completions": 26,
+                "yards": 327,
+                "touchdowns": 5,
+                "interceptions": 0,
+                "completion_pct": 72.0
+            }
+        },
+        "M.Jones": {
+            "COVER_1": {
+                "attempts": 102,
+                "completions": 51,
+                "yards": 628,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 76,
+                "completions": 54,
+                "yards": 464,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 71.0
+            },
+            "COVER_3": {
+                "attempts": 53,
+                "completions": 33,
+                "yards": 282,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 62.0
+            }
+        },
+        "M.Mariota": {
+            "COVER_1": {
+                "attempts": 27,
+                "completions": 18,
+                "yards": 204,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 67.0
+            }
+        },
+        "M.Penix": {
+            "COVER_1": {
+                "attempts": 49,
+                "completions": 27,
+                "yards": 385,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 55.0
+            },
+            "COVER_2": {
+                "attempts": 26,
+                "completions": 16,
+                "yards": 151,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 62.0
+            }
+        },
+        "M.Rudolph": {
+            "COVER_1": {
+                "attempts": 83,
+                "completions": 48,
+                "yards": 550,
+                "touchdowns": 7,
+                "interceptions": 2,
+                "completion_pct": 58.0
+            },
+            "COVER_2": {
+                "attempts": 48,
+                "completions": 32,
+                "yards": 280,
+                "touchdowns": 0,
+                "interceptions": 3,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 54,
+                "completions": 34,
+                "yards": 364,
+                "touchdowns": 0,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            }
+        },
+        "M.Stafford": {
+            "2_MAN": {
+                "attempts": 34,
+                "completions": 19,
+                "yards": 309,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 56.0
+            },
+            "COVER_0": {
+                "attempts": 34,
+                "completions": 19,
+                "yards": 269,
+                "touchdowns": 12,
+                "interceptions": 1,
+                "completion_pct": 56.0
+            },
+            "COVER_1": {
+                "attempts": 223,
+                "completions": 115,
+                "yards": 1327,
+                "touchdowns": 4,
+                "interceptions": 4,
+                "completion_pct": 52.0
+            },
+            "COVER_2": {
+                "attempts": 138,
+                "completions": 97,
+                "yards": 796,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 70.0
+            },
+            "COVER_3": {
+                "attempts": 125,
+                "completions": 91,
+                "yards": 1138,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 73.0
+            },
+            "COVER_6": {
+                "attempts": 29,
+                "completions": 19,
+                "yards": 212,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 66.0
+            }
+        },
+        "P.Mahomes": {
+            "2_MAN": {
+                "attempts": 38,
+                "completions": 24,
+                "yards": 239,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 63.0
+            },
+            "COVER_0": {
+                "attempts": 31,
+                "completions": 14,
+                "yards": 131,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 45.0
+            },
+            "COVER_1": {
+                "attempts": 259,
+                "completions": 158,
+                "yards": 1814,
+                "touchdowns": 12,
+                "interceptions": 4,
+                "completion_pct": 61.0
+            },
+            "COVER_2": {
+                "attempts": 135,
+                "completions": 90,
+                "yards": 832,
+                "touchdowns": 5,
+                "interceptions": 3,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 121,
+                "completions": 77,
+                "yards": 825,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 64.0
+            },
+            "COVER_4": {
+                "attempts": 91,
+                "completions": 61,
+                "yards": 547,
+                "touchdowns": 8,
+                "interceptions": 2,
+                "completion_pct": 67.0
+            }
+        },
+        "R.Wilson": {
+            "2_MAN": {
+                "attempts": 42,
+                "completions": 22,
+                "yards": 178,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 52.0
+            },
+            "COVER_1": {
+                "attempts": 180,
+                "completions": 98,
+                "yards": 1289,
+                "touchdowns": 10,
+                "interceptions": 3,
+                "completion_pct": 54.0
+            },
+            "COVER_2": {
+                "attempts": 70,
+                "completions": 44,
+                "yards": 468,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 63.0
+            },
+            "COVER_3": {
+                "attempts": 43,
+                "completions": 29,
+                "yards": 392,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            },
+            "COVER_4": {
+                "attempts": 34,
+                "completions": 21,
+                "yards": 231,
+                "touchdowns": 5,
+                "interceptions": 0,
+                "completion_pct": 62.0
+            }
+        },
+        "S.Darnold": {
+            "2_MAN": {
+                "attempts": 69,
+                "completions": 43,
+                "yards": 412,
+                "touchdowns": 6,
+                "interceptions": 1,
+                "completion_pct": 62.0
+            },
+            "COVER_1": {
+                "attempts": 191,
+                "completions": 105,
+                "yards": 1461,
+                "touchdowns": 17,
+                "interceptions": 4,
+                "completion_pct": 55.0
+            },
+            "COVER_2": {
+                "attempts": 143,
+                "completions": 90,
+                "yards": 964,
+                "touchdowns": 6,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            },
+            "COVER_3": {
+                "attempts": 118,
+                "completions": 74,
+                "yards": 940,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            },
+            "COVER_4": {
+                "attempts": 39,
+                "completions": 27,
+                "yards": 308,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 69.0
+            },
+            "COVER_6": {
+                "attempts": 29,
+                "completions": 17,
+                "yards": 197,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 59.0
+            }
+        },
+        "S.Rattler": {
+            "COVER_1": {
+                "attempts": 82,
+                "completions": 40,
+                "yards": 459,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 49.0
+            },
+            "COVER_2": {
+                "attempts": 55,
+                "completions": 37,
+                "yards": 354,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 66,
+                "completions": 31,
+                "yards": 271,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 47.0
+            }
+        },
+        "T.Huntley": {
+            "COVER_1": {
+                "attempts": 46,
+                "completions": 23,
+                "yards": 247,
+                "touchdowns": 0,
+                "interceptions": 2,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 35,
+                "completions": 25,
+                "yards": 234,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 71.0
+            },
+            "COVER_3": {
+                "attempts": 30,
+                "completions": 19,
+                "yards": 153,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 63.0
+            }
+        },
+        "T.Lawrence": {
+            "COVER_1": {
+                "attempts": 100,
+                "completions": 49,
+                "yards": 543,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 49.0
+            },
+            "COVER_2": {
+                "attempts": 54,
+                "completions": 30,
+                "yards": 267,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 56.0
+            },
+            "COVER_3": {
+                "attempts": 73,
+                "completions": 51,
+                "yards": 733,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 70.0
+            },
+            "COVER_4": {
+                "attempts": 26,
+                "completions": 21,
+                "yards": 242,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 81.0
+            }
+        },
+        "T.Tagovailoa": {
+            "2_MAN": {
+                "attempts": 26,
+                "completions": 18,
+                "yards": 199,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 69.0
+            },
+            "COVER_1": {
+                "attempts": 111,
+                "completions": 64,
+                "yards": 653,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 58.0
+            },
+            "COVER_2": {
+                "attempts": 117,
+                "completions": 88,
+                "yards": 824,
+                "touchdowns": 4,
+                "interceptions": 2,
+                "completion_pct": 75.0
+            },
+            "COVER_3": {
+                "attempts": 76,
+                "completions": 52,
+                "yards": 570,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 68.0
+            },
+            "COVER_4": {
+                "attempts": 49,
+                "completions": 38,
+                "yards": 352,
+                "touchdowns": 4,
+                "interceptions": 0,
+                "completion_pct": 78.0
+            }
+        },
+        "W.Levis": {
+            "2_MAN": {
+                "attempts": 27,
+                "completions": 14,
+                "yards": 135,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 52.0
+            },
+            "COVER_1": {
+                "attempts": 124,
+                "completions": 57,
+                "yards": 714,
+                "touchdowns": 7,
+                "interceptions": 5,
+                "completion_pct": 46.0
+            },
+            "COVER_2": {
+                "attempts": 82,
+                "completions": 56,
+                "yards": 479,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 68.0
+            },
+            "COVER_3": {
+                "attempts": 53,
+                "completions": 34,
+                "yards": 314,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 64.0
+            }
+        }
+    },
+    "2025": {
+        "A.Rodgers": {
+            "2_MAN": {
+                "attempts": 38,
+                "completions": 18,
+                "yards": 174,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 47.0
+            },
+            "COVER_1": {
+                "attempts": 116,
+                "completions": 57,
+                "yards": 667,
+                "touchdowns": 7,
+                "interceptions": 1,
+                "completion_pct": 49.0
+            },
+            "COVER_2": {
+                "attempts": 149,
+                "completions": 103,
+                "yards": 986,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 69.0
+            },
+            "COVER_3": {
+                "attempts": 137,
+                "completions": 90,
+                "yards": 782,
+                "touchdowns": 6,
+                "interceptions": 3,
+                "completion_pct": 66.0
+            },
+            "COVER_4": {
+                "attempts": 55,
+                "completions": 35,
+                "yards": 414,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 64.0
+            },
+            "COVER_6": {
+                "attempts": 32,
+                "completions": 19,
+                "yards": 173,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 59.0
+            }
+        },
+        "B.Cook": {
+            "COVER_2": {
+                "attempts": 52,
+                "completions": 24,
+                "yards": 219,
+                "touchdowns": 0,
+                "interceptions": 3,
+                "completion_pct": 46.0
+            },
+            "COVER_3": {
+                "attempts": 62,
+                "completions": 37,
+                "yards": 280,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 60.0
+            }
+        },
+        "B.Mayfield": {
+            "2_MAN": {
+                "attempts": 29,
+                "completions": 17,
+                "yards": 117,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 59.0
+            },
+            "COVER_1": {
+                "attempts": 139,
+                "completions": 71,
+                "yards": 671,
+                "touchdowns": 6,
+                "interceptions": 1,
+                "completion_pct": 51.0
+            },
+            "COVER_2": {
+                "attempts": 137,
+                "completions": 93,
+                "yards": 999,
+                "touchdowns": 7,
+                "interceptions": 4,
+                "completion_pct": 68.0
+            },
+            "COVER_3": {
+                "attempts": 155,
+                "completions": 94,
+                "yards": 1035,
+                "touchdowns": 6,
+                "interceptions": 3,
+                "completion_pct": 61.0
+            },
+            "COVER_4": {
+                "attempts": 62,
+                "completions": 33,
+                "yards": 341,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 53.0
+            },
+            "COVER_6": {
+                "attempts": 38,
+                "completions": 21,
+                "yards": 308,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 55.0
+            }
+        },
+        "B.Nix": {
+            "COVER_1": {
+                "attempts": 126,
+                "completions": 70,
+                "yards": 833,
+                "touchdowns": 7,
+                "interceptions": 3,
+                "completion_pct": 56.0
+            },
+            "COVER_2": {
+                "attempts": 185,
+                "completions": 119,
+                "yards": 1037,
+                "touchdowns": 7,
+                "interceptions": 2,
+                "completion_pct": 64.0
+            },
+            "COVER_3": {
+                "attempts": 202,
+                "completions": 127,
+                "yards": 1384,
+                "touchdowns": 4,
+                "interceptions": 2,
+                "completion_pct": 63.0
+            },
+            "COVER_4": {
+                "attempts": 71,
+                "completions": 41,
+                "yards": 416,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 58.0
+            },
+            "COVER_6": {
+                "attempts": 37,
+                "completions": 25,
+                "yards": 258,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 68.0
+            }
+        },
+        "B.Purdy": {
+            "COVER_1": {
+                "attempts": 95,
+                "completions": 54,
+                "yards": 666,
+                "touchdowns": 4,
+                "interceptions": 3,
+                "completion_pct": 57.0
+            },
+            "COVER_2": {
+                "attempts": 75,
+                "completions": 49,
+                "yards": 448,
+                "touchdowns": 6,
+                "interceptions": 2,
+                "completion_pct": 65.0
+            },
+            "COVER_3": {
+                "attempts": 89,
+                "completions": 59,
+                "yards": 769,
+                "touchdowns": 5,
+                "interceptions": 4,
+                "completion_pct": 66.0
+            },
+            "COVER_4": {
+                "attempts": 30,
+                "completions": 20,
+                "yards": 234,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 67.0
+            },
+            "COVER_6": {
+                "attempts": 26,
+                "completions": 20,
+                "yards": 225,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 77.0
+            }
+        },
+        "B.Young": {
+            "COVER_1": {
+                "attempts": 124,
+                "completions": 51,
+                "yards": 722,
+                "touchdowns": 7,
+                "interceptions": 4,
+                "completion_pct": 41.0
+            },
+            "COVER_2": {
+                "attempts": 120,
+                "completions": 87,
+                "yards": 781,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 72.0
+            },
+            "COVER_3": {
+                "attempts": 150,
+                "completions": 91,
+                "yards": 885,
+                "touchdowns": 3,
+                "interceptions": 4,
+                "completion_pct": 61.0
+            },
+            "COVER_4": {
+                "attempts": 72,
+                "completions": 45,
+                "yards": 503,
+                "touchdowns": 5,
+                "interceptions": 1,
+                "completion_pct": 62.0
+            },
+            "COVER_6": {
+                "attempts": 33,
+                "completions": 21,
+                "yards": 204,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 64.0
+            }
+        },
+        "C.Stroud": {
+            "2_MAN": {
+                "attempts": 29,
+                "completions": 8,
+                "yards": 82,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 28.0
+            },
+            "COVER_0": {
+                "attempts": 27,
+                "completions": 10,
+                "yards": 58,
+                "touchdowns": 4,
+                "interceptions": 0,
+                "completion_pct": 37.0
+            },
+            "COVER_1": {
+                "attempts": 127,
+                "completions": 75,
+                "yards": 986,
+                "touchdowns": 11,
+                "interceptions": 4,
+                "completion_pct": 59.0
+            },
+            "COVER_2": {
+                "attempts": 119,
+                "completions": 77,
+                "yards": 662,
+                "touchdowns": 1,
+                "interceptions": 5,
+                "completion_pct": 65.0
+            },
+            "COVER_3": {
+                "attempts": 132,
+                "completions": 85,
+                "yards": 974,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 64.0
+            },
+            "COVER_4": {
+                "attempts": 53,
+                "completions": 28,
+                "yards": 381,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 53.0
+            },
+            "COVER_6": {
+                "attempts": 29,
+                "completions": 19,
+                "yards": 251,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 66.0
+            }
+        },
+        "C.Ward": {
+            "COVER_1": {
+                "attempts": 133,
+                "completions": 55,
+                "yards": 599,
+                "touchdowns": 5,
+                "interceptions": 1,
+                "completion_pct": 41.0
+            },
+            "COVER_2": {
+                "attempts": 161,
+                "completions": 101,
+                "yards": 911,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 63.0
+            },
+            "COVER_3": {
+                "attempts": 175,
+                "completions": 100,
+                "yards": 951,
+                "touchdowns": 4,
+                "interceptions": 2,
+                "completion_pct": 57.0
+            },
+            "COVER_4": {
+                "attempts": 39,
+                "completions": 14,
+                "yards": 151,
+                "touchdowns": 0,
+                "interceptions": 2,
+                "completion_pct": 36.0
+            },
+            "COVER_6": {
+                "attempts": 30,
+                "completions": 21,
+                "yards": 242,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 70.0
+            }
+        },
+        "C.Wentz": {
+            "COVER_1": {
+                "attempts": 42,
+                "completions": 19,
+                "yards": 177,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 45.0
+            },
+            "COVER_2": {
+                "attempts": 42,
+                "completions": 27,
+                "yards": 316,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 64.0
+            },
+            "COVER_3": {
+                "attempts": 42,
+                "completions": 30,
+                "yards": 467,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 71.0
+            },
+            "COVER_4": {
+                "attempts": 32,
+                "completions": 21,
+                "yards": 141,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 66.0
+            }
+        },
+        "C.Williams": {
+            "COVER_0": {
+                "attempts": 32,
+                "completions": 16,
+                "yards": 223,
+                "touchdowns": 9,
+                "interceptions": 1,
+                "completion_pct": 50.0
+            },
+            "COVER_1": {
+                "attempts": 143,
+                "completions": 79,
+                "yards": 960,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 55.0
+            },
+            "COVER_2": {
+                "attempts": 154,
+                "completions": 81,
+                "yards": 883,
+                "touchdowns": 1,
+                "interceptions": 5,
+                "completion_pct": 53.0
+            },
+            "COVER_3": {
+                "attempts": 226,
+                "completions": 122,
+                "yards": 1512,
+                "touchdowns": 11,
+                "interceptions": 2,
+                "completion_pct": 54.0
+            },
+            "COVER_4": {
+                "attempts": 63,
+                "completions": 41,
+                "yards": 444,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 65.0
+            },
+            "COVER_6": {
+                "attempts": 42,
+                "completions": 23,
+                "yards": 331,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 55.0
+            }
+        },
+        "D.Gabriel": {
+            "COVER_1": {
+                "attempts": 52,
+                "completions": 25,
+                "yards": 237,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 48.0
+            },
+            "COVER_2": {
+                "attempts": 48,
+                "completions": 31,
+                "yards": 236,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 65.0
+            },
+            "COVER_3": {
+                "attempts": 52,
+                "completions": 28,
+                "yards": 239,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 54.0
+            }
+        },
+        "D.Jones": {
+            "COVER_1": {
+                "attempts": 84,
+                "completions": 46,
+                "yards": 574,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 55.0
+            },
+            "COVER_2": {
+                "attempts": 100,
+                "completions": 75,
+                "yards": 818,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 75.0
+            },
+            "COVER_3": {
+                "attempts": 108,
+                "completions": 71,
+                "yards": 962,
+                "touchdowns": 4,
+                "interceptions": 4,
+                "completion_pct": 66.0
+            },
+            "COVER_4": {
+                "attempts": 38,
+                "completions": 27,
+                "yards": 312,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 71.0
+            }
+        },
+        "D.Maye": {
+            "2_MAN": {
+                "attempts": 33,
+                "completions": 19,
+                "yards": 146,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 58.0
+            },
+            "COVER_0": {
+                "attempts": 33,
+                "completions": 12,
+                "yards": 103,
+                "touchdowns": 7,
+                "interceptions": 1,
+                "completion_pct": 36.0
+            },
+            "COVER_1": {
+                "attempts": 157,
+                "completions": 88,
+                "yards": 1342,
+                "touchdowns": 15,
+                "interceptions": 0,
+                "completion_pct": 56.0
+            },
+            "COVER_2": {
+                "attempts": 170,
+                "completions": 117,
+                "yards": 1338,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 69.0
+            },
+            "COVER_3": {
+                "attempts": 170,
+                "completions": 124,
+                "yards": 1475,
+                "touchdowns": 6,
+                "interceptions": 5,
+                "completion_pct": 73.0
+            },
+            "COVER_4": {
+                "attempts": 60,
+                "completions": 35,
+                "yards": 461,
+                "touchdowns": 4,
+                "interceptions": 3,
+                "completion_pct": 58.0
+            },
+            "COVER_6": {
+                "attempts": 44,
+                "completions": 22,
+                "yards": 259,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 50.0
+            }
+        },
+        "D.Mills": {
+            "COVER_2": {
+                "attempts": 53,
+                "completions": 30,
+                "yards": 239,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 57.0
+            },
+            "COVER_3": {
+                "attempts": 43,
+                "completions": 26,
+                "yards": 273,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 60.0
+            }
+        },
+        "D.Prescott": {
+            "2_MAN": {
+                "attempts": 63,
+                "completions": 36,
+                "yards": 472,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 57.0
+            },
+            "COVER_0": {
+                "attempts": 31,
+                "completions": 18,
+                "yards": 175,
+                "touchdowns": 6,
+                "interceptions": 0,
+                "completion_pct": 58.0
+            },
+            "COVER_1": {
+                "attempts": 132,
+                "completions": 79,
+                "yards": 1171,
+                "touchdowns": 8,
+                "interceptions": 3,
+                "completion_pct": 60.0
+            },
+            "COVER_2": {
+                "attempts": 143,
+                "completions": 96,
+                "yards": 924,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 131,
+                "completions": 94,
+                "yards": 908,
+                "touchdowns": 9,
+                "interceptions": 2,
+                "completion_pct": 72.0
+            },
+            "COVER_4": {
+                "attempts": 91,
+                "completions": 61,
+                "yards": 716,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 67.0
+            },
+            "COVER_6": {
+                "attempts": 28,
+                "completions": 13,
+                "yards": 125,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 46.0
+            }
+        },
+        "G.Smith": {
+            "COVER_1": {
+                "attempts": 121,
+                "completions": 60,
+                "yards": 761,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 113,
+                "completions": 67,
+                "yards": 493,
+                "touchdowns": 4,
+                "interceptions": 9,
+                "completion_pct": 59.0
+            },
+            "COVER_3": {
+                "attempts": 138,
+                "completions": 92,
+                "yards": 900,
+                "touchdowns": 2,
+                "interceptions": 3,
+                "completion_pct": 67.0
+            },
+            "COVER_4": {
+                "attempts": 55,
+                "completions": 34,
+                "yards": 352,
+                "touchdowns": 4,
+                "interceptions": 2,
+                "completion_pct": 62.0
+            },
+            "COVER_6": {
+                "attempts": 33,
+                "completions": 24,
+                "yards": 237,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 73.0
+            }
+        },
+        "J.Allen": {
+            "COVER_0": {
+                "attempts": 33,
+                "completions": 17,
+                "yards": 174,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 52.0
+            },
+            "COVER_1": {
+                "attempts": 184,
+                "completions": 105,
+                "yards": 1226,
+                "touchdowns": 8,
+                "interceptions": 5,
+                "completion_pct": 57.0
+            },
+            "COVER_2": {
+                "attempts": 128,
+                "completions": 90,
+                "yards": 1011,
+                "touchdowns": 8,
+                "interceptions": 1,
+                "completion_pct": 70.0
+            },
+            "COVER_3": {
+                "attempts": 152,
+                "completions": 100,
+                "yards": 1027,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 66.0
+            },
+            "COVER_4": {
+                "attempts": 32,
+                "completions": 21,
+                "yards": 323,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 66.0
+            }
+        },
+        "J.Brissett": {
+            "COVER_1": {
+                "attempts": 111,
+                "completions": 56,
+                "yards": 695,
+                "touchdowns": 5,
+                "interceptions": 1,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 117,
+                "completions": 78,
+                "yards": 826,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            },
+            "COVER_3": {
+                "attempts": 159,
+                "completions": 102,
+                "yards": 1005,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 64.0
+            },
+            "COVER_4": {
+                "attempts": 62,
+                "completions": 37,
+                "yards": 417,
+                "touchdowns": 6,
+                "interceptions": 2,
+                "completion_pct": 60.0
+            }
+        },
+        "J.Browning": {
+            "COVER_2": {
+                "attempts": 40,
+                "completions": 25,
+                "yards": 201,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 62.0
+            },
+            "COVER_3": {
+                "attempts": 33,
+                "completions": 19,
+                "yards": 216,
+                "touchdowns": 2,
+                "interceptions": 5,
+                "completion_pct": 58.0
+            }
+        },
+        "J.Burrow": {
+            "COVER_1": {
+                "attempts": 65,
+                "completions": 38,
+                "yards": 449,
+                "touchdowns": 7,
+                "interceptions": 1,
+                "completion_pct": 58.0
+            },
+            "COVER_2": {
+                "attempts": 84,
+                "completions": 52,
+                "yards": 440,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 62.0
+            },
+            "COVER_3": {
+                "attempts": 72,
+                "completions": 49,
+                "yards": 532,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 68.0
+            }
+        },
+        "J.Daniels": {
+            "COVER_1": {
+                "attempts": 59,
+                "completions": 23,
+                "yards": 336,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 39.0
+            },
+            "COVER_2": {
+                "attempts": 39,
+                "completions": 28,
+                "yards": 215,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 72.0
+            },
+            "COVER_3": {
+                "attempts": 62,
+                "completions": 37,
+                "yards": 441,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 60.0
+            }
+        },
+        "J.Dart": {
+            "COVER_1": {
+                "attempts": 103,
+                "completions": 52,
+                "yards": 688,
+                "touchdowns": 5,
+                "interceptions": 0,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 67,
+                "completions": 40,
+                "yards": 314,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 60.0
+            },
+            "COVER_3": {
+                "attempts": 114,
+                "completions": 81,
+                "yards": 876,
+                "touchdowns": 6,
+                "interceptions": 2,
+                "completion_pct": 71.0
+            },
+            "COVER_4": {
+                "attempts": 31,
+                "completions": 13,
+                "yards": 124,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 42.0
+            }
+        },
+        "J.Fields": {
+            "COVER_1": {
+                "attempts": 53,
+                "completions": 26,
+                "yards": 231,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 49.0
+            },
+            "COVER_2": {
+                "attempts": 55,
+                "completions": 30,
+                "yards": 227,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 55.0
+            },
+            "COVER_3": {
+                "attempts": 69,
+                "completions": 42,
+                "yards": 437,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 61.0
+            }
+        },
+        "J.Flacco": {
+            "2_MAN": {
+                "attempts": 34,
+                "completions": 19,
+                "yards": 211,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 56.0
+            },
+            "COVER_1": {
+                "attempts": 120,
+                "completions": 56,
+                "yards": 635,
+                "touchdowns": 6,
+                "interceptions": 5,
+                "completion_pct": 47.0
+            },
+            "COVER_2": {
+                "attempts": 105,
+                "completions": 69,
+                "yards": 653,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 66.0
+            },
+            "COVER_3": {
+                "attempts": 85,
+                "completions": 58,
+                "yards": 515,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 68.0
+            },
+            "COVER_4": {
+                "attempts": 47,
+                "completions": 30,
+                "yards": 284,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 64.0
+            },
+            "COVER_6": {
+                "attempts": 26,
+                "completions": 11,
+                "yards": 107,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 42.0
+            }
+        },
+        "J.Goff": {
+            "COVER_0": {
+                "attempts": 28,
+                "completions": 13,
+                "yards": 134,
+                "touchdowns": 4,
+                "interceptions": 0,
+                "completion_pct": 46.0
+            },
+            "COVER_1": {
+                "attempts": 135,
+                "completions": 80,
+                "yards": 1058,
+                "touchdowns": 10,
+                "interceptions": 1,
+                "completion_pct": 59.0
+            },
+            "COVER_2": {
+                "attempts": 146,
+                "completions": 107,
+                "yards": 1155,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 73.0
+            },
+            "COVER_3": {
+                "attempts": 189,
+                "completions": 110,
+                "yards": 1239,
+                "touchdowns": 6,
+                "interceptions": 4,
+                "completion_pct": 58.0
+            },
+            "COVER_4": {
+                "attempts": 48,
+                "completions": 37,
+                "yards": 385,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 77.0
+            },
+            "COVER_6": {
+                "attempts": 35,
+                "completions": 24,
+                "yards": 264,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 69.0
+            }
+        },
+        "J.Herbert": {
+            "2_MAN": {
+                "attempts": 33,
+                "completions": 16,
+                "yards": 149,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 48.0
+            },
+            "COVER_0": {
+                "attempts": 29,
+                "completions": 14,
+                "yards": 127,
+                "touchdowns": 6,
+                "interceptions": 0,
+                "completion_pct": 48.0
+            },
+            "COVER_1": {
+                "attempts": 169,
+                "completions": 89,
+                "yards": 1086,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 53.0
+            },
+            "COVER_2": {
+                "attempts": 114,
+                "completions": 80,
+                "yards": 834,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 70.0
+            },
+            "COVER_3": {
+                "attempts": 148,
+                "completions": 97,
+                "yards": 1060,
+                "touchdowns": 5,
+                "interceptions": 6,
+                "completion_pct": 66.0
+            },
+            "COVER_4": {
+                "attempts": 44,
+                "completions": 26,
+                "yards": 284,
+                "touchdowns": 3,
+                "interceptions": 4,
+                "completion_pct": 59.0
+            },
+            "COVER_6": {
+                "attempts": 42,
+                "completions": 20,
+                "yards": 207,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 48.0
+            }
+        },
+        "J.Hurts": {
+            "2_MAN": {
+                "attempts": 27,
+                "completions": 11,
+                "yards": 131,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 41.0
+            },
+            "COVER_0": {
+                "attempts": 49,
+                "completions": 29,
+                "yards": 299,
+                "touchdowns": 9,
+                "interceptions": 2,
+                "completion_pct": 59.0
+            },
+            "COVER_1": {
+                "attempts": 107,
+                "completions": 57,
+                "yards": 683,
+                "touchdowns": 8,
+                "interceptions": 1,
+                "completion_pct": 53.0
+            },
+            "COVER_2": {
+                "attempts": 103,
+                "completions": 74,
+                "yards": 687,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 72.0
+            },
+            "COVER_3": {
+                "attempts": 135,
+                "completions": 85,
+                "yards": 1035,
+                "touchdowns": 6,
+                "interceptions": 1,
+                "completion_pct": 63.0
+            },
+            "COVER_4": {
+                "attempts": 72,
+                "completions": 42,
+                "yards": 366,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 58.0
+            }
+        },
+        "J.Love": {
+            "COVER_1": {
+                "attempts": 138,
+                "completions": 80,
+                "yards": 1085,
+                "touchdowns": 9,
+                "interceptions": 2,
+                "completion_pct": 58.0
+            },
+            "COVER_2": {
+                "attempts": 117,
+                "completions": 82,
+                "yards": 687,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 70.0
+            },
+            "COVER_3": {
+                "attempts": 124,
+                "completions": 74,
+                "yards": 968,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 60.0
+            },
+            "COVER_4": {
+                "attempts": 49,
+                "completions": 32,
+                "yards": 440,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 65.0
+            },
+            "COVER_6": {
+                "attempts": 29,
+                "completions": 20,
+                "yards": 206,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 69.0
+            }
+        },
+        "J.McCarthy": {
+            "COVER_1": {
+                "attempts": 64,
+                "completions": 26,
+                "yards": 332,
+                "touchdowns": 6,
+                "interceptions": 2,
+                "completion_pct": 41.0
+            },
+            "COVER_2": {
+                "attempts": 79,
+                "completions": 42,
+                "yards": 519,
+                "touchdowns": 2,
+                "interceptions": 3,
+                "completion_pct": 53.0
+            },
+            "COVER_3": {
+                "attempts": 74,
+                "completions": 46,
+                "yards": 521,
+                "touchdowns": 2,
+                "interceptions": 3,
+                "completion_pct": 62.0
+            }
+        },
+        "K.Cousins": {
+            "COVER_1": {
+                "attempts": 54,
+                "completions": 26,
+                "yards": 359,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 48.0
+            },
+            "COVER_2": {
+                "attempts": 71,
+                "completions": 48,
+                "yards": 471,
+                "touchdowns": 1,
+                "interceptions": 2,
+                "completion_pct": 68.0
+            },
+            "COVER_3": {
+                "attempts": 75,
+                "completions": 45,
+                "yards": 438,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 60.0
+            },
+            "COVER_4": {
+                "attempts": 26,
+                "completions": 20,
+                "yards": 232,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 77.0
+            }
+        },
+        "K.Murray": {
+            "COVER_1": {
+                "attempts": 28,
+                "completions": 17,
+                "yards": 108,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 61.0
+            },
+            "COVER_2": {
+                "attempts": 46,
+                "completions": 28,
+                "yards": 211,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 61.0
+            },
+            "COVER_3": {
+                "attempts": 47,
+                "completions": 31,
+                "yards": 360,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 66.0
+            }
+        },
+        "L.Jackson": {
+            "COVER_1": {
+                "attempts": 92,
+                "completions": 48,
+                "yards": 855,
+                "touchdowns": 5,
+                "interceptions": 1,
+                "completion_pct": 52.0
+            },
+            "COVER_2": {
+                "attempts": 66,
+                "completions": 37,
+                "yards": 449,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 56.0
+            },
+            "COVER_3": {
+                "attempts": 87,
+                "completions": 55,
+                "yards": 642,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            },
+            "COVER_4": {
+                "attempts": 37,
+                "completions": 22,
+                "yards": 266,
+                "touchdowns": 4,
+                "interceptions": 0,
+                "completion_pct": 59.0
+            }
+        },
+        "M.Brosmer": {
+            "COVER_3": {
+                "attempts": 32,
+                "completions": 21,
+                "yards": 165,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 66.0
+            }
+        },
+        "M.Jones": {
+            "COVER_1": {
+                "attempts": 51,
+                "completions": 29,
+                "yards": 300,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 57.0
+            },
+            "COVER_2": {
+                "attempts": 79,
+                "completions": 52,
+                "yards": 575,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 66.0
+            },
+            "COVER_3": {
+                "attempts": 81,
+                "completions": 61,
+                "yards": 765,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 75.0
+            },
+            "COVER_4": {
+                "attempts": 42,
+                "completions": 27,
+                "yards": 233,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 64.0
+            }
+        },
+        "M.Mariota": {
+            "COVER_1": {
+                "attempts": 74,
+                "completions": 36,
+                "yards": 412,
+                "touchdowns": 3,
+                "interceptions": 3,
+                "completion_pct": 49.0
+            },
+            "COVER_2": {
+                "attempts": 29,
+                "completions": 20,
+                "yards": 242,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 69.0
+            },
+            "COVER_3": {
+                "attempts": 78,
+                "completions": 47,
+                "yards": 582,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 60.0
+            }
+        },
+        "M.Penix": {
+            "COVER_1": {
+                "attempts": 79,
+                "completions": 33,
+                "yards": 540,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 42.0
+            },
+            "COVER_2": {
+                "attempts": 68,
+                "completions": 45,
+                "yards": 468,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 66.0
+            },
+            "COVER_3": {
+                "attempts": 74,
+                "completions": 47,
+                "yards": 551,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 64.0
+            },
+            "COVER_4": {
+                "attempts": 29,
+                "completions": 17,
+                "yards": 188,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 59.0
+            }
+        },
+        "M.Stafford": {
+            "2_MAN": {
+                "attempts": 36,
+                "completions": 19,
+                "yards": 172,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 53.0
+            },
+            "COVER_0": {
+                "attempts": 32,
+                "completions": 23,
+                "yards": 175,
+                "touchdowns": 16,
+                "interceptions": 0,
+                "completion_pct": 72.0
+            },
+            "COVER_1": {
+                "attempts": 182,
+                "completions": 100,
+                "yards": 1322,
+                "touchdowns": 13,
+                "interceptions": 4,
+                "completion_pct": 55.0
+            },
+            "COVER_2": {
+                "attempts": 142,
+                "completions": 93,
+                "yards": 1116,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 65.0
+            },
+            "COVER_3": {
+                "attempts": 184,
+                "completions": 123,
+                "yards": 1520,
+                "touchdowns": 7,
+                "interceptions": 3,
+                "completion_pct": 67.0
+            },
+            "COVER_4": {
+                "attempts": 84,
+                "completions": 50,
+                "yards": 624,
+                "touchdowns": 10,
+                "interceptions": 0,
+                "completion_pct": 60.0
+            },
+            "COVER_6": {
+                "attempts": 49,
+                "completions": 30,
+                "yards": 466,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 61.0
+            },
+            "COVER_9": {
+                "attempts": 31,
+                "completions": 16,
+                "yards": 248,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 52.0
+            }
+        },
+        "P.Mahomes": {
+            "2_MAN": {
+                "attempts": 31,
+                "completions": 13,
+                "yards": 108,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 42.0
+            },
+            "COVER_1": {
+                "attempts": 135,
+                "completions": 68,
+                "yards": 767,
+                "touchdowns": 6,
+                "interceptions": 5,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 110,
+                "completions": 75,
+                "yards": 842,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 68.0
+            },
+            "COVER_3": {
+                "attempts": 142,
+                "completions": 87,
+                "yards": 1095,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 61.0
+            },
+            "COVER_4": {
+                "attempts": 53,
+                "completions": 35,
+                "yards": 385,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 66.0
+            },
+            "COVER_6": {
+                "attempts": 27,
+                "completions": 11,
+                "yards": 134,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 41.0
+            }
+        },
+        "P.Rivers": {
+            "COVER_1": {
+                "attempts": 28,
+                "completions": 14,
+                "yards": 166,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 50.0
+            }
+        },
+        "Q.Ewers": {
+            "COVER_3": {
+                "attempts": 41,
+                "completions": 26,
+                "yards": 282,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 63.0
+            }
+        },
+        "R.Wilson": {
+            "COVER_2": {
+                "attempts": 40,
+                "completions": 24,
+                "yards": 219,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 60.0
+            }
+        },
+        "S.Darnold": {
+            "2_MAN": {
+                "attempts": 40,
+                "completions": 28,
+                "yards": 241,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 70.0
+            },
+            "COVER_1": {
+                "attempts": 105,
+                "completions": 66,
+                "yards": 956,
+                "touchdowns": 9,
+                "interceptions": 4,
+                "completion_pct": 63.0
+            },
+            "COVER_2": {
+                "attempts": 113,
+                "completions": 81,
+                "yards": 808,
+                "touchdowns": 3,
+                "interceptions": 2,
+                "completion_pct": 72.0
+            },
+            "COVER_3": {
+                "attempts": 180,
+                "completions": 106,
+                "yards": 1419,
+                "touchdowns": 8,
+                "interceptions": 3,
+                "completion_pct": 59.0
+            },
+            "COVER_4": {
+                "attempts": 69,
+                "completions": 42,
+                "yards": 460,
+                "touchdowns": 5,
+                "interceptions": 2,
+                "completion_pct": 61.0
+            },
+            "COVER_6": {
+                "attempts": 45,
+                "completions": 29,
+                "yards": 433,
+                "touchdowns": 3,
+                "interceptions": 1,
+                "completion_pct": 64.0
+            }
+        },
+        "S.Rattler": {
+            "COVER_1": {
+                "attempts": 46,
+                "completions": 29,
+                "yards": 254,
+                "touchdowns": 4,
+                "interceptions": 1,
+                "completion_pct": 63.0
+            },
+            "COVER_2": {
+                "attempts": 60,
+                "completions": 35,
+                "yards": 391,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 58.0
+            },
+            "COVER_3": {
+                "attempts": 70,
+                "completions": 48,
+                "yards": 427,
+                "touchdowns": 0,
+                "interceptions": 3,
+                "completion_pct": 69.0
+            },
+            "COVER_4": {
+                "attempts": 36,
+                "completions": 21,
+                "yards": 175,
+                "touchdowns": 1,
+                "interceptions": 0,
+                "completion_pct": 58.0
+            },
+            "COVER_6": {
+                "attempts": 30,
+                "completions": 26,
+                "yards": 258,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 87.0
+            }
+        },
+        "S.Sanders": {
+            "COVER_1": {
+                "attempts": 43,
+                "completions": 17,
+                "yards": 254,
+                "touchdowns": 0,
+                "interceptions": 0,
+                "completion_pct": 40.0
+            },
+            "COVER_2": {
+                "attempts": 59,
+                "completions": 33,
+                "yards": 236,
+                "touchdowns": 0,
+                "interceptions": 2,
+                "completion_pct": 56.0
+            },
+            "COVER_3": {
+                "attempts": 77,
+                "completions": 43,
+                "yards": 528,
+                "touchdowns": 4,
+                "interceptions": 6,
+                "completion_pct": 56.0
+            }
+        },
+        "T.Lawrence": {
+            "COVER_0": {
+                "attempts": 29,
+                "completions": 19,
+                "yards": 246,
+                "touchdowns": 10,
+                "interceptions": 2,
+                "completion_pct": 66.0
+            },
+            "COVER_1": {
+                "attempts": 123,
+                "completions": 62,
+                "yards": 855,
+                "touchdowns": 5,
+                "interceptions": 3,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 147,
+                "completions": 85,
+                "yards": 959,
+                "touchdowns": 7,
+                "interceptions": 4,
+                "completion_pct": 58.0
+            },
+            "COVER_3": {
+                "attempts": 199,
+                "completions": 116,
+                "yards": 1227,
+                "touchdowns": 8,
+                "interceptions": 4,
+                "completion_pct": 58.0
+            },
+            "COVER_4": {
+                "attempts": 63,
+                "completions": 41,
+                "yards": 471,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 65.0
+            },
+            "COVER_6": {
+                "attempts": 30,
+                "completions": 17,
+                "yards": 212,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 57.0
+            }
+        },
+        "T.Shough": {
+            "COVER_1": {
+                "attempts": 46,
+                "completions": 23,
+                "yards": 293,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 50.0
+            },
+            "COVER_2": {
+                "attempts": 92,
+                "completions": 67,
+                "yards": 775,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 73.0
+            },
+            "COVER_3": {
+                "attempts": 108,
+                "completions": 64,
+                "yards": 584,
+                "touchdowns": 2,
+                "interceptions": 1,
+                "completion_pct": 59.0
+            },
+            "COVER_4": {
+                "attempts": 65,
+                "completions": 39,
+                "yards": 469,
+                "touchdowns": 2,
+                "interceptions": 2,
+                "completion_pct": 60.0
+            }
+        },
+        "T.Tagovailoa": {
+            "COVER_1": {
+                "attempts": 45,
+                "completions": 25,
+                "yards": 245,
+                "touchdowns": 3,
+                "interceptions": 0,
+                "completion_pct": 56.0
+            },
+            "COVER_2": {
+                "attempts": 114,
+                "completions": 72,
+                "yards": 586,
+                "touchdowns": 1,
+                "interceptions": 3,
+                "completion_pct": 63.0
+            },
+            "COVER_3": {
+                "attempts": 138,
+                "completions": 86,
+                "yards": 1067,
+                "touchdowns": 4,
+                "interceptions": 9,
+                "completion_pct": 62.0
+            },
+            "COVER_4": {
+                "attempts": 52,
+                "completions": 35,
+                "yards": 356,
+                "touchdowns": 6,
+                "interceptions": 1,
+                "completion_pct": 67.0
+            }
+        },
+        "T.Taylor": {
+            "COVER_1": {
+                "attempts": 29,
+                "completions": 13,
+                "yards": 102,
+                "touchdowns": 0,
+                "interceptions": 1,
+                "completion_pct": 45.0
+            },
+            "COVER_2": {
+                "attempts": 30,
+                "completions": 17,
+                "yards": 161,
+                "touchdowns": 2,
+                "interceptions": 0,
+                "completion_pct": 57.0
+            },
+            "COVER_3": {
+                "attempts": 53,
+                "completions": 35,
+                "yards": 372,
+                "touchdowns": 1,
+                "interceptions": 1,
+                "completion_pct": 66.0
+            }
+        }
+    }
+}

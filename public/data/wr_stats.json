@@ -1,0 +1,3536 @@
+{
+    "2024": {
+        "A.Brown": {
+            "COVER_1": {
+                "targets": 76,
+                "receptions": 50,
+                "yards": 766,
+                "touchdowns": 6,
+                "yards_per_target": 10.1
+            }
+        },
+        "A.Cooper": {
+            "COVER_1": {
+                "targets": 46,
+                "receptions": 21,
+                "yards": 227,
+                "touchdowns": 3,
+                "yards_per_target": 4.9
+            }
+        },
+        "A.Ekeler": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 15,
+                "yards": 192,
+                "touchdowns": 0,
+                "yards_per_target": 9.1
+            }
+        },
+        "A.Hooper": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 14,
+                "yards": 164,
+                "touchdowns": 1,
+                "yards_per_target": 7.1
+            }
+        },
+        "A.Kamara": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 19,
+                "yards": 216,
+                "touchdowns": 2,
+                "yards_per_target": 9.0
+            }
+        },
+        "A.Mitchell": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 13,
+                "yards": 202,
+                "touchdowns": 0,
+                "yards_per_target": 6.7
+            }
+        },
+        "A.Pierce": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 11,
+                "yards": 268,
+                "touchdowns": 2,
+                "yards_per_target": 12.2
+            }
+        },
+        "A.St. Brown": {
+            "COVER_1": {
+                "targets": 49,
+                "receptions": 38,
+                "yards": 470,
+                "touchdowns": 4,
+                "yards_per_target": 9.6
+            },
+            "COVER_2": {
+                "targets": 30,
+                "receptions": 27,
+                "yards": 247,
+                "touchdowns": 2,
+                "yards_per_target": 8.2
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 23,
+                "yards": 326,
+                "touchdowns": 1,
+                "yards_per_target": 11.2
+            }
+        },
+        "A.Thielen": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 18,
+                "yards": 245,
+                "touchdowns": 0,
+                "yards_per_target": 10.2
+            }
+        },
+        "B.Bowers": {
+            "COVER_1": {
+                "targets": 65,
+                "receptions": 42,
+                "yards": 463,
+                "touchdowns": 3,
+                "yards_per_target": 7.1
+            },
+            "COVER_2": {
+                "targets": 28,
+                "receptions": 19,
+                "yards": 162,
+                "touchdowns": 0,
+                "yards_per_target": 5.8
+            }
+        },
+        "B.Cooks": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 11,
+                "yards": 118,
+                "touchdowns": 3,
+                "yards_per_target": 4.4
+            }
+        },
+        "B.Hall": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 18,
+                "yards": 150,
+                "touchdowns": 2,
+                "yards_per_target": 5.6
+            }
+        },
+        "B.Irving": {
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 19,
+                "yards": 174,
+                "touchdowns": 0,
+                "yards_per_target": 8.3
+            }
+        },
+        "B.Robinson": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 21,
+                "yards": 182,
+                "touchdowns": 0,
+                "yards_per_target": 7.0
+            },
+            "COVER_2": {
+                "targets": 27,
+                "receptions": 21,
+                "yards": 124,
+                "touchdowns": 0,
+                "yards_per_target": 4.6
+            },
+            "COVER_3": {
+                "targets": 23,
+                "receptions": 21,
+                "yards": 141,
+                "touchdowns": 0,
+                "yards_per_target": 6.1
+            }
+        },
+        "B.Strange": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 14,
+                "yards": 143,
+                "touchdowns": 2,
+                "yards_per_target": 7.2
+            }
+        },
+        "B.Thomas": {
+            "COVER_1": {
+                "targets": 52,
+                "receptions": 28,
+                "yards": 446,
+                "touchdowns": 1,
+                "yards_per_target": 8.6
+            },
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 18,
+                "yards": 188,
+                "touchdowns": 2,
+                "yards_per_target": 8.2
+            },
+            "COVER_3": {
+                "targets": 31,
+                "receptions": 23,
+                "yards": 405,
+                "touchdowns": 2,
+                "yards_per_target": 13.1
+            }
+        },
+        "C.Austin": {
+            "COVER_1": {
+                "targets": 29,
+                "receptions": 18,
+                "yards": 234,
+                "touchdowns": 2,
+                "yards_per_target": 8.1
+            }
+        },
+        "C.Godwin": {
+            "COVER_1": {
+                "targets": 29,
+                "receptions": 21,
+                "yards": 203,
+                "touchdowns": 2,
+                "yards_per_target": 7.0
+            }
+        },
+        "C.Kmet": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 16,
+                "yards": 122,
+                "touchdowns": 2,
+                "yards_per_target": 5.5
+            }
+        },
+        "C.Kupp": {
+            "COVER_1": {
+                "targets": 39,
+                "receptions": 24,
+                "yards": 224,
+                "touchdowns": 1,
+                "yards_per_target": 5.7
+            },
+            "COVER_2": {
+                "targets": 27,
+                "receptions": 22,
+                "yards": 207,
+                "touchdowns": 1,
+                "yards_per_target": 7.7
+            }
+        },
+        "C.Lamb": {
+            "COVER_1": {
+                "targets": 62,
+                "receptions": 36,
+                "yards": 524,
+                "touchdowns": 4,
+                "yards_per_target": 8.5
+            },
+            "COVER_2": {
+                "targets": 25,
+                "receptions": 21,
+                "yards": 169,
+                "touchdowns": 0,
+                "yards_per_target": 6.8
+            }
+        },
+        "C.Okonkwo": {
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 16,
+                "yards": 125,
+                "touchdowns": 0,
+                "yards_per_target": 6.2
+            },
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 14,
+                "yards": 105,
+                "touchdowns": 0,
+                "yards_per_target": 5.2
+            }
+        },
+        "C.Otton": {
+            "COVER_1": {
+                "targets": 31,
+                "receptions": 20,
+                "yards": 185,
+                "touchdowns": 1,
+                "yards_per_target": 6.0
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 18,
+                "yards": 153,
+                "touchdowns": 1,
+                "yards_per_target": 7.3
+            }
+        },
+        "C.Ridley": {
+            "COVER_1": {
+                "targets": 56,
+                "receptions": 29,
+                "yards": 500,
+                "touchdowns": 2,
+                "yards_per_target": 8.9
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 10,
+                "yards": 141,
+                "touchdowns": 1,
+                "yards_per_target": 7.0
+            }
+        },
+        "C.Samuel": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 18,
+                "yards": 190,
+                "touchdowns": 1,
+                "yards_per_target": 7.0
+            }
+        },
+        "C.Sutton": {
+            "COVER_1": {
+                "targets": 61,
+                "receptions": 39,
+                "yards": 549,
+                "touchdowns": 4,
+                "yards_per_target": 9.0
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 14,
+                "yards": 144,
+                "touchdowns": 1,
+                "yards_per_target": 7.2
+            },
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 14,
+                "yards": 209,
+                "touchdowns": 0,
+                "yards_per_target": 9.5
+            }
+        },
+        "C.Tillman": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 119,
+                "touchdowns": 1,
+                "yards_per_target": 6.0
+            }
+        },
+        "C.Watson": {
+            "COVER_1": {
+                "targets": 35,
+                "receptions": 18,
+                "yards": 420,
+                "touchdowns": 1,
+                "yards_per_target": 12.0
+            }
+        },
+        "D.Achane": {
+            "COVER_2": {
+                "targets": 33,
+                "receptions": 31,
+                "yards": 231,
+                "touchdowns": 2,
+                "yards_per_target": 7.0
+            }
+        },
+        "D.Adams": {
+            "COVER_1": {
+                "targets": 49,
+                "receptions": 25,
+                "yards": 397,
+                "touchdowns": 1,
+                "yards_per_target": 8.1
+            },
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 17,
+                "yards": 188,
+                "touchdowns": 2,
+                "yards_per_target": 7.8
+            },
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 16,
+                "yards": 187,
+                "touchdowns": 0,
+                "yards_per_target": 8.5
+            }
+        },
+        "D.Brown": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 19,
+                "yards": 284,
+                "touchdowns": 1,
+                "yards_per_target": 9.5
+            }
+        },
+        "D.Douglas": {
+            "COVER_1": {
+                "targets": 42,
+                "receptions": 29,
+                "yards": 292,
+                "touchdowns": 2,
+                "yards_per_target": 7.0
+            }
+        },
+        "D.Goedert": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 25,
+                "yards": 410,
+                "touchdowns": 2,
+                "yards_per_target": 13.7
+            }
+        },
+        "D.Hopkins": {
+            "COVER_1": {
+                "targets": 37,
+                "receptions": 25,
+                "yards": 271,
+                "touchdowns": 2,
+                "yards_per_target": 7.3
+            }
+        },
+        "D.Kincaid": {
+            "COVER_1": {
+                "targets": 39,
+                "receptions": 21,
+                "yards": 227,
+                "touchdowns": 0,
+                "yards_per_target": 5.8
+            }
+        },
+        "D.Knox": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 17,
+                "yards": 210,
+                "touchdowns": 0,
+                "yards_per_target": 8.8
+            }
+        },
+        "D.London": {
+            "COVER_1": {
+                "targets": 63,
+                "receptions": 33,
+                "yards": 468,
+                "touchdowns": 3,
+                "yards_per_target": 7.4
+            },
+            "COVER_2": {
+                "targets": 36,
+                "receptions": 25,
+                "yards": 311,
+                "touchdowns": 3,
+                "yards_per_target": 8.6
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 16,
+                "yards": 207,
+                "touchdowns": 1,
+                "yards_per_target": 7.7
+            }
+        },
+        "D.Metcalf": {
+            "COVER_1": {
+                "targets": 48,
+                "receptions": 24,
+                "yards": 396,
+                "touchdowns": 2,
+                "yards_per_target": 8.2
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 18,
+                "yards": 246,
+                "touchdowns": 0,
+                "yards_per_target": 10.2
+            }
+        },
+        "D.Mooney": {
+            "COVER_1": {
+                "targets": 42,
+                "receptions": 26,
+                "yards": 409,
+                "touchdowns": 0,
+                "yards_per_target": 9.7
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 14,
+                "yards": 172,
+                "touchdowns": 1,
+                "yards_per_target": 8.6
+            }
+        },
+        "D.Moore": {
+            "COVER_1": {
+                "targets": 77,
+                "receptions": 42,
+                "yards": 395,
+                "touchdowns": 2,
+                "yards_per_target": 5.1
+            },
+            "COVER_2": {
+                "targets": 34,
+                "receptions": 24,
+                "yards": 237,
+                "touchdowns": 1,
+                "yards_per_target": 7.0
+            },
+            "COVER_3": {
+                "targets": 40,
+                "receptions": 34,
+                "yards": 355,
+                "touchdowns": 2,
+                "yards_per_target": 8.9
+            }
+        },
+        "D.Njoku": {
+            "COVER_1": {
+                "targets": 35,
+                "receptions": 17,
+                "yards": 175,
+                "touchdowns": 2,
+                "yards_per_target": 5.0
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 17,
+                "yards": 130,
+                "touchdowns": 0,
+                "yards_per_target": 6.5
+            }
+        },
+        "D.Robinson": {
+            "COVER_1": {
+                "targets": 29,
+                "receptions": 15,
+                "yards": 254,
+                "touchdowns": 2,
+                "yards_per_target": 8.8
+            }
+        },
+        "D.Samuel": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 15,
+                "yards": 278,
+                "touchdowns": 2,
+                "yards_per_target": 10.7
+            }
+        },
+        "D.Schultz": {
+            "COVER_1": {
+                "targets": 29,
+                "receptions": 12,
+                "yards": 123,
+                "touchdowns": 1,
+                "yards_per_target": 4.2
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 19,
+                "yards": 169,
+                "touchdowns": 0,
+                "yards_per_target": 7.7
+            }
+        },
+        "D.Slayton": {
+            "COVER_1": {
+                "targets": 29,
+                "receptions": 16,
+                "yards": 293,
+                "touchdowns": 1,
+                "yards_per_target": 10.1
+            }
+        },
+        "D.Smith": {
+            "COVER_1": {
+                "targets": 50,
+                "receptions": 37,
+                "yards": 453,
+                "touchdowns": 4,
+                "yards_per_target": 9.1
+            }
+        },
+        "D.Swift": {
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 17,
+                "yards": 111,
+                "touchdowns": 0,
+                "yards_per_target": 5.6
+            }
+        },
+        "D.Vele": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 12,
+                "yards": 134,
+                "touchdowns": 0,
+                "yards_per_target": 6.4
+            }
+        },
+        "D.Wicks": {
+            "COVER_1": {
+                "targets": 32,
+                "receptions": 15,
+                "yards": 144,
+                "touchdowns": 2,
+                "yards_per_target": 4.5
+            }
+        },
+        "Di.Johnson": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 13,
+                "yards": 172,
+                "touchdowns": 1,
+                "yards_per_target": 8.6
+            }
+        },
+        "E.Engram": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 14,
+                "yards": 108,
+                "touchdowns": 1,
+                "yards_per_target": 4.5
+            }
+        },
+        "E.Moore": {
+            "COVER_1": {
+                "targets": 43,
+                "receptions": 25,
+                "yards": 238,
+                "touchdowns": 0,
+                "yards_per_target": 5.5
+            }
+        },
+        "G.Kittle": {
+            "COVER_1": {
+                "targets": 25,
+                "receptions": 18,
+                "yards": 330,
+                "touchdowns": 2,
+                "yards_per_target": 13.2
+            },
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 22,
+                "yards": 292,
+                "touchdowns": 2,
+                "yards_per_target": 12.7
+            }
+        },
+        "G.Pickens": {
+            "COVER_1": {
+                "targets": 54,
+                "receptions": 35,
+                "yards": 581,
+                "touchdowns": 2,
+                "yards_per_target": 10.8
+            }
+        },
+        "G.Wilson": {
+            "COVER_1": {
+                "targets": 60,
+                "receptions": 41,
+                "yards": 456,
+                "touchdowns": 3,
+                "yards_per_target": 7.6
+            },
+            "COVER_2": {
+                "targets": 26,
+                "receptions": 17,
+                "yards": 130,
+                "touchdowns": 1,
+                "yards_per_target": 5.0
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 20,
+                "yards": 196,
+                "touchdowns": 2,
+                "yards_per_target": 6.8
+            }
+        },
+        "H.Henry": {
+            "COVER_1": {
+                "targets": 50,
+                "receptions": 30,
+                "yards": 249,
+                "touchdowns": 0,
+                "yards_per_target": 5.0
+            }
+        },
+        "I.Likely": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 18,
+                "yards": 235,
+                "touchdowns": 2,
+                "yards_per_target": 9.8
+            },
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 14,
+                "yards": 201,
+                "touchdowns": 2,
+                "yards_per_target": 9.6
+            }
+        },
+        "J.Addison": {
+            "COVER_1": {
+                "targets": 45,
+                "receptions": 26,
+                "yards": 327,
+                "touchdowns": 4,
+                "yards_per_target": 7.3
+            },
+            "COVER_3": {
+                "targets": 23,
+                "receptions": 16,
+                "yards": 313,
+                "touchdowns": 1,
+                "yards_per_target": 13.6
+            }
+        },
+        "J.Akins": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 13,
+                "yards": 130,
+                "touchdowns": 1,
+                "yards_per_target": 5.9
+            }
+        },
+        "J.Chase": {
+            "COVER_1": {
+                "targets": 80,
+                "receptions": 56,
+                "yards": 727,
+                "touchdowns": 11,
+                "yards_per_target": 9.1
+            },
+            "COVER_2": {
+                "targets": 31,
+                "receptions": 29,
+                "yards": 445,
+                "touchdowns": 2,
+                "yards_per_target": 14.4
+            }
+        },
+        "J.Coker": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 14,
+                "yards": 261,
+                "touchdowns": 2,
+                "yards_per_target": 11.9
+            }
+        },
+        "J.Dotson": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 10,
+                "yards": 150,
+                "touchdowns": 0,
+                "yards_per_target": 7.5
+            }
+        },
+        "J.Downs": {
+            "COVER_1": {
+                "targets": 37,
+                "receptions": 22,
+                "yards": 341,
+                "touchdowns": 2,
+                "yards_per_target": 9.2
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 13,
+                "yards": 88,
+                "touchdowns": 0,
+                "yards_per_target": 4.2
+            }
+        },
+        "J.Ferguson": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 14,
+                "yards": 66,
+                "touchdowns": 0,
+                "yards_per_target": 3.1
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 17,
+                "yards": 164,
+                "touchdowns": 0,
+                "yards_per_target": 7.5
+            }
+        },
+        "J.Gibbs": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 14,
+                "yards": 194,
+                "touchdowns": 2,
+                "yards_per_target": 8.4
+            }
+        },
+        "J.Hill": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 16,
+                "yards": 138,
+                "touchdowns": 0,
+                "yards_per_target": 6.9
+            }
+        },
+        "J.Jefferson": {
+            "COVER_1": {
+                "targets": 53,
+                "receptions": 28,
+                "yards": 610,
+                "touchdowns": 6,
+                "yards_per_target": 11.5
+            },
+            "COVER_2": {
+                "targets": 32,
+                "receptions": 27,
+                "yards": 358,
+                "touchdowns": 1,
+                "yards_per_target": 11.2
+            },
+            "COVER_3": {
+                "targets": 28,
+                "receptions": 20,
+                "yards": 240,
+                "touchdowns": 0,
+                "yards_per_target": 8.6
+            }
+        },
+        "J.Jennings": {
+            "COVER_1": {
+                "targets": 45,
+                "receptions": 26,
+                "yards": 340,
+                "touchdowns": 2,
+                "yards_per_target": 7.6
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 13,
+                "yards": 167,
+                "touchdowns": 1,
+                "yards_per_target": 8.4
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 20,
+                "yards": 265,
+                "touchdowns": 0,
+                "yards_per_target": 11.0
+            }
+        },
+        "J.Jeudy": {
+            "COVER_1": {
+                "targets": 57,
+                "receptions": 35,
+                "yards": 472,
+                "touchdowns": 2,
+                "yards_per_target": 8.3
+            },
+            "COVER_2": {
+                "targets": 33,
+                "receptions": 20,
+                "yards": 228,
+                "touchdowns": 1,
+                "yards_per_target": 6.9
+            }
+        },
+        "J.Johnson": {
+            "COVER_1": {
+                "targets": 29,
+                "receptions": 23,
+                "yards": 229,
+                "touchdowns": 2,
+                "yards_per_target": 7.9
+            }
+        },
+        "J.McMillan": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 15,
+                "yards": 217,
+                "touchdowns": 3,
+                "yards_per_target": 7.2
+            }
+        },
+        "J.Meyers": {
+            "COVER_1": {
+                "targets": 53,
+                "receptions": 37,
+                "yards": 476,
+                "touchdowns": 2,
+                "yards_per_target": 9.0
+            },
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 152,
+                "touchdowns": 0,
+                "yards_per_target": 7.6
+            }
+        },
+        "J.Palmer": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 17,
+                "yards": 255,
+                "touchdowns": 0,
+                "yards_per_target": 8.5
+            }
+        },
+        "J.Reed": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 13,
+                "yards": 196,
+                "touchdowns": 0,
+                "yards_per_target": 8.2
+            }
+        },
+        "J.Smith": {
+            "COVER_1": {
+                "targets": 25,
+                "receptions": 16,
+                "yards": 150,
+                "touchdowns": 1,
+                "yards_per_target": 6.0
+            },
+            "COVER_2": {
+                "targets": 33,
+                "receptions": 28,
+                "yards": 259,
+                "touchdowns": 1,
+                "yards_per_target": 7.8
+            }
+        },
+        "J.Smith-Njigba": {
+            "COVER_1": {
+                "targets": 42,
+                "receptions": 30,
+                "yards": 305,
+                "touchdowns": 0,
+                "yards_per_target": 7.3
+            },
+            "COVER_2": {
+                "targets": 40,
+                "receptions": 28,
+                "yards": 254,
+                "touchdowns": 3,
+                "yards_per_target": 6.4
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 19,
+                "yards": 206,
+                "touchdowns": 0,
+                "yards_per_target": 8.6
+            }
+        },
+        "J.Tolbert": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 14,
+                "yards": 228,
+                "touchdowns": 1,
+                "yards_per_target": 8.8
+            }
+        },
+        "J.Waddle": {
+            "COVER_2": {
+                "targets": 27,
+                "receptions": 16,
+                "yards": 239,
+                "touchdowns": 1,
+                "yards_per_target": 8.9
+            }
+        },
+        "J.Williams": {
+            "COVER_1": {
+                "targets": 35,
+                "receptions": 22,
+                "yards": 310,
+                "touchdowns": 2,
+                "yards_per_target": 8.9
+            },
+            "COVER_2": {
+                "targets": 31,
+                "receptions": 21,
+                "yards": 227,
+                "touchdowns": 1,
+                "yards_per_target": 7.3
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 21,
+                "yards": 192,
+                "touchdowns": 1,
+                "yards_per_target": 7.1
+            }
+        },
+        "Ja.Williams": {
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 205,
+                "touchdowns": 1,
+                "yards_per_target": 10.2
+            }
+        },
+        "K.Allen": {
+            "COVER_1": {
+                "targets": 48,
+                "receptions": 29,
+                "yards": 249,
+                "touchdowns": 2,
+                "yards_per_target": 5.2
+            },
+            "COVER_2": {
+                "targets": 25,
+                "receptions": 14,
+                "yards": 135,
+                "touchdowns": 1,
+                "yards_per_target": 5.4
+            }
+        },
+        "K.Boutte": {
+            "COVER_1": {
+                "targets": 33,
+                "receptions": 20,
+                "yards": 253,
+                "touchdowns": 2,
+                "yards_per_target": 7.7
+            }
+        },
+        "K.Coleman": {
+            "COVER_1": {
+                "targets": 39,
+                "receptions": 18,
+                "yards": 325,
+                "touchdowns": 2,
+                "yards_per_target": 8.3
+            }
+        },
+        "K.Pitts": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 11,
+                "yards": 170,
+                "touchdowns": 2,
+                "yards_per_target": 7.1
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 13,
+                "yards": 119,
+                "touchdowns": 0,
+                "yards_per_target": 6.0
+            }
+        },
+        "K.Shakir": {
+            "COVER_1": {
+                "targets": 51,
+                "receptions": 39,
+                "yards": 370,
+                "touchdowns": 2,
+                "yards_per_target": 7.3
+            },
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 18,
+                "yards": 219,
+                "touchdowns": 0,
+                "yards_per_target": 9.5
+            },
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 18,
+                "yards": 197,
+                "touchdowns": 1,
+                "yards_per_target": 9.0
+            }
+        },
+        "K.Turpin": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 8,
+                "yards": 198,
+                "touchdowns": 2,
+                "yards_per_target": 9.4
+            }
+        },
+        "L.McConkey": {
+            "COVER_1": {
+                "targets": 52,
+                "receptions": 38,
+                "yards": 654,
+                "touchdowns": 4,
+                "yards_per_target": 12.6
+            },
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 15,
+                "yards": 98,
+                "touchdowns": 1,
+                "yards_per_target": 4.3
+            },
+            "COVER_3": {
+                "targets": 28,
+                "receptions": 21,
+                "yards": 330,
+                "touchdowns": 0,
+                "yards_per_target": 11.8
+            }
+        },
+        "M.Andrews": {
+            "COVER_1": {
+                "targets": 41,
+                "receptions": 29,
+                "yards": 425,
+                "touchdowns": 7,
+                "yards_per_target": 10.4
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 17,
+                "yards": 216,
+                "touchdowns": 1,
+                "yards_per_target": 10.8
+            }
+        },
+        "M.Evans": {
+            "COVER_1": {
+                "targets": 63,
+                "receptions": 47,
+                "yards": 596,
+                "touchdowns": 6,
+                "yards_per_target": 9.5
+            }
+        },
+        "M.Gesicki": {
+            "COVER_1": {
+                "targets": 36,
+                "receptions": 29,
+                "yards": 301,
+                "touchdowns": 1,
+                "yards_per_target": 8.4
+            }
+        },
+        "M.Harrison": {
+            "COVER_1": {
+                "targets": 58,
+                "receptions": 31,
+                "yards": 407,
+                "touchdowns": 1,
+                "yards_per_target": 7.0
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 13,
+                "yards": 190,
+                "touchdowns": 0,
+                "yards_per_target": 9.5
+            }
+        },
+        "M.Hollins": {
+            "COVER_1": {
+                "targets": 25,
+                "receptions": 13,
+                "yards": 119,
+                "touchdowns": 2,
+                "yards_per_target": 4.8
+            }
+        },
+        "M.Nabers": {
+            "COVER_1": {
+                "targets": 77,
+                "receptions": 48,
+                "yards": 486,
+                "touchdowns": 2,
+                "yards_per_target": 6.3
+            },
+            "COVER_2": {
+                "targets": 32,
+                "receptions": 22,
+                "yards": 189,
+                "touchdowns": 1,
+                "yards_per_target": 5.9
+            },
+            "COVER_3": {
+                "targets": 30,
+                "receptions": 21,
+                "yards": 255,
+                "touchdowns": 1,
+                "yards_per_target": 8.5
+            }
+        },
+        "M.Pittman": {
+            "COVER_1": {
+                "targets": 40,
+                "receptions": 25,
+                "yards": 299,
+                "touchdowns": 0,
+                "yards_per_target": 7.5
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 16,
+                "yards": 187,
+                "touchdowns": 1,
+                "yards_per_target": 8.5
+            },
+            "COVER_3": {
+                "targets": 26,
+                "receptions": 15,
+                "yards": 193,
+                "touchdowns": 0,
+                "yards_per_target": 7.4
+            }
+        },
+        "M.Valdes-Scantling": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 7,
+                "yards": 155,
+                "touchdowns": 2,
+                "yards_per_target": 7.4
+            }
+        },
+        "Mi.Wilson": {
+            "COVER_1": {
+                "targets": 33,
+                "receptions": 19,
+                "yards": 268,
+                "touchdowns": 2,
+                "yards_per_target": 8.1
+            }
+        },
+        "N.Brown": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 11,
+                "yards": 115,
+                "touchdowns": 0,
+                "yards_per_target": 4.8
+            }
+        },
+        "N.Collins": {
+            "COVER_1": {
+                "targets": 43,
+                "receptions": 29,
+                "yards": 454,
+                "touchdowns": 1,
+                "yards_per_target": 10.6
+            },
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 14,
+                "yards": 125,
+                "touchdowns": 0,
+                "yards_per_target": 5.2
+            }
+        },
+        "N.Fant": {
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 142,
+                "touchdowns": 1,
+                "yards_per_target": 7.1
+            }
+        },
+        "N.Gray": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 15,
+                "yards": 116,
+                "touchdowns": 2,
+                "yards_per_target": 5.5
+            }
+        },
+        "N.Westbrook-Ikhine": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 13,
+                "yards": 201,
+                "touchdowns": 6,
+                "yards_per_target": 8.4
+            }
+        },
+        "O.Zaccheaus": {
+            "COVER_1": {
+                "targets": 28,
+                "receptions": 16,
+                "yards": 203,
+                "touchdowns": 1,
+                "yards_per_target": 7.2
+            }
+        },
+        "P.Freiermuth": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 22,
+                "yards": 226,
+                "touchdowns": 3,
+                "yards_per_target": 8.4
+            }
+        },
+        "P.Nacua": {
+            "COVER_1": {
+                "targets": 54,
+                "receptions": 38,
+                "yards": 502,
+                "touchdowns": 0,
+                "yards_per_target": 9.3
+            },
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 15,
+                "yards": 165,
+                "touchdowns": 1,
+                "yards_per_target": 7.2
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 20,
+                "yards": 260,
+                "touchdowns": 0,
+                "yards_per_target": 10.8
+            }
+        },
+        "P.Washington": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 7,
+                "yards": 90,
+                "touchdowns": 1,
+                "yards_per_target": 4.3
+            }
+        },
+        "Q.Johnston": {
+            "COVER_1": {
+                "targets": 49,
+                "receptions": 19,
+                "yards": 182,
+                "touchdowns": 2,
+                "yards_per_target": 3.7
+            }
+        },
+        "R.Bateman": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 16,
+                "yards": 253,
+                "touchdowns": 2,
+                "yards_per_target": 9.4
+            }
+        },
+        "R.Doubs": {
+            "COVER_1": {
+                "targets": 33,
+                "receptions": 23,
+                "yards": 301,
+                "touchdowns": 1,
+                "yards_per_target": 9.1
+            }
+        },
+        "R.McCloud": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 16,
+                "yards": 230,
+                "touchdowns": 0,
+                "yards_per_target": 9.6
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 13,
+                "yards": 139,
+                "touchdowns": 1,
+                "yards_per_target": 7.0
+            }
+        },
+        "R.Odunze": {
+            "COVER_1": {
+                "targets": 40,
+                "receptions": 20,
+                "yards": 334,
+                "touchdowns": 0,
+                "yards_per_target": 8.4
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 10,
+                "yards": 132,
+                "touchdowns": 0,
+                "yards_per_target": 6.3
+            }
+        },
+        "S.Barkley": {
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 98,
+                "touchdowns": 0,
+                "yards_per_target": 4.9
+            }
+        },
+        "S.LaPorta": {
+            "COVER_1": {
+                "targets": 28,
+                "receptions": 18,
+                "yards": 236,
+                "touchdowns": 2,
+                "yards_per_target": 8.4
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 19,
+                "yards": 158,
+                "touchdowns": 1,
+                "yards_per_target": 7.5
+            },
+            "COVER_3": {
+                "targets": 23,
+                "receptions": 17,
+                "yards": 281,
+                "touchdowns": 2,
+                "yards_per_target": 12.2
+            }
+        },
+        "T.Atwell": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 11,
+                "yards": 130,
+                "touchdowns": 0,
+                "yards_per_target": 6.5
+            },
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 17,
+                "yards": 233,
+                "touchdowns": 0,
+                "yards_per_target": 11.6
+            }
+        },
+        "T.Boyd": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 15,
+                "yards": 171,
+                "touchdowns": 0,
+                "yards_per_target": 7.4
+            }
+        },
+        "T.Dell": {
+            "COVER_1": {
+                "targets": 35,
+                "receptions": 23,
+                "yards": 354,
+                "touchdowns": 2,
+                "yards_per_target": 10.1
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 14,
+                "yards": 139,
+                "touchdowns": 0,
+                "yards_per_target": 7.0
+            }
+        },
+        "T.Franklin": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 12,
+                "yards": 79,
+                "touchdowns": 0,
+                "yards_per_target": 3.0
+            }
+        },
+        "T.Higgins": {
+            "COVER_1": {
+                "targets": 45,
+                "receptions": 25,
+                "yards": 338,
+                "touchdowns": 4,
+                "yards_per_target": 7.5
+            }
+        },
+        "T.Hill": {
+            "COVER_1": {
+                "targets": 57,
+                "receptions": 34,
+                "yards": 405,
+                "touchdowns": 2,
+                "yards_per_target": 7.1
+            },
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 21,
+                "yards": 217,
+                "touchdowns": 1,
+                "yards_per_target": 9.0
+            },
+            "COVER_3": {
+                "targets": 34,
+                "receptions": 25,
+                "yards": 318,
+                "touchdowns": 1,
+                "yards_per_target": 9.4
+            }
+        },
+        "T.Hockenson": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 17,
+                "yards": 219,
+                "touchdowns": 1,
+                "yards_per_target": 10.4
+            }
+        },
+        "T.Johnson": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 9,
+                "yards": 103,
+                "touchdowns": 0,
+                "yards_per_target": 4.5
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 16,
+                "yards": 166,
+                "touchdowns": 0,
+                "yards_per_target": 8.3
+            }
+        },
+        "T.Kelce": {
+            "COVER_1": {
+                "targets": 44,
+                "receptions": 32,
+                "yards": 389,
+                "touchdowns": 0,
+                "yards_per_target": 8.8
+            },
+            "COVER_2": {
+                "targets": 32,
+                "receptions": 22,
+                "yards": 167,
+                "touchdowns": 3,
+                "yards_per_target": 5.2
+            },
+            "COVER_3": {
+                "targets": 31,
+                "receptions": 24,
+                "yards": 188,
+                "touchdowns": 0,
+                "yards_per_target": 6.1
+            },
+            "COVER_4": {
+                "targets": 26,
+                "receptions": 19,
+                "yards": 153,
+                "touchdowns": 1,
+                "yards_per_target": 5.9
+            }
+        },
+        "T.Kraft": {
+            "COVER_1": {
+                "targets": 31,
+                "receptions": 23,
+                "yards": 359,
+                "touchdowns": 3,
+                "yards_per_target": 11.6
+            }
+        },
+        "T.Lockett": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 19,
+                "yards": 235,
+                "touchdowns": 2,
+                "yards_per_target": 8.7
+            }
+        },
+        "T.McBride": {
+            "COVER_1": {
+                "targets": 49,
+                "receptions": 37,
+                "yards": 370,
+                "touchdowns": 1,
+                "yards_per_target": 7.6
+            },
+            "COVER_2": {
+                "targets": 27,
+                "receptions": 22,
+                "yards": 217,
+                "touchdowns": 0,
+                "yards_per_target": 8.0
+            },
+            "COVER_3": {
+                "targets": 31,
+                "receptions": 24,
+                "yards": 279,
+                "touchdowns": 0,
+                "yards_per_target": 9.0
+            }
+        },
+        "T.McLaurin": {
+            "COVER_1": {
+                "targets": 61,
+                "receptions": 40,
+                "yards": 527,
+                "touchdowns": 5,
+                "yards_per_target": 8.6
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 17,
+                "yards": 184,
+                "touchdowns": 3,
+                "yards_per_target": 8.4
+            },
+            "COVER_3": {
+                "targets": 28,
+                "receptions": 19,
+                "yards": 357,
+                "touchdowns": 2,
+                "yards_per_target": 12.8
+            }
+        },
+        "T.Tucker": {
+            "COVER_1": {
+                "targets": 34,
+                "receptions": 18,
+                "yards": 243,
+                "touchdowns": 1,
+                "yards_per_target": 7.1
+            }
+        },
+        "W.Dissly": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 17,
+                "yards": 157,
+                "touchdowns": 0,
+                "yards_per_target": 6.8
+            }
+        },
+        "W.Robinson": {
+            "COVER_1": {
+                "targets": 55,
+                "receptions": 34,
+                "yards": 258,
+                "touchdowns": 1,
+                "yards_per_target": 4.7
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 12,
+                "yards": 56,
+                "touchdowns": 0,
+                "yards_per_target": 2.5
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 23,
+                "yards": 225,
+                "touchdowns": 0,
+                "yards_per_target": 7.8
+            }
+        },
+        "X.Legette": {
+            "COVER_1": {
+                "targets": 41,
+                "receptions": 23,
+                "yards": 251,
+                "touchdowns": 2,
+                "yards_per_target": 6.1
+            }
+        },
+        "X.Worthy": {
+            "COVER_1": {
+                "targets": 60,
+                "receptions": 36,
+                "yards": 451,
+                "touchdowns": 4,
+                "yards_per_target": 7.5
+            }
+        },
+        "Z.Ertz": {
+            "COVER_1": {
+                "targets": 46,
+                "receptions": 25,
+                "yards": 328,
+                "touchdowns": 3,
+                "yards_per_target": 7.1
+            }
+        },
+        "Z.Flowers": {
+            "COVER_1": {
+                "targets": 47,
+                "receptions": 28,
+                "yards": 442,
+                "touchdowns": 1,
+                "yards_per_target": 9.4
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 23,
+                "yards": 354,
+                "touchdowns": 1,
+                "yards_per_target": 12.2
+            }
+        }
+    },
+    "2025": {
+        "A.Brown": {
+            "COVER_1": {
+                "targets": 36,
+                "receptions": 22,
+                "yards": 326,
+                "touchdowns": 3,
+                "yards_per_target": 9.1
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 128,
+                "touchdowns": 0,
+                "yards_per_target": 6.4
+            },
+            "COVER_3": {
+                "targets": 33,
+                "receptions": 25,
+                "yards": 298,
+                "touchdowns": 2,
+                "yards_per_target": 9.0
+            }
+        },
+        "A.Jeanty": {
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 19,
+                "yards": 67,
+                "touchdowns": 0,
+                "yards_per_target": 2.9
+            },
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 131,
+                "touchdowns": 1,
+                "yards_per_target": 6.6
+            }
+        },
+        "A.Mitchell": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 6,
+                "yards": 74,
+                "touchdowns": 0,
+                "yards_per_target": 3.7
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 8,
+                "yards": 112,
+                "touchdowns": 1,
+                "yards_per_target": 5.3
+            },
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 12,
+                "yards": 184,
+                "touchdowns": 1,
+                "yards_per_target": 8.4
+            }
+        },
+        "A.Pierce": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 13,
+                "yards": 266,
+                "touchdowns": 1,
+                "yards_per_target": 9.9
+            },
+            "COVER_3": {
+                "targets": 26,
+                "receptions": 15,
+                "yards": 308,
+                "touchdowns": 1,
+                "yards_per_target": 11.8
+            }
+        },
+        "A.St. Brown": {
+            "COVER_1": {
+                "targets": 38,
+                "receptions": 25,
+                "yards": 260,
+                "touchdowns": 4,
+                "yards_per_target": 6.8
+            },
+            "COVER_2": {
+                "targets": 41,
+                "receptions": 34,
+                "yards": 377,
+                "touchdowns": 2,
+                "yards_per_target": 9.2
+            },
+            "COVER_3": {
+                "targets": 53,
+                "receptions": 33,
+                "yards": 453,
+                "touchdowns": 1,
+                "yards_per_target": 8.5
+            }
+        },
+        "B.Bowers": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 16,
+                "yards": 223,
+                "touchdowns": 3,
+                "yards_per_target": 8.3
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 100,
+                "touchdowns": 1,
+                "yards_per_target": 5.0
+            }
+        },
+        "B.Robinson": {
+            "COVER_2": {
+                "targets": 32,
+                "receptions": 23,
+                "yards": 207,
+                "touchdowns": 1,
+                "yards_per_target": 6.5
+            },
+            "COVER_3": {
+                "targets": 37,
+                "receptions": 31,
+                "yards": 286,
+                "touchdowns": 2,
+                "yards_per_target": 7.7
+            }
+        },
+        "B.Strange": {
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 15,
+                "yards": 174,
+                "touchdowns": 0,
+                "yards_per_target": 8.3
+            }
+        },
+        "B.Thomas": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 9,
+                "yards": 170,
+                "touchdowns": 0,
+                "yards_per_target": 7.7
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 10,
+                "yards": 120,
+                "touchdowns": 0,
+                "yards_per_target": 6.0
+            },
+            "COVER_3": {
+                "targets": 33,
+                "receptions": 20,
+                "yards": 241,
+                "touchdowns": 1,
+                "yards_per_target": 7.3
+            }
+        },
+        "C.Austin": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 11,
+                "yards": 137,
+                "touchdowns": 2,
+                "yards_per_target": 6.0
+            }
+        },
+        "C.Brown": {
+            "COVER_2": {
+                "targets": 40,
+                "receptions": 31,
+                "yards": 186,
+                "touchdowns": 0,
+                "yards_per_target": 4.6
+            }
+        },
+        "C.Dike": {
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 14,
+                "yards": 132,
+                "touchdowns": 0,
+                "yards_per_target": 6.0
+            }
+        },
+        "C.Godwin": {
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 15,
+                "yards": 176,
+                "touchdowns": 1,
+                "yards_per_target": 8.4
+            }
+        },
+        "C.Kmet": {
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 13,
+                "yards": 165,
+                "touchdowns": 1,
+                "yards_per_target": 6.9
+            }
+        },
+        "C.Kupp": {
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 20,
+                "yards": 304,
+                "touchdowns": 0,
+                "yards_per_target": 11.3
+            }
+        },
+        "C.Lamb": {
+            "COVER_1": {
+                "targets": 35,
+                "receptions": 23,
+                "yards": 413,
+                "touchdowns": 0,
+                "yards_per_target": 11.8
+            },
+            "COVER_2": {
+                "targets": 26,
+                "receptions": 21,
+                "yards": 235,
+                "touchdowns": 0,
+                "yards_per_target": 9.0
+            },
+            "COVER_4": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 131,
+                "touchdowns": 1,
+                "yards_per_target": 6.6
+            }
+        },
+        "C.Loveland": {
+            "COVER_2": {
+                "targets": 30,
+                "receptions": 21,
+                "yards": 299,
+                "touchdowns": 1,
+                "yards_per_target": 10.0
+            },
+            "COVER_3": {
+                "targets": 45,
+                "receptions": 27,
+                "yards": 374,
+                "touchdowns": 3,
+                "yards_per_target": 8.3
+            }
+        },
+        "C.McCaffrey": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 18,
+                "yards": 144,
+                "touchdowns": 4,
+                "yards_per_target": 6.0
+            },
+            "COVER_2": {
+                "targets": 41,
+                "receptions": 31,
+                "yards": 219,
+                "touchdowns": 1,
+                "yards_per_target": 5.3
+            },
+            "COVER_3": {
+                "targets": 34,
+                "receptions": 27,
+                "yards": 330,
+                "touchdowns": 1,
+                "yards_per_target": 9.7
+            }
+        },
+        "C.Okonkwo": {
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 151,
+                "touchdowns": 0,
+                "yards_per_target": 7.6
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 17,
+                "yards": 189,
+                "touchdowns": 1,
+                "yards_per_target": 7.9
+            }
+        },
+        "C.Olave": {
+            "COVER_1": {
+                "targets": 32,
+                "receptions": 19,
+                "yards": 193,
+                "touchdowns": 3,
+                "yards_per_target": 6.0
+            },
+            "COVER_2": {
+                "targets": 37,
+                "receptions": 24,
+                "yards": 334,
+                "touchdowns": 3,
+                "yards_per_target": 9.0
+            },
+            "COVER_3": {
+                "targets": 44,
+                "receptions": 28,
+                "yards": 286,
+                "touchdowns": 1,
+                "yards_per_target": 6.5
+            }
+        },
+        "C.Otton": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 11,
+                "yards": 92,
+                "touchdowns": 0,
+                "yards_per_target": 4.4
+            },
+            "COVER_2": {
+                "targets": 27,
+                "receptions": 23,
+                "yards": 219,
+                "touchdowns": 0,
+                "yards_per_target": 8.1
+            }
+        },
+        "C.Sutton": {
+            "COVER_1": {
+                "targets": 38,
+                "receptions": 21,
+                "yards": 312,
+                "touchdowns": 2,
+                "yards_per_target": 8.2
+            },
+            "COVER_2": {
+                "targets": 31,
+                "receptions": 22,
+                "yards": 297,
+                "touchdowns": 4,
+                "yards_per_target": 9.6
+            },
+            "COVER_3": {
+                "targets": 42,
+                "receptions": 23,
+                "yards": 348,
+                "touchdowns": 1,
+                "yards_per_target": 8.3
+            }
+        },
+        "D.Achane": {
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 21,
+                "yards": 162,
+                "touchdowns": 0,
+                "yards_per_target": 7.0
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 22,
+                "yards": 135,
+                "touchdowns": 0,
+                "yards_per_target": 5.0
+            }
+        },
+        "D.Adams": {
+            "COVER_1": {
+                "targets": 44,
+                "receptions": 21,
+                "yards": 316,
+                "touchdowns": 3,
+                "yards_per_target": 7.2
+            },
+            "COVER_3": {
+                "targets": 36,
+                "receptions": 23,
+                "yards": 294,
+                "touchdowns": 2,
+                "yards_per_target": 8.2
+            }
+        },
+        "D.Goedert": {
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 19,
+                "yards": 243,
+                "touchdowns": 1,
+                "yards_per_target": 10.6
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 22,
+                "yards": 200,
+                "touchdowns": 3,
+                "yards_per_target": 6.9
+            }
+        },
+        "D.London": {
+            "COVER_1": {
+                "targets": 32,
+                "receptions": 12,
+                "yards": 221,
+                "touchdowns": 0,
+                "yards_per_target": 6.9
+            },
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 21,
+                "yards": 248,
+                "touchdowns": 2,
+                "yards_per_target": 10.3
+            },
+            "COVER_3": {
+                "targets": 28,
+                "receptions": 18,
+                "yards": 277,
+                "touchdowns": 1,
+                "yards_per_target": 9.9
+            }
+        },
+        "D.Metcalf": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 9,
+                "yards": 178,
+                "touchdowns": 3,
+                "yards_per_target": 8.9
+            },
+            "COVER_2": {
+                "targets": 26,
+                "receptions": 20,
+                "yards": 268,
+                "touchdowns": 1,
+                "yards_per_target": 10.3
+            },
+            "COVER_3": {
+                "targets": 37,
+                "receptions": 25,
+                "yards": 289,
+                "touchdowns": 1,
+                "yards_per_target": 7.8
+            }
+        },
+        "D.Mooney": {
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 10,
+                "yards": 115,
+                "touchdowns": 0,
+                "yards_per_target": 5.8
+            }
+        },
+        "D.Moore": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 15,
+                "yards": 166,
+                "touchdowns": 1,
+                "yards_per_target": 6.9
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 10,
+                "yards": 94,
+                "touchdowns": 0,
+                "yards_per_target": 4.7
+            },
+            "COVER_3": {
+                "targets": 28,
+                "receptions": 18,
+                "yards": 234,
+                "touchdowns": 1,
+                "yards_per_target": 8.4
+            }
+        },
+        "D.Samuel": {
+            "COVER_1": {
+                "targets": 28,
+                "receptions": 16,
+                "yards": 219,
+                "touchdowns": 1,
+                "yards_per_target": 7.8
+            },
+            "COVER_3": {
+                "targets": 23,
+                "receptions": 17,
+                "yards": 160,
+                "touchdowns": 0,
+                "yards_per_target": 7.0
+            }
+        },
+        "D.Schultz": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 16,
+                "yards": 164,
+                "touchdowns": 1,
+                "yards_per_target": 7.5
+            },
+            "COVER_2": {
+                "targets": 40,
+                "receptions": 33,
+                "yards": 254,
+                "touchdowns": 0,
+                "yards_per_target": 6.4
+            },
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 17,
+                "yards": 157,
+                "touchdowns": 1,
+                "yards_per_target": 7.5
+            }
+        },
+        "D.Slayton": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 7,
+                "yards": 144,
+                "touchdowns": 0,
+                "yards_per_target": 6.5
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 18,
+                "yards": 262,
+                "touchdowns": 1,
+                "yards_per_target": 10.9
+            }
+        },
+        "D.Smith": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 15,
+                "yards": 142,
+                "touchdowns": 1,
+                "yards_per_target": 5.3
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 17,
+                "yards": 200,
+                "touchdowns": 1,
+                "yards_per_target": 10.0
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 21,
+                "yards": 443,
+                "touchdowns": 1,
+                "yards_per_target": 15.3
+            },
+            "COVER_4": {
+                "targets": 22,
+                "receptions": 15,
+                "yards": 144,
+                "touchdowns": 0,
+                "yards_per_target": 6.5
+            }
+        },
+        "E.Ayomanor": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 12,
+                "yards": 143,
+                "touchdowns": 1,
+                "yards_per_target": 6.2
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 13,
+                "yards": 134,
+                "touchdowns": 1,
+                "yards_per_target": 6.1
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 9,
+                "yards": 133,
+                "touchdowns": 1,
+                "yards_per_target": 5.5
+            }
+        },
+        "E.Egbuka": {
+            "COVER_1": {
+                "targets": 34,
+                "receptions": 16,
+                "yards": 235,
+                "touchdowns": 2,
+                "yards_per_target": 6.9
+            },
+            "COVER_2": {
+                "targets": 25,
+                "receptions": 15,
+                "yards": 216,
+                "touchdowns": 3,
+                "yards_per_target": 8.6
+            },
+            "COVER_3": {
+                "targets": 36,
+                "receptions": 18,
+                "yards": 230,
+                "touchdowns": 0,
+                "yards_per_target": 6.4
+            }
+        },
+        "E.Engram": {
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 18,
+                "yards": 147,
+                "touchdowns": 0,
+                "yards_per_target": 6.7
+            }
+        },
+        "G.Dulcich": {
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 13,
+                "yards": 155,
+                "touchdowns": 0,
+                "yards_per_target": 7.8
+            }
+        },
+        "G.Kittle": {
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 20,
+                "yards": 222,
+                "touchdowns": 1,
+                "yards_per_target": 9.2
+            }
+        },
+        "G.Pickens": {
+            "COVER_1": {
+                "targets": 32,
+                "receptions": 23,
+                "yards": 461,
+                "touchdowns": 3,
+                "yards_per_target": 14.4
+            },
+            "COVER_2": {
+                "targets": 29,
+                "receptions": 17,
+                "yards": 217,
+                "touchdowns": 0,
+                "yards_per_target": 7.5
+            },
+            "COVER_3": {
+                "targets": 30,
+                "receptions": 23,
+                "yards": 346,
+                "touchdowns": 3,
+                "yards_per_target": 11.5
+            }
+        },
+        "H.Fannin": {
+            "COVER_1": {
+                "targets": 28,
+                "receptions": 19,
+                "yards": 233,
+                "touchdowns": 0,
+                "yards_per_target": 8.3
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 14,
+                "yards": 102,
+                "touchdowns": 0,
+                "yards_per_target": 4.6
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 20,
+                "yards": 205,
+                "touchdowns": 3,
+                "yards_per_target": 7.1
+            }
+        },
+        "H.Henry": {
+            "COVER_1": {
+                "targets": 28,
+                "receptions": 19,
+                "yards": 248,
+                "touchdowns": 3,
+                "yards_per_target": 8.9
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 13,
+                "yards": 177,
+                "touchdowns": 1,
+                "yards_per_target": 8.8
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 22,
+                "yards": 311,
+                "touchdowns": 2,
+                "yards_per_target": 11.5
+            }
+        },
+        "J.Addison": {
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 13,
+                "yards": 186,
+                "touchdowns": 1,
+                "yards_per_target": 8.9
+            },
+            "COVER_3": {
+                "targets": 25,
+                "receptions": 13,
+                "yards": 261,
+                "touchdowns": 0,
+                "yards_per_target": 10.4
+            }
+        },
+        "J.Chase": {
+            "COVER_1": {
+                "targets": 42,
+                "receptions": 25,
+                "yards": 277,
+                "touchdowns": 2,
+                "yards_per_target": 6.6
+            },
+            "COVER_2": {
+                "targets": 40,
+                "receptions": 32,
+                "yards": 364,
+                "touchdowns": 0,
+                "yards_per_target": 9.1
+            },
+            "COVER_3": {
+                "targets": 59,
+                "receptions": 39,
+                "yards": 487,
+                "touchdowns": 3,
+                "yards_per_target": 8.3
+            }
+        },
+        "J.Downs": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 12,
+                "yards": 151,
+                "touchdowns": 1,
+                "yards_per_target": 7.2
+            },
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 15,
+                "yards": 125,
+                "touchdowns": 0,
+                "yards_per_target": 5.7
+            }
+        },
+        "J.Ferguson": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 16,
+                "yards": 92,
+                "touchdowns": 2,
+                "yards_per_target": 4.4
+            },
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 19,
+                "yards": 155,
+                "touchdowns": 0,
+                "yards_per_target": 6.5
+            },
+            "COVER_3": {
+                "targets": 25,
+                "receptions": 21,
+                "yards": 128,
+                "touchdowns": 3,
+                "yards_per_target": 5.1
+            }
+        },
+        "J.Gibbs": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 16,
+                "yards": 130,
+                "touchdowns": 3,
+                "yards_per_target": 6.5
+            },
+            "COVER_2": {
+                "targets": 29,
+                "receptions": 23,
+                "yards": 208,
+                "touchdowns": 1,
+                "yards_per_target": 7.2
+            },
+            "COVER_3": {
+                "targets": 26,
+                "receptions": 24,
+                "yards": 167,
+                "touchdowns": 1,
+                "yards_per_target": 6.4
+            }
+        },
+        "J.Higgins": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 10,
+                "yards": 121,
+                "touchdowns": 2,
+                "yards_per_target": 5.5
+            },
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 15,
+                "yards": 159,
+                "touchdowns": 0,
+                "yards_per_target": 7.2
+            }
+        },
+        "J.Jefferson": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 12,
+                "yards": 140,
+                "touchdowns": 2,
+                "yards_per_target": 4.7
+            },
+            "COVER_2": {
+                "targets": 33,
+                "receptions": 21,
+                "yards": 322,
+                "touchdowns": 0,
+                "yards_per_target": 9.8
+            },
+            "COVER_3": {
+                "targets": 48,
+                "receptions": 38,
+                "yards": 474,
+                "touchdowns": 0,
+                "yards_per_target": 9.9
+            }
+        },
+        "J.Jennings": {
+            "COVER_1": {
+                "targets": 25,
+                "receptions": 14,
+                "yards": 168,
+                "touchdowns": 1,
+                "yards_per_target": 6.7
+            },
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 17,
+                "yards": 230,
+                "touchdowns": 5,
+                "yards_per_target": 9.6
+            },
+            "COVER_3": {
+                "targets": 23,
+                "receptions": 12,
+                "yards": 164,
+                "touchdowns": 1,
+                "yards_per_target": 7.1
+            }
+        },
+        "J.Jeudy": {
+            "COVER_1": {
+                "targets": 33,
+                "receptions": 15,
+                "yards": 170,
+                "touchdowns": 0,
+                "yards_per_target": 5.2
+            },
+            "COVER_3": {
+                "targets": 32,
+                "receptions": 14,
+                "yards": 204,
+                "touchdowns": 2,
+                "yards_per_target": 6.4
+            }
+        },
+        "J.Johnson": {
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 19,
+                "yards": 223,
+                "touchdowns": 0,
+                "yards_per_target": 9.7
+            },
+            "COVER_3": {
+                "targets": 31,
+                "receptions": 25,
+                "yards": 285,
+                "touchdowns": 1,
+                "yards_per_target": 9.2
+            }
+        },
+        "J.Meyers": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 19,
+                "yards": 216,
+                "touchdowns": 0,
+                "yards_per_target": 7.2
+            },
+            "COVER_2": {
+                "targets": 31,
+                "receptions": 19,
+                "yards": 201,
+                "touchdowns": 1,
+                "yards_per_target": 6.5
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 20,
+                "yards": 254,
+                "touchdowns": 1,
+                "yards_per_target": 9.4
+            }
+        },
+        "J.Nailor": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 11,
+                "yards": 209,
+                "touchdowns": 2,
+                "yards_per_target": 10.4
+            }
+        },
+        "J.Smith": {
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 82,
+                "touchdowns": 0,
+                "yards_per_target": 4.1
+            }
+        },
+        "J.Smith-Njigba": {
+            "COVER_1": {
+                "targets": 36,
+                "receptions": 25,
+                "yards": 426,
+                "touchdowns": 3,
+                "yards_per_target": 11.8
+            },
+            "COVER_2": {
+                "targets": 33,
+                "receptions": 27,
+                "yards": 298,
+                "touchdowns": 0,
+                "yards_per_target": 9.0
+            },
+            "COVER_3": {
+                "targets": 58,
+                "receptions": 41,
+                "yards": 619,
+                "touchdowns": 3,
+                "yards_per_target": 10.7
+            },
+            "COVER_4": {
+                "targets": 30,
+                "receptions": 18,
+                "yards": 254,
+                "touchdowns": 4,
+                "yards_per_target": 8.5
+            }
+        },
+        "J.Waddle": {
+            "COVER_2": {
+                "targets": 26,
+                "receptions": 14,
+                "yards": 143,
+                "touchdowns": 0,
+                "yards_per_target": 5.5
+            },
+            "COVER_3": {
+                "targets": 34,
+                "receptions": 22,
+                "yards": 432,
+                "touchdowns": 2,
+                "yards_per_target": 12.7
+            }
+        },
+        "J.Warren": {
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 17,
+                "yards": 152,
+                "touchdowns": 0,
+                "yards_per_target": 7.2
+            }
+        },
+        "J.Williams": {
+            "COVER_1": {
+                "targets": 38,
+                "receptions": 24,
+                "yards": 423,
+                "touchdowns": 4,
+                "yards_per_target": 11.1
+            },
+            "COVER_2": {
+                "targets": 31,
+                "receptions": 24,
+                "yards": 212,
+                "touchdowns": 0,
+                "yards_per_target": 6.8
+            },
+            "COVER_3": {
+                "targets": 47,
+                "receptions": 31,
+                "yards": 299,
+                "touchdowns": 3,
+                "yards_per_target": 6.4
+            }
+        },
+        "K.Allen": {
+            "COVER_1": {
+                "targets": 41,
+                "receptions": 25,
+                "yards": 200,
+                "touchdowns": 0,
+                "yards_per_target": 4.9
+            },
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 17,
+                "yards": 166,
+                "touchdowns": 1,
+                "yards_per_target": 6.9
+            },
+            "COVER_3": {
+                "targets": 31,
+                "receptions": 22,
+                "yards": 227,
+                "touchdowns": 1,
+                "yards_per_target": 7.3
+            }
+        },
+        "K.Coleman": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 15,
+                "yards": 117,
+                "touchdowns": 1,
+                "yards_per_target": 4.5
+            }
+        },
+        "K.Gainwell": {
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 22,
+                "yards": 137,
+                "touchdowns": 0,
+                "yards_per_target": 6.0
+            }
+        },
+        "K.Pitts": {
+            "COVER_1": {
+                "targets": 34,
+                "receptions": 24,
+                "yards": 303,
+                "touchdowns": 3,
+                "yards_per_target": 8.9
+            },
+            "COVER_2": {
+                "targets": 29,
+                "receptions": 23,
+                "yards": 253,
+                "touchdowns": 0,
+                "yards_per_target": 8.7
+            },
+            "COVER_3": {
+                "targets": 28,
+                "receptions": 20,
+                "yards": 187,
+                "touchdowns": 1,
+                "yards_per_target": 6.7
+            }
+        },
+        "K.Shakir": {
+            "COVER_1": {
+                "targets": 33,
+                "receptions": 22,
+                "yards": 164,
+                "touchdowns": 1,
+                "yards_per_target": 5.0
+            },
+            "COVER_2": {
+                "targets": 26,
+                "receptions": 19,
+                "yards": 171,
+                "touchdowns": 1,
+                "yards_per_target": 6.6
+            },
+            "COVER_3": {
+                "targets": 30,
+                "receptions": 24,
+                "yards": 213,
+                "touchdowns": 0,
+                "yards_per_target": 7.1
+            }
+        },
+        "K.Williams": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 12,
+                "yards": 178,
+                "touchdowns": 3,
+                "yards_per_target": 7.7
+            }
+        },
+        "L.Burden": {
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 21,
+                "yards": 321,
+                "touchdowns": 1,
+                "yards_per_target": 11.9
+            }
+        },
+        "L.McConkey": {
+            "COVER_1": {
+                "targets": 37,
+                "receptions": 20,
+                "yards": 286,
+                "touchdowns": 0,
+                "yards_per_target": 7.7
+            },
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 16,
+                "yards": 131,
+                "touchdowns": 0,
+                "yards_per_target": 6.6
+            },
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 139,
+                "touchdowns": 2,
+                "yards_per_target": 7.0
+            }
+        },
+        "M.Andrews": {
+            "COVER_1": {
+                "targets": 25,
+                "receptions": 17,
+                "yards": 185,
+                "touchdowns": 1,
+                "yards_per_target": 7.4
+            }
+        },
+        "M.Brown": {
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 185,
+                "touchdowns": 1,
+                "yards_per_target": 9.2
+            }
+        },
+        "M.Evans": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 12,
+                "yards": 106,
+                "touchdowns": 3,
+                "yards_per_target": 5.3
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 17,
+                "yards": 191,
+                "touchdowns": 0,
+                "yards_per_target": 7.1
+            }
+        },
+        "M.Harrison": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 10,
+                "yards": 119,
+                "touchdowns": 1,
+                "yards_per_target": 6.0
+            },
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 14,
+                "yards": 288,
+                "touchdowns": 0,
+                "yards_per_target": 13.7
+            }
+        },
+        "M.Hollins": {
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 17,
+                "yards": 244,
+                "touchdowns": 0,
+                "yards_per_target": 11.6
+            }
+        },
+        "M.Mims": {
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 18,
+                "yards": 95,
+                "touchdowns": 0,
+                "yards_per_target": 4.3
+            }
+        },
+        "M.Pittman": {
+            "COVER_1": {
+                "targets": 25,
+                "receptions": 17,
+                "yards": 138,
+                "touchdowns": 1,
+                "yards_per_target": 5.5
+            },
+            "COVER_2": {
+                "targets": 33,
+                "receptions": 24,
+                "yards": 256,
+                "touchdowns": 2,
+                "yards_per_target": 7.8
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 20,
+                "yards": 191,
+                "touchdowns": 2,
+                "yards_per_target": 6.6
+            }
+        },
+        "M.Taylor": {
+            "COVER_3": {
+                "targets": 22,
+                "receptions": 17,
+                "yards": 170,
+                "touchdowns": 0,
+                "yards_per_target": 7.7
+            }
+        },
+        "M.Washington": {
+            "COVER_2": {
+                "targets": 24,
+                "receptions": 17,
+                "yards": 116,
+                "touchdowns": 0,
+                "yards_per_target": 4.8
+            },
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 14,
+                "yards": 83,
+                "touchdowns": 1,
+                "yards_per_target": 4.2
+            }
+        },
+        "M.Wilson": {
+            "COVER_1": {
+                "targets": 20,
+                "receptions": 11,
+                "yards": 143,
+                "touchdowns": 1,
+                "yards_per_target": 7.2
+            }
+        },
+        "N.Collins": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 16,
+                "yards": 286,
+                "touchdowns": 2,
+                "yards_per_target": 10.6
+            },
+            "COVER_2": {
+                "targets": 25,
+                "receptions": 15,
+                "yards": 151,
+                "touchdowns": 0,
+                "yards_per_target": 6.0
+            },
+            "COVER_3": {
+                "targets": 38,
+                "receptions": 25,
+                "yards": 383,
+                "touchdowns": 2,
+                "yards_per_target": 10.1
+            }
+        },
+        "O.Gadsden": {
+            "COVER_3": {
+                "targets": 23,
+                "receptions": 18,
+                "yards": 216,
+                "touchdowns": 0,
+                "yards_per_target": 9.4
+            }
+        },
+        "P.Bryant": {
+            "COVER_2": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 141,
+                "touchdowns": 1,
+                "yards_per_target": 7.0
+            }
+        },
+        "P.Nacua": {
+            "COVER_1": {
+                "targets": 50,
+                "receptions": 37,
+                "yards": 473,
+                "touchdowns": 1,
+                "yards_per_target": 9.5
+            },
+            "COVER_2": {
+                "targets": 46,
+                "receptions": 30,
+                "yards": 435,
+                "touchdowns": 1,
+                "yards_per_target": 9.5
+            },
+            "COVER_3": {
+                "targets": 52,
+                "receptions": 44,
+                "yards": 590,
+                "touchdowns": 2,
+                "yards_per_target": 11.3
+            },
+            "COVER_4": {
+                "targets": 23,
+                "receptions": 15,
+                "yards": 222,
+                "touchdowns": 3,
+                "yards_per_target": 9.7
+            }
+        },
+        "P.Washington": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 12,
+                "yards": 158,
+                "touchdowns": 2,
+                "yards_per_target": 6.1
+            },
+            "COVER_2": {
+                "targets": 28,
+                "receptions": 20,
+                "yards": 323,
+                "touchdowns": 2,
+                "yards_per_target": 11.5
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 16,
+                "yards": 231,
+                "touchdowns": 1,
+                "yards_per_target": 8.6
+            }
+        },
+        "Q.Johnston": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 16,
+                "yards": 228,
+                "touchdowns": 3,
+                "yards_per_target": 8.8
+            },
+            "COVER_3": {
+                "targets": 27,
+                "receptions": 17,
+                "yards": 261,
+                "touchdowns": 1,
+                "yards_per_target": 9.7
+            }
+        },
+        "R.Doubs": {
+            "COVER_1": {
+                "targets": 27,
+                "receptions": 17,
+                "yards": 272,
+                "touchdowns": 3,
+                "yards_per_target": 10.1
+            },
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 12,
+                "yards": 213,
+                "touchdowns": 1,
+                "yards_per_target": 10.1
+            }
+        },
+        "R.Harvey": {
+            "COVER_2": {
+                "targets": 23,
+                "receptions": 18,
+                "yards": 133,
+                "touchdowns": 0,
+                "yards_per_target": 5.8
+            }
+        },
+        "R.Odunze": {
+            "COVER_1": {
+                "targets": 35,
+                "receptions": 19,
+                "yards": 251,
+                "touchdowns": 2,
+                "yards_per_target": 7.2
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 8,
+                "yards": 149,
+                "touchdowns": 0,
+                "yards_per_target": 7.1
+            },
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 11,
+                "yards": 158,
+                "touchdowns": 4,
+                "yards_per_target": 6.6
+            }
+        },
+        "R.Rice": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 11,
+                "yards": 69,
+                "touchdowns": 2,
+                "yards_per_target": 3.3
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 15,
+                "yards": 195,
+                "touchdowns": 0,
+                "yards_per_target": 8.9
+            }
+        },
+        "R.Shaheed": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 13,
+                "yards": 152,
+                "touchdowns": 0,
+                "yards_per_target": 7.2
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 13,
+                "yards": 216,
+                "touchdowns": 1,
+                "yards_per_target": 9.8
+            },
+            "COVER_3": {
+                "targets": 29,
+                "receptions": 18,
+                "yards": 172,
+                "touchdowns": 0,
+                "yards_per_target": 5.9
+            }
+        },
+        "S.Diggs": {
+            "COVER_1": {
+                "targets": 28,
+                "receptions": 21,
+                "yards": 264,
+                "touchdowns": 3,
+                "yards_per_target": 9.4
+            },
+            "COVER_2": {
+                "targets": 35,
+                "receptions": 28,
+                "yards": 315,
+                "touchdowns": 0,
+                "yards_per_target": 9.0
+            },
+            "COVER_3": {
+                "targets": 31,
+                "receptions": 27,
+                "yards": 289,
+                "touchdowns": 1,
+                "yards_per_target": 9.3
+            }
+        },
+        "T.Franklin": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 15,
+                "yards": 149,
+                "touchdowns": 3,
+                "yards_per_target": 5.7
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 11,
+                "yards": 82,
+                "touchdowns": 1,
+                "yards_per_target": 3.9
+            },
+            "COVER_3": {
+                "targets": 32,
+                "receptions": 22,
+                "yards": 290,
+                "touchdowns": 1,
+                "yards_per_target": 9.1
+            }
+        },
+        "T.Higgins": {
+            "COVER_1": {
+                "targets": 29,
+                "receptions": 18,
+                "yards": 273,
+                "touchdowns": 5,
+                "yards_per_target": 9.4
+            },
+            "COVER_2": {
+                "targets": 21,
+                "receptions": 15,
+                "yards": 168,
+                "touchdowns": 0,
+                "yards_per_target": 8.0
+            }
+        },
+        "T.Hockenson": {
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 16,
+                "yards": 155,
+                "touchdowns": 1,
+                "yards_per_target": 7.0
+            }
+        },
+        "T.Johnson": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 16,
+                "yards": 219,
+                "touchdowns": 1,
+                "yards_per_target": 8.4
+            },
+            "COVER_2": {
+                "targets": 40,
+                "receptions": 29,
+                "yards": 302,
+                "touchdowns": 1,
+                "yards_per_target": 7.6
+            },
+            "COVER_3": {
+                "targets": 33,
+                "receptions": 23,
+                "yards": 360,
+                "touchdowns": 4,
+                "yards_per_target": 10.9
+            }
+        },
+        "T.Kelce": {
+            "COVER_1": {
+                "targets": 26,
+                "receptions": 16,
+                "yards": 198,
+                "touchdowns": 1,
+                "yards_per_target": 7.6
+            },
+            "COVER_2": {
+                "targets": 25,
+                "receptions": 19,
+                "yards": 206,
+                "touchdowns": 1,
+                "yards_per_target": 8.2
+            },
+            "COVER_3": {
+                "targets": 26,
+                "receptions": 18,
+                "yards": 231,
+                "touchdowns": 1,
+                "yards_per_target": 8.9
+            }
+        },
+        "T.Kraft": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 18,
+                "yards": 298,
+                "touchdowns": 4,
+                "yards_per_target": 12.4
+            }
+        },
+        "T.Lockett": {
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 15,
+                "yards": 101,
+                "touchdowns": 0,
+                "yards_per_target": 5.0
+            }
+        },
+        "T.McBride": {
+            "COVER_1": {
+                "targets": 32,
+                "receptions": 22,
+                "yards": 210,
+                "touchdowns": 3,
+                "yards_per_target": 6.6
+            },
+            "COVER_2": {
+                "targets": 43,
+                "receptions": 33,
+                "yards": 307,
+                "touchdowns": 1,
+                "yards_per_target": 7.1
+            },
+            "COVER_3": {
+                "targets": 54,
+                "receptions": 40,
+                "yards": 433,
+                "touchdowns": 1,
+                "yards_per_target": 8.0
+            }
+        },
+        "T.McLaurin": {
+            "COVER_3": {
+                "targets": 20,
+                "receptions": 16,
+                "yards": 236,
+                "touchdowns": 0,
+                "yards_per_target": 11.8
+            }
+        },
+        "T.McMillan": {
+            "COVER_1": {
+                "targets": 33,
+                "receptions": 16,
+                "yards": 320,
+                "touchdowns": 1,
+                "yards_per_target": 9.7
+            },
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 18,
+                "yards": 244,
+                "touchdowns": 2,
+                "yards_per_target": 11.1
+            },
+            "COVER_3": {
+                "targets": 39,
+                "receptions": 21,
+                "yards": 284,
+                "touchdowns": 0,
+                "yards_per_target": 7.3
+            }
+        },
+        "T.Spears": {
+            "COVER_2": {
+                "targets": 22,
+                "receptions": 20,
+                "yards": 122,
+                "touchdowns": 0,
+                "yards_per_target": 5.5
+            }
+        },
+        "T.Tucker": {
+            "COVER_1": {
+                "targets": 24,
+                "receptions": 13,
+                "yards": 159,
+                "touchdowns": 0,
+                "yards_per_target": 6.6
+            },
+            "COVER_3": {
+                "targets": 28,
+                "receptions": 18,
+                "yards": 177,
+                "touchdowns": 1,
+                "yards_per_target": 6.3
+            }
+        },
+        "T.Warren": {
+            "COVER_1": {
+                "targets": 21,
+                "receptions": 14,
+                "yards": 146,
+                "touchdowns": 0,
+                "yards_per_target": 7.0
+            },
+            "COVER_2": {
+                "targets": 28,
+                "receptions": 22,
+                "yards": 175,
+                "touchdowns": 1,
+                "yards_per_target": 6.2
+            },
+            "COVER_3": {
+                "targets": 30,
+                "receptions": 22,
+                "yards": 300,
+                "touchdowns": 1,
+                "yards_per_target": 10.0
+            }
+        },
+        "W.Robinson": {
+            "COVER_1": {
+                "targets": 30,
+                "receptions": 16,
+                "yards": 204,
+                "touchdowns": 2,
+                "yards_per_target": 6.8
+            },
+            "COVER_2": {
+                "targets": 35,
+                "receptions": 21,
+                "yards": 179,
+                "touchdowns": 0,
+                "yards_per_target": 5.1
+            },
+            "COVER_3": {
+                "targets": 42,
+                "receptions": 35,
+                "yards": 435,
+                "touchdowns": 2,
+                "yards_per_target": 10.4
+            }
+        },
+        "X.Hutchinson": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 13,
+                "yards": 192,
+                "touchdowns": 2,
+                "yards_per_target": 8.7
+            }
+        },
+        "X.Legette": {
+            "COVER_1": {
+                "targets": 22,
+                "receptions": 8,
+                "yards": 102,
+                "touchdowns": 1,
+                "yards_per_target": 4.6
+            }
+        },
+        "X.Worthy": {
+            "COVER_3": {
+                "targets": 24,
+                "receptions": 16,
+                "yards": 230,
+                "touchdowns": 0,
+                "yards_per_target": 9.6
+            }
+        },
+        "Z.Ertz": {
+            "COVER_1": {
+                "targets": 23,
+                "receptions": 14,
+                "yards": 93,
+                "touchdowns": 1,
+                "yards_per_target": 4.0
+            },
+            "COVER_3": {
+                "targets": 21,
+                "receptions": 16,
+                "yards": 238,
+                "touchdowns": 1,
+                "yards_per_target": 11.3
+            }
+        },
+        "Z.Flowers": {
+            "COVER_1": {
+                "targets": 39,
+                "receptions": 25,
+                "yards": 473,
+                "touchdowns": 1,
+                "yards_per_target": 12.1
+            },
+            "COVER_2": {
+                "targets": 25,
+                "receptions": 19,
+                "yards": 285,
+                "touchdowns": 3,
+                "yards_per_target": 11.4
+            },
+            "COVER_3": {
+                "targets": 30,
+                "receptions": 21,
+                "yards": 271,
+                "touchdowns": 0,
+                "yards_per_target": 9.0
+            }
+        }
+    }
+}
